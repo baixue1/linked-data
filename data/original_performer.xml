@@ -1,0 +1,279 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix whois: <http://www.kanzaki.com/ns/whois#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix bio: <http://purl.org/vocab/bio/0.1/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix event:<http://purl.org/NET/c4dm/event.owl#>.
+@prefix mm:<http://musicbrainz.org/mm/mm-2.0#>.
+@prefix mem:<http://musicbrainz.org/mm/mem-1.0#>.
+@prefix cd:<http://www.recshop.fake/cd#>.
+@prefix originalperformer:<http://www.baixue.com/originalperformer/>.
+
+
+originalperformer:chenjingxi
+	foaf:name "陈景熹".
+
+originalperformer:guolanying
+	foaf:name "郭兰英".
+
+originalperformer:zhongguangshaonianertonghechangtuan
+	foaf:name "中广少年儿童合唱团".
+
+originalperformer:wangyuzhen
+	foaf:name "王玉珍".
+
+originalperformer:zhaoyunqin
+	foaf:name "赵云卿".
+
+originalperformer:qinwantan
+	foaf:name "秦万檀".
+
+originalperformer:yushurong
+	foaf:name "于淑荣".
+
+originalperformer:wuying
+	foaf:name "吴影".
+
+originalperformer:dengyuhua
+	foaf:name "邓玉华".
+
+originalperformer:wangqihui
+	foaf:name "王其慧".
+
+originalperformer:husonghua
+	foaf:name "胡松华".
+
+originalperformer:zhangyingzhe
+	foaf:name "张映哲".
+
+originalperformer:wanfuxiang
+	foaf:name "万馥香".
+
+originalperformer:liubinyi
+	foaf:name "刘秉义".
+
+originalperformer:zhangyuenan
+	foaf:name "张越男".
+
+originalperformer:lishuangjiang
+	foaf:name "李双江".
+
+originalperformer:liguangxi
+	foaf:name "李光羲".
+
+originalperformer:luotianchan
+	foaf:name "罗天婵".
+
+originalperformer:hubaoshan
+	foaf:name "胡宝善".
+
+originalperformer:liguyi
+	foaf:name "李谷一".
+
+originalperformer:dedema
+	foaf:name "德德玛".
+
+originalperformer:yushuzhen
+	foaf:name "于淑珍".
+
+originalperformer:yepeiying
+	foaf:name "叶佩英".
+
+originalperformer:wuguosong
+	foaf:name "吴国松".
+
+originalperformer:renyan
+	foaf:name "任雁".
+
+originalperformer:suxiaoming
+	foaf:name "苏小明".
+
+originalperformer:weisong
+	foaf:name "魏松".
+
+originalperformer:mohualun
+	foaf:name "莫华伦".
+
+originalperformer:liaochangyong
+	foaf:name "廖昌永".
+
+originalperformer:huoyong
+	foaf:name "霍勇".
+
+originalperformer:tongtiexin
+	foaf:name "佟铁鑫".
+
+originalperformer:yezhentang
+	foaf:name "叶振棠".
+
+originalperformer:zhangmingmin
+	foaf:name "张明敏".
+
+originalperformer:jixiaoqin
+	foaf:name "季小琴".
+
+originalperformer:jiangdawei
+	foaf:name "蒋大为".
+
+originalperformer:pengliyuan
+	foaf:name "彭丽媛".
+
+originalperformer:yinxiumei
+	foaf:name "殷秀梅".
+
+originalperformer:liuchang
+	foaf:name "刘畅".
+
+originalperformer:fanlinlin
+	foaf:name "范琳琳".
+
+originalperformer:dongwenhua
+	foaf:name "董文华".
+
+originalperformer:weiwei
+	foaf:name "韦唯".
+
+originalperformer:guanzhengjie
+	foaf:name "关正杰".
+
+originalperformer:lina
+	foaf:name "李娜".
+
+originalperformer:sunnan
+	foaf:name "孙楠".
+
+originalperformer:zhangye
+	foaf:name "张也".
+
+originalperformer:yanweiwen
+	foaf:name "阎维文".
+
+originalperformer:zuhai
+	foaf:name "祖海".
+
+originalperformer:wangzhengzheng
+	foaf:name "汪正正".
+
+originalperformer:liuyuanyuan
+	foaf:name "刘媛媛".
+
+originalperformer:tangcan
+	foaf:name "汤灿".
+
+originalperformer:caojin
+	foaf:name "曹进".
+
+originalperformer:wulantuya
+	foaf:name "乌兰图雅".
+
+originalperformer:wujingyunnanwenshanzhouzhidui
+	foaf:name "武警云南文山州支队".
+
+originalperformer:xuqianya
+	foaf:name "徐千雅".
+
+originalperformer:wangli
+	foaf:name "王莉".
+
+originalperformer:zhoupeng
+	foaf:name "周澎".
+
+originalperformer:hanlei
+	foaf:name "韩磊".
+
+originalperformer:fujinghua
+	foaf:name "傅锦华".
+
+originalperformer:caidanzhuoma
+	foaf:name "才旦卓玛".
+
+originalperformer:songzuying
+	foaf:name "宋祖英".
+
+originalperformer:liuhuan
+	foaf:name "刘欢".
+
+originalperformer:luqingshuang
+	foaf:name "陆青霜".
+
+originalperformer:lvwenke
+	foaf:name "吕文科".
+
+originalperformer:lizengzheng
+	foaf:name "李增正".
+
+originalperformer:sunjiaobai
+	foaf:name "孙蘸白".
+
+originalperformer:liguangyi
+	foaf:name "李光义".
+
+originalperformer:liuguiren
+	foaf:name "刘贵仁".
+
+originalperformer:zhangluo
+	foaf:name "张洛".
+
+originalperformer:wangkun
+	foaf:name "王昆".
+
+originalperformer:wanghongwei
+	foaf:name "王宏伟".
+
+originalperformer:fengjianxue
+	foaf:name "冯健雪".
+
+originalperformer:wanshanghong
+	foaf:name "万山红".
+
+originalperformer:zhanghuamin
+	foaf:name "张华敏".
+
+originalperformer:lizhijin
+	foaf:name "李之金".
+
+originalperformer:zhaotiange
+	foaf:name "赵天鸽".
+
+originalperformer:wuyanze
+	foaf:name "吴雁泽".
+
+originalperformer:tangpeizhu
+	foaf:name "唐佩珠".
+
+originalperformer:zhangluo
+	foaf:name "张洛".
+
+originalperformer:bianxiaozhen
+	foaf:name "卞小贞".
+
+originalperformer:tenggeer
+	foaf:name "腾格尔".
+
+originalperformer:zhouxiaoyan
+	foaf:name "周小燕".
+
+originalperformer:lijianfu
+	foaf:name "李建复".
+
+originalperformer:yujunjian
+	foaf:name "郁钧剑".
+
+originalperformer:renguizhen
+	foaf:name "任桂珍".
+
+originalperformer:dongzhenhou
+	foaf:name "董振厚".
+
+originalperformer:kuangqing
+	foaf:name "邝青".
+
+originalperformer:yuyueyue
+	foaf:name "喻越越".
+
+originalperformer:zhangluo
+	foaf:name "张洛".
+
+originalperformer:maguoguang
+	foaf:name "马国光".

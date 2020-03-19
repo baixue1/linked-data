@@ -1,0 +1,1232 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix whois: <http://www.kanzaki.com/ns/whois#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix bio: <http://purl.org/vocab/bio/0.1/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix event:<http://purl.org/NET/c4dm/event.owl#>.
+@prefix performer:<http://baixue.com/performer/>.
+
+performer:huoyong
+	foaf:name "霍勇";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "四川省成都市"
+    ] ;
+	whois:born "1968/7/8";
+	whois:until "2222";
+	whois:career [
+    a whois:job ;
+    rdfs:label "男中音歌唱家"
+    ] ;
+    whois:publication "《斗牛士》、《马车夫之歌》";
+	whois:achievement """国家一级演员
+卡耶夫国际声乐选拔赛中国区第一名
+荣获首届中国音乐《金钟奖》金奖
+中央电视台第十届全国青年歌手大奖赛专业美声组二等奖""";
+	dc:source "https://baike.baidu.com/item/%E9%9C%8D%E5%8B%87/9806634?fr=aladdin".
+
+performer:zhongguorenminjiefangjunyuetuan
+	foaf:name "中国人民解放军军乐团";
+    whois:publication "《北京喜讯到边寨》、《葬礼进行曲》、《万岁，伟大的祖国》、《军民并肩》";
+	whois:achievement """截至2018年，中国人民解放军军乐团有100多人获得全国青年五四奖章、全军学习成才先进个人、全军优秀党务工作者等殊荣，在国际国内各类专业比赛中获得260多个奖项。
+该团被评为抓基层先进单位，荣立集体三等功1次，受到军委通令嘉奖，2008年被中共中央、国务院授予“北京奥运会残奥会先进集体”。所属建制队均荣立过二等功。""";
+	dc:description """中国人民解放军军乐团是中国军队大型音乐表演团体。国家的礼仪乐队，中国唯一的大型管乐演奏团体，隶属于中国共产党中央军事委员会政治工作部。于1952年7月正式成立，全团400余人。
+乐团的主要任务是为国家和军队的重大典礼、重要会议、迎送国宾等仪式举行音乐演奏，在艺术上着意追求中国气派。近年来，乐队合奏水平日益提高，能较完美地演奏不同时代、不同体裁和风格的中外作品；培养出艺术造诣较深的指挥、独唱、教学等人才；建立了具有丰富军乐写作经验的创作队伍。自2018年1月1日起，国旗护卫和礼炮鸣放任务由人民解放军担负。""";
+	dc:source "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E4%B9%90%E5%9B%A2/2266794?fr=aladdin".
+
+performer:mouqing
+	foaf:name "牟青";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "山东省青岛市"
+    ] ;
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手"
+    ] ;
+    whois:publication "《我的老班长》、《好男儿当当兵》";
+	whois:achievement """荣获第六届全国青年电视歌手大奖赛专业组“通俗唱法三等奖”
+荣获中央人民广播电台“第二届全国听众“最喜爱的歌手”金奖
+其作品曾在全国、全军获得多个奖项。""";
+	dc:source "https://baike.baidu.com/item/%E7%89%9F%E9%9D%92#3https://baike.baidu.com/item/%E7%89%9F%E9%9D%92#3".
+
+performer:guolanying
+	foaf:name "郭兰英";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "山西省平遥县"
+    ] ;
+	whois:born "1930/12";
+	whois:career [
+    a whois:job ;
+    rdfs:label "中国女高音歌唱家、晋剧表演艺术家、歌剧表演艺术家、民族声乐教育家"
+    ] ;
+    whois:publication "《我的祖国》、《南泥湾》、《白毛女》、《人说山西好风光》、《小二黑结婚》";
+	whois:achievement """首届中国电影音乐特别贡献奖
+中国歌剧表演艺术终身成就奖
+第七届中国音乐金钟奖终身成就奖
+新中国60年文艺界十大影响力人物
+民族新歌剧、现代民歌演唱奠基人
+“中国文联终身成就戏剧家”
+“人民艺术家”""";
+	dc:source "https://baike.baidu.com/item/%E9%83%AD%E5%85%B0%E8%8B%B1/31567".
+
+performer:zhongguangshaonianertonghechangtuan
+	foaf:name "中广少年儿童合唱团 ";
+    whois:publication "《在太行山上》、《救国军歌》、《保卫黄河》";
+	whois:achievement "50年代初，合唱团曾两次在世界青年联欢节合唱比赛中分别获得金奖和银奖。1959年在中国首演了贝多芬的第九（合唱）交响乐，1979年参加菲律宾主办的第一届国际合唱节，观众形容他们的歌声“清脆甜美犹如优质的瓷器”。1985年参加了香港黄河音乐节的演出，受到欢迎。1986年合唱团以优异的表演，在第二届北京合唱节上荣获专业组表演艺术一等奖第一名。1992年出访新加坡，演出“黄河大合唱”等中外合唱精品，在当地引起轰动。1993年8月合唱团访问美国、加拿大，并参加在温哥华举行的第三届国际合唱音乐研讨会。1995年出访马来西亚，在十个城市举行合唱音乐会，受到当地华人的热烈欢迎。1993年和1995年，合唱团两度在台湾六大城市巡回演出，备受赞赏，为增进两岸同胞的了解与友谊做出了积极贡献。1997年香港回归后，合唱团再访香港，举行了三场曲目不同的合唱音乐会，1998年应邀赴澳门参加了第十二届澳门国际音乐节。2008年应邀出访奥地利维也纳，在金色大厅的演出获得了巨大成功，极大的提升了中华音乐文化的影响力。";
+	dc:source "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2%E5%90%88%E5%94%B1%E5%9B%A2?fromtitle=%E4%B8%AD%E5%A4%AE%E4%B9%90%E5%9B%A2%E5%90%88%E5%94%B1%E9%98%9F&fromid=15583749#2".
+
+performer:wangyuzhen
+	foaf:name "王玉珍";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "湖北沔阳（今仙桃市）沙湖镇"
+    ] ;
+	whois:born "1935";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌剧表演艺术家，演员"
+    ] ;
+    whois:publication "《洪湖赤卫队》、《刘海砍樵》";
+	whois:achievement "国家一级演员";
+	dc:source "https://baike.baidu.com/item/%E7%8E%8B%E7%8E%89%E7%8F%8D/64241".
+
+performer:dengyuhua
+	foaf:name "邓玉华";
+	foaf:gender "女";
+	whois:until "1942/11/6";
+	whois:career [
+    a whois:job ;
+    rdfs:label "演员、女高音歌唱家"
+    ] ;
+    whois:publication "《毛主席的话儿记心上》、《情深谊长》、《映山红》、《革命熔炉火最红》";
+	whois:achievement "国家一级演员，1978年被评为全国煤炭战线劳动模范。";
+	dc:source "https://baike.baidu.com/item/%E9%82%93%E7%8E%89%E5%8D%8E/74173?fr=aladdin".
+
+performer:zhongguoguangbohechangtuan
+	foaf:name "中国广播合唱团";
+    whois:publication "《东方红》";
+	whois:achievement "一九五七年在归国内举办首次无伴奏音乐会；一九六四年参加大型音乐舞蹈史实《东方红》的排演；一九八八年参加在日本宝冢举行的国际室内合唱比赛，荣获三项金奖，一项银奖；一九九一、一九九二年赴日本演出；二零零零年六月在故宫午门参加了“世界三大男高音音乐会”的演出，受到好评。江泽民，胡锦涛等中央领导同志多次由合唱团参加演出的音乐会，并赞扬艺术家们的精彩表演。";
+	dc:description "中国广播合唱团是广播电视总局所属国家级专业合唱团体。一九五三年始建于上海，中国广播合唱团涌现出了大批优秀的艺术家，如指挥家聂中明，滕矢初，歌唱家朱崇懋，王凯平，方初善，殷秀梅等。";
+	dc:source "https://baike.baidu.com/item/%E4%B8%AD%E5%A4%AE%E4%BA%BA%E6%B0%91%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5%E5%90%88%E5%94%B1%E5%9B%A2".
+
+performer:zhongguojiaoxiangyuetuanhechangtuan
+	foaf:name "中国交响乐团合唱团";
+    whois:publication "《在太行山上》、《救国军歌》、《保卫黄河》";
+	whois:achievement "50年代初，合唱团曾两次在世界青年联欢节合唱比赛中分别获得金奖和银奖。1959年在中国首演了贝多芬的第九（合唱）交响乐，1979年参加菲律宾主办的第一届国际合唱节，观众形容他们的歌声“清脆甜美犹如优质的瓷器”。1985年参加了香港黄河音乐节的演出，受到欢迎。1986年合唱团以优异的表演，在第二届北京合唱节上荣获专业组表演艺术一等奖第一名。1992年出访新加坡，演出“黄河大合唱”等中外合唱精品，在当地引起轰动。1993年8月合唱团访问美国、加拿大，并参加在温哥华举行的第三届国际合唱音乐研讨会。1995年出访马来西亚，在十个城市举行合唱音乐会，受到当地华人的热烈欢迎。1993年和1995年，合唱团两度在台湾六大城市巡回演出，备受赞赏，为增进两岸同胞的了解与友谊做出了积极贡献。1997年香港回归后，合唱团再访香港，举行了三场曲目不同的合唱音乐会，1998年应邀赴澳门参加了第十二届澳门国际音乐节。2008年应邀出访奥地利维也纳，在金色大厅的演出获得了巨大成功，极大的提升了中华音乐文化的影响力。";
+	dc:description "中国交响乐团合唱团是直属中华人民共和国文化部的专业音乐艺术表演团体，1956年与交响乐团组成中央乐团，现名中国交响乐团合唱团，现任团长黄越峰，常任指挥王琳琳，驻团指挥纪玉珏。合唱团现拥有成员80名，均为国内外各高等音乐院校的优秀毕业生。";
+	dc:source "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2%E5%90%88%E5%94%B1%E5%9B%A2?fromtitle=%E4%B8%AD%E5%A4%AE%E4%B9%90%E5%9B%A2%E5%90%88%E5%94%B1%E9%98%9F&fromid=15583749#2".
+
+performer:husonghua
+	foaf:name "胡松华";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "北京"
+    ] ;
+	whois:born "1931/2";
+	whois:career [
+    a whois:job ;
+    rdfs:label "男高音歌唱家"
+    ] ;
+    whois:publication "《阿依古丽》、《努尔哈赤的骏马》、《赞歌》";
+	whois:achievement "其创作演唱多次获重要奖项：金唱片奖、四十年广播首唱金曲奖、文化部新作演唱评比一等奖、全球华语歌曲最高投票奖等。";
+	dc:source "https://baike.baidu.com/item/%E8%83%A1%E6%9D%BE%E5%8D%8E/34353".
+
+performer:zhangyingzhe
+	foaf:name "张映哲";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "奉天（今辽宁）抚顺人"
+    ] ;
+	whois:born "1928";
+	whois:until "2005/5/30";
+	whois:career [
+    a whois:job ;
+    rdfs:label "女高音歌唱家"
+    ] ;
+    whois:publication "《英雄赞歌》、《沁园春·雪》、《翻身道情》";
+	whois:achievement "全国三八红旗手";
+	dc:source "https://baike.baidu.com/item/%E5%BC%A0%E6%98%A0%E5%93%B2".
+
+performer:zhangye
+	foaf:name "张也";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "湖南省长沙市"
+    ] ;
+	whois:born "1968/5/28";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌唱家"
+    ] ;
+    whois:publication "《走进新时代》、《吉祥颂》、《多情的东江水》、《人间第一情》";
+	whois:achievement """1995年获“金唱片”奖
+中国电视金鹰奖
+国家一级演员""";
+	dc:source "https://baike.baidu.com/item/%E5%BC%A0%E4%B9%9F/2843888".
+
+performer:liubinyi
+	foaf:name "刘秉义";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河北省秦皇岛市"
+    ] ;
+	whois:born "1935/6";
+	whois:career [
+    a whois:job ;
+    rdfs:label "男中音歌唱家"
+    ] ;
+    whois:publication "《我为祖国献石油》、《回延安》、《延安颂》 、《牧歌》、《草原之夜》";
+	whois:achievement "国家一级演员";
+	dc:source "https://baike.baidu.com/item/%E5%88%98%E7%A7%89%E4%B9%89/5675990".
+
+performer:zhangyuenan
+	foaf:name "张越男";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河北省文安县"
+    ] ;
+	whois:born "1934";
+	whois:until "2015";
+	whois:career [
+    a whois:job ;
+    rdfs:label "女高音歌唱家、歌剧表演家"
+    ] ;
+    whois:publication "《北京颂歌》、《海上女民兵》";
+	dc:source "https://baike.baidu.com/item/%E5%BC%A0%E8%B6%8A%E7%94%B7".
+
+performer:liguangxi
+	foaf:name "李光羲";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "天津"
+    ] ;
+	whois:born "1929";
+	whois:career [
+    a whois:job ;
+    rdfs:label "抒情男高音歌唱家、歌剧表演艺术家、演员"
+    ] ;
+    whois:publication "《祝酒歌》、《何日再相会》、《太阳出来喜洋洋》、《周总理你在哪里》";
+	whois:achievement "中央歌剧院国家一级演员，享有国务院颁发的“有突出贡献的优秀专家”称号。";
+	dc:source "https://baike.baidu.com/item/%E6%9D%8E%E5%85%89%E7%BE%B2".
+
+performer:luotianchan
+	foaf:name "罗天婵";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "广东省韶关市"
+    ] ;
+	whois:born "1934";
+	whois:career [
+    a whois:job ;
+    rdfs:label "抒情女中音歌唱家、演员"
+    ] ;
+    whois:publication "《打起手鼓唱起歌》、《吐鲁番的葡萄熟了》";
+	whois:achievement "国家一级（歌唱）演员，国家级广东南音唱法的重要传人。毛泽东时代杰出的文艺战士，受到过周总理极高的艺术赞誉。";
+	dc:source "https://baike.baidu.com/item/%E7%BD%97%E5%A4%A9%E5%A9%B5".
+
+performer:hubaoshan
+	foaf:name "胡宝善";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "北京"
+    ] ;
+	whois:born "1935/6";
+	whois:until "2019/9/13";
+	whois:career [
+    a whois:job ;
+    rdfs:label "男中音歌唱家"
+    ] ;
+    whois:publication "《我爱这蓝色的海洋》、";
+	whois:achievement "国家一级演员。在长期深入部队为兵服务中，曾两次荣立三等功，并多次受到嘉奖。";
+	dc:source "https://baike.baidu.com/item/%E8%83%A1%E5%AE%9D%E5%96%84".
+
+performer:liguyi
+	foaf:name "李谷一";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "云南省昆明市"
+    ] ;
+	whois:born "1944/11/10";
+	whois:career [
+    a whois:job ;
+    rdfs:label "女高音歌唱家、  演员"
+    ] ;
+    whois:publication "《乡恋》、《妹妹找哥泪花流》、《边疆的泉水清又纯》、《我和我的祖国》";
+	whois:achievement "国家一级演员，享受国务院特殊津贴。美国ABI协会“世界艺术家杰出成就奖”金奖。";
+	dc:source "https://baike.baidu.com/item/%E6%9D%8E%E8%B0%B7%E4%B8%80".
+
+performer:dedema
+	foaf:name "德德玛";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "内蒙古省额济纳旗"
+    ] ;
+	whois:born "1947";
+	whois:career [
+    a whois:job ;
+    rdfs:label "女中音歌唱家"
+    ] ;
+    whois:publication "《美丽的草原我的家》、《草原夜色美》、《草原上的风》";
+	whois:achievement "蒙古国国家文化艺术最高奖、“全国十大女歌唱家”第一名、日本大阪国际艺术节最高艺术奖   ";
+	dc:source "https://baike.baidu.com/item/%E5%BE%B7%E5%BE%B7%E7%8E%9B".
+
+performer:yushuzhen
+	foaf:name "于淑珍";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河北省东光县"
+    ] ;
+	whois:born "1936";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌唱家、演员"
+    ] ;
+    whois:publication "《李双双小唱》、《我们的生活充满光》、《月光下的凤尾竹》";
+	whois:achievement "国家一级演员。";
+	dc:source "https://baike.baidu.com/item/%E4%BA%8E%E6%B7%91%E7%8F%8D/4825950?fr=aladdin#4".
+
+performer:yepeiying
+	foaf:name "叶佩英";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "马来西亚吉隆坡"
+    ] ;
+	whois:born "1935";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌唱家、艺术家"
+    ] ;
+    whois:publication "《我爱你，中国》、《梅娘曲》、《铁蹄下的歌女》";
+	whois:achievement "享受国务院颁发的特殊贡献津贴。";
+	dc:source "https://baike.baidu.com/item/%E5%8F%B6%E4%BD%A9%E8%8B%B1/5639958?fr=aladdin".
+
+performer:suxiaoming
+	foaf:name "苏小明";
+	foaf:gender " 女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "北京"
+    ] ;
+	whois:born "1957/6/10";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手、演员"
+    ] ;
+    whois:publication "《军港之夜》、《奋斗》";
+	dc:source "https://baike.baidu.com/item/%E8%8B%8F%E5%B0%8F%E6%98%8E/8026444".
+
+performer:yinxiumei
+	foaf:name "殷秀梅";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "黑龙江省鹤岗市"
+    ] ;
+	whois:born "1956/1";
+	whois:career [
+    a whois:job ;
+    rdfs:label "女高音歌唱家、  演员"
+    ] ;
+    whois:publication "《党啊，亲爱的妈妈》、《永远是朋友》、《长江之歌》";
+	whois:achievement "2004年获第一届“德艺双馨艺术家”称号、专辑《党啊，亲爱的妈妈》获第二届金唱片奖、凭借歌剧《红河谷》中扮演藏族姑娘丹珠获得文华表演奖";
+	dc:source "https://baike.baidu.com/item/%E6%AE%B7%E7%A7%80%E6%A2%85".
+
+performer:xinyuehechangtuan
+	foaf:name "新月合唱团";
+	whois:achievement "曾为国家教委、人民教育出版社录制有声教材，并向全国发行；为中央电视台录制“联合国世界环境发展大会”音乐专题片《给未来一片绿色》，并在联合国“世界环境日”播放；多次受中央电视台、北京电视台、文化部、解放军艺术学院、宋庆龄基金会等单位邀请演出，并录制中外名曲一百多首，向国内外发行、播放；多次应北京市委宣传部、西城区政府之邀在西单文化广场举办的“促进北京首都精神文明建设”活动中演出；曾在“2000年第五届国际合唱节开幕式”上，和波兰、德国等代表团同台演出。曾获中国首届童声合唱节唯一奖项----优秀节目奖，多次获国家教委举办的“全国中小学生合唱比赛一等奖；在北京国际合唱节中取得优异成绩。受美国加利福尼亚州帕萨迪娜城市的邀请，该团曾赴美参加”中症状友好城市文化周的演出交流活动。";
+	dc:description "新月合唱团是国内一流的童声合唱团体，它的创建与发展得到了北京市教育局、西城区教育局、中国音乐家协会、中国合唱协会的有利支持和充分肯定。";
+	dc:source "https://baike.baidu.com/item/%E6%96%B0%E6%9C%88%E5%90%88%E5%94%B1%E5%9B%A2".
+
+performer:tongtiexin
+	foaf:name "佟铁鑫";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "辽宁省锦州市"
+    ] ;
+	whois:born "1958/11";
+	whois:career [
+    a whois:job ;
+    rdfs:label "男中音歌手、演员"
+    ] ;
+    whois:publication "《夕阳红》、《多情的土地》、《为了谁》";
+	whois:achievement "国家一级演员";
+	dc:source "https://baike.baidu.com/item/%E4%BD%9F%E9%93%81%E9%91%AB".
+
+performer:yezhentang
+	foaf:name "叶振棠";
+	foaf:gender " 男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "香港"
+    ] ;
+	whois:born "1944";
+	whois:career [
+    a whois:job ;
+    rdfs:label "流行歌手"
+    ] ;
+    whois:publication "《万里长城永不倒》";
+	whois:achievement "2011年11月15日，叶振棠获得华语金曲奖“华语金曲30年殿堂大奖”";
+	dc:source "https://baike.baidu.com/item/%E5%8F%B6%E6%8C%AF%E6%A3%A0".
+
+performer:zhangmingmin
+	foaf:name "张明敏";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "香港"
+    ] ;
+	whois:born "1956/9";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手"
+    ] ;
+    whois:publication "《我的中国心》、《我是中国人》、《外婆的澎湖湾》";
+	dc:source "https://baike.baidu.com/item/%E5%BC%A0%E6%98%8E%E6%95%8F/7547830".
+
+performer:jixiaoqin
+	foaf:name "季小琴";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "上海"
+    ] ;
+	whois:born "1955/10";
+	whois:career [
+    a whois:job ;
+    rdfs:label "女高音歌唱家"
+    ] ;
+    whois:publication "《图兰朵》";
+	whois:achievement "国务院特贴专家，一级演员。1980年获全国调演青年演员一等奖，1982年获法国“夏尔.克罗”二十世纪唱片大奖(卡门)。1984年获得第二界“梅花奖”，2000年获得德艺双馨奖。";
+	dc:source "https://baike.baidu.com/item/%E5%AD%A3%E5%B0%8F%E7%90%B4/12633496".
+
+performer:jiangdawei
+	foaf:name "蒋大为";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "天津市"
+    ] ;
+	whois:born "1947/1/22";
+	whois:career [
+    a whois:job ;
+    rdfs:label "男高音歌唱家"
+    ] ;
+    whois:publication "《在那桃花盛开的地方》、《敢问路在何方》、《牡丹之歌》、《骏马奔驰保边疆》、《说中国》";
+	whois:achievement "国家一级演员，国务院特殊津贴获得者。获得第一届中国金唱片奖，被授与民委突出贡献专家。";
+	dc:source "https://baike.baidu.com/item/%E8%92%8B%E5%A4%A7%E4%B8%BA".
+
+performer:pengliyuan
+	foaf:name "彭丽媛";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "山东省郓城县"
+    ] ;
+	whois:born "1962/11/20";
+	whois:career [
+    a whois:job ;
+    rdfs:label "女高音歌唱家、歌剧演员"
+    ] ;
+    whois:publication "《沂蒙山小调》、《谁不说俺家乡好》、《在希望的田野上》、《红梅赞》";
+	whois:achievement "中国第一位民族声乐硕士，国家一级演员，享受国务院颁发的“政府津贴”。";
+	dc:source "https://baike.baidu.com/item/%E5%BD%AD%E4%B8%BD%E5%AA%9B".
+
+performer:liuchang
+	foaf:name "刘畅";
+	foaf:gender "女";
+	whois:career [
+    a whois:job ;
+    rdfs:label "女高音歌唱家、声乐教育家"
+    ] ;
+    whois:publication "《共和国之恋》";
+	whois:achievement "国家级教学成果一等奖获得者之一，中国音乐学院建校50周年突出贡献获得者。";
+	dc:source "https://baike.baidu.com/item/%E5%88%98%E7%95%85/19948221#viewPageContent".
+
+performer:fanlinlin
+	foaf:name "范琳琳";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "辽宁省大连市"
+    ] ;
+	whois:born "1963/2/6";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌唱演员"
+    ] ;
+    whois:publication "《西部之恋》、《心愿》、《黑头发飘起来》、《苦乐年华》、《父老乡亲》";
+	whois:achievement "国家一级演员，享受国务院颁发的政府特殊津贴。1990年第二届影视歌曲十佳歌手，开创西北风演唱方法引领时代歌潮。";
+	dc:source "https://baike.baidu.com/item/%E8%8C%83%E7%90%B3%E7%90%B3/22985#viewPageContent".
+
+performer:dongwenhua
+	foaf:name "董文华";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "辽宁省沈阳市"
+    ] ;
+	whois:born "1962/6/29";
+	whois:career [
+    a whois:job ;
+    rdfs:label "女高音歌唱家"
+    ] ;
+    whois:publication "《长城长》、《春天的故事》";
+	whois:achievement """中央军委政治工作部歌舞团国家一级演员，终身享受国务院政府特殊津贴。
+全国MTV音乐电视大赛五连冠
+1985聂耳、冼星海声乐作品银质奖
+1988十年金曲、八八金星荣获榜首
+《长城长》荣获文化部“文华奖”
+《春天的故事》荣获中宣部“五个一工程奖”""";
+	dc:source "https://baike.baidu.com/item/%E8%91%A3%E6%96%87%E5%8D%8E/15665".
+
+performer:weiwei
+	foaf:name "韦唯";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "内蒙古自治区呼和浩特市"
+    ] ;
+	whois:born "1963/9/28";
+	whois:career [
+    a whois:job ;
+    rdfs:label "女歌手、作曲人"
+    ] ;
+    whois:publication "《爱的奉献》、《亚洲雄风》";
+	whois:achievement """国家一级演员。
+1986年参加CCTV青年歌手电视大奖赛获通俗组二等奖。
+1987年被国家选派前往波兰参加第24届索波特国际音乐节，并获得了演唱特别奖和最上镜小姐奖；
+12月份由其参与录制的《让世界充满爱》录音带荣获1986-1987全国盒式录音带金奖。
+1988年11月参加南斯拉夫麦撤姆国际音乐节比赛，演唱《恋寻》获金奖。""";
+	dc:source "https://baike.baidu.com/item/%E9%9F%A6%E5%94%AF".
+
+performer:guanzhengjie
+	foaf:name "关正杰";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "香港"
+    ] ;
+	whois:born "1949/3/27";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手、建筑师"
+    ] ;
+    whois:publication "《龙的传人》";
+	whois:achievement "1982年获选为香港十大杰出青年，1985年获英国颁授荣誉奖章。";
+	dc:source "https://baike.baidu.com/item/%E5%85%B3%E6%AD%A3%E6%9D%B0".
+
+performer:lina
+	foaf:name "李娜";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河南省郑州市"
+    ] ;
+	whois:born "1963/7/25";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手"
+    ] ;
+    whois:publication "《青藏高原》";
+	dc:source "https://baike.baidu.com/item/%E6%9D%8E%E5%A8%9C/4124145#viewPageContent".
+
+performer:sunnan
+	foaf:name "孙楠";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "辽宁省大连市"
+    ] ;
+	whois:born "1969/2/18";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手"
+    ] ;
+    whois:publication "《你快回来》、《红旗飘飘》";
+	whois:achievement """中歌榜最佳男歌手
+东方风云榜最佳男歌手
+音乐风云榜最佳男歌手
+全球华语榜中榜最佳男歌手
+CCTV-MTV音乐盛典最佳男歌手""";
+	dc:source "https://baike.baidu.com/item/%E5%AD%99%E6%A5%A0/9501".
+
+performer:rongyunlin
+	foaf:name "容韵琳";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "澳门"
+    ] ;
+	whois:born "1990/9/8";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手"
+    ] ;
+    whois:publication "《七子之歌——澳门》";
+	dc:source "https://baike.baidu.com/item/%E5%AE%B9%E9%9F%B5%E7%90%B3".
+
+performer:yanweiwen
+	foaf:name "阎维文";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "山西省平遥县"
+    ] ;
+	whois:born "1957/8/26";
+	whois:career [
+    a whois:job ;
+    rdfs:label "男高音歌唱家"
+    ] ;
+    whois:publication "《小白杨》、《母亲》";
+	whois:achievement """中国唱片金碟奖
+五个一工程奖
+全国影视十佳歌手
+全国听众最喜爱的歌手
+军旅歌曲大赛特殊贡献奖""";
+	dc:source "https://baike.baidu.com/item/%E9%98%8E%E7%BB%B4%E6%96%87".
+
+performer:zuhai
+	foaf:name "祖海";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "安徽省蚌埠市"
+    ] ;
+	whois:born "1976/5/10";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌唱家、教师"
+    ] ;
+    whois:publication "《为了谁》、《好运来》、《幸福山歌》、《我家在中国》";
+	whois:achievement """“五个一”工程奖
+星光奖金奖
+多次获内地年度最佳女歌手
+全球华人音乐盛典最佳女民歌奖
+多次获年度金唱片奖
+中国红十字会优秀爱心大使奖项等""";
+	dc:source "https://baike.baidu.com/item/%E7%A5%96%E6%B5%B7".
+
+performer:wangzhengzheng
+	foaf:name "汪正正";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "辽宁沈阳市"
+    ] ;
+	whois:born "1973/11/23";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手"
+    ] ;
+    whois:publication "《超越梦想》、《永恒依然》、《我爱中国》";
+	dc:source "https://baike.baidu.com/item/%E6%B1%AA%E6%AD%A3%E6%AD%A3".
+
+performer:liuyuanyuan
+	foaf:name "刘媛媛";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "云南省大理市"
+    ] ;
+	whois:born "1976/6/28";
+	whois:career [
+    a whois:job ;
+    rdfs:label "女高音歌唱家"
+    ] ;
+    whois:publication "《五星红旗》、《国家》、《民生》、《鲜花陪伴你》";
+	whois:achievement """北京市文学艺术奖
+“中国青年五四奖章”获得者
+全国“五个一工程”奖
+中国公益事业形象大使
+""";
+	dc:source "https://baike.baidu.com/item/%E5%88%98%E5%AA%9B%E5%AA%9B/6719#viewPageContent".
+
+performer:tangcan
+	foaf:name "汤灿";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "湖南省株洲市"
+    ] ;
+	whois:born "1975/6/12";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手"
+    ] ;
+    whois:publication "《幸福万年长》、《祝福祖国》、《家乡美》";
+	whois:achievement """《祝福祖国》获得中宣部精神文明建设“五个一工程”奖
+中国轻音乐学会“学会奖”最佳民通女歌手
+中国金唱片女演员奖
+“金号奖”全国听众喜爱的歌手""";
+	dc:source "https://baike.baidu.com/item/%E6%B1%A4%E7%81%BF".
+
+performer:hanhong
+	foaf:name "韩红";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "西藏自治区昌都市"
+    ] ;
+	whois:born "1971/9/26";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌唱家、词曲创作人、音乐制作人、慈善家、导演、主持人"
+    ] ;
+    whois:publication "《雪域光芒》、《天亮了》、《那片海》";
+	whois:achievement """中歌榜最佳女歌手
+CCTV-MTV音乐盛典最佳女歌手
+全球华语榜中榜最受欢迎女歌手
+东方风云榜亚洲风云歌手大奖
+我是歌手第三季歌王""";
+	dc:source "https://baike.baidu.com/item/%E9%9F%A9%E7%BA%A2/17753".
+
+performer:wulantuya
+	foaf:name "乌兰图雅";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "内蒙古科尔沁草原"
+    ] ;
+	whois:born "1983/9/7";
+	whois:career [
+    a whois:job ;
+    rdfs:label "青年歌唱家"
+    ] ;
+    whois:publication "《点赞新时代》、《套马杆》、《站在草原望北京》";
+	whois:achievement "其作品《点赞新时代》第十五届精神文明建设“五个一工程”奖";
+	dc:source "https://baike.baidu.com/item/%E4%B9%8C%E5%85%B0%E5%9B%BE%E9%9B%85/8740984".
+
+performer:xuqianya
+	foaf:name "徐千雅";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "黑龙江省"
+    ] ;
+	whois:born "1981/2/13";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手"
+    ] ;
+    whois:publication "《彩云之南》、《美丽中国》";
+	whois:achievement "2010全国听众喜爱的歌手十大金牌歌手提名
+2005“A8音乐原创中国颁奖礼”年度最佳女歌手";
+	dc:source "https://baike.baidu.com/item/%E5%BE%90%E5%8D%83%E9%9B%85".
+
+performer:wangli
+	foaf:name "王莉";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "安徽省合肥市"
+    ] ;
+	whois:born "1980/6";
+	whois:career [
+    a whois:job ;
+    rdfs:label "女高音歌唱家"
+    ] ;
+    whois:publication "《我爱祖国的蓝天 》、《我和春天有个约会》 ";
+	whois:achievement "2000年获得文化部全国艺术歌曲大赛演唱一等奖。2012年获得“十大金牌歌手奖。";
+	dc:source "https://baike.baidu.com/item/%E7%8E%8B%E8%8E%89/5613".
+
+performer:zhoupeng
+	foaf:name "周澎";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "陕西省商洛市"
+    ] ;
+	whois:born "1983/6/2";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手"
+    ] ;
+    whois:publication "《梦想星光》、《美丽中国走起来》";
+	whois:achievement """2013年获得第十五届全国青年歌手电视大奖赛流行唱法全国亚军
+获2014年“全国五个一工程奖”
+“中国梦全国原创歌曲最佳作品奖”""";
+	dc:source "https://baike.baidu.com/item/%E5%91%A8%E6%BE%8E".
+
+performer:hanlei
+	foaf:name "韩磊";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "内蒙古自治区呼和浩特市玉泉区"
+    ] ;
+	whois:born "1968/2/23";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手"
+    ] ;
+    whois:publication "《走四方》、《以人民的名义》";
+	whois:achievement """"专辑《不忘初心·孝行天下》获第十届中国金唱片奖流行类最佳专辑奖。
+《走四方》荣获“跨年度金曲奖”
+中国歌坛辉煌20年演唱成就奖""";
+	dc:source "https://baike.baidu.com/item/%E9%9F%A9%E7%A3%8A/32383?fr=aladdin".
+
+performer:fujinghua
+	foaf:name "傅锦华";
+	foaf:gender "女";
+	whois:born "1938/12/29";
+	whois:until "2013/2/2";
+	whois:career [
+    a whois:job ;
+    rdfs:label "演员"
+    ] ;
+    whois:publication "《刘三姐》、《王三打鸟》、《李双双》";
+	whois:achievement "国家一级演员，享受国务院特殊津贴专家待遇。";
+	dc:source "https://baike.baidu.com/item/%E5%82%85%E9%94%A6%E5%8D%8E".
+
+performer:caidanzhuoma
+	foaf:name "才旦卓玛";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "西藏自治区日喀则市"
+    ] ;
+	whois:born "1937/8/1";
+	whois:career [
+    a whois:job ;
+    rdfs:label "女高音歌唱家、演员"
+    ] ;
+    whois:publication "《翻身农奴把歌唱》、《唱支山歌给党听》、《北京的金山上》";
+	whois:achievement """首届“金唱片”奖
+第二届中华艺文奖
+西藏首届“珠穆朗玛文学艺术基金奖”""";
+	dc:source "https://baike.baidu.com/item/%E6%89%8D%E6%97%A6%E5%8D%93%E7%8E%9B/442002#viewPageContent".
+
+performer:songzuying
+	foaf:name "宋祖英";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "湖南湘西土家族苗族自治州"
+    ] ;
+	whois:born "1966/8/13";
+	whois:career [
+    a whois:job ;
+    rdfs:label "女高音歌唱家"
+    ] ;
+    whois:publication "《大地飞歌》、《十送红军》、《长大后我就成了你》、《爱我中华》";
+	whois:achievement """第22届中国戏剧梅花奖
+肯尼迪艺术金奖
+中国民族声乐最杰出成就奖
+格莱美最佳古典混合音乐专辑提名""";
+	dc:source "https://baike.baidu.com/item/%E5%AE%8B%E7%A5%96%E8%8B%B1".
+
+performer:liuhuan
+	foaf:name "刘欢";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "天津"
+    ] ;
+	whois:born "1963/8/26";
+	whois:career [
+    a whois:job ;
+    rdfs:label "男歌唱家、原创音乐人、音乐教育家"
+    ] ;
+    whois:publication "《心中的太阳》、《千万次的问》、《这一拜》、《好汉歌》";
+	whois:achievement """CCTV MTV音乐盛典最受欢迎男歌手
+《音乐风云榜》终身成就奖
+北艺协会电视剧优秀音乐创作奖
+第十届华语歌曲“榜中榜”之“评委会特别奖”
+第四届中国金唱片“最佳流行专辑”""";
+	dc:source "https://baike.baidu.com/item/%E5%88%98%E6%AC%A2/6703".
+
+performer:zhanyouwengongtuan
+	foaf:name "战友文工团";
+    whois:publication "《众手浇开幸福花》、《看见你们格外亲》、《老房东查铺》、《祖国一片新面貌》";
+	whois:achievement "战友文工团坚持把深入生活、深入群众、深入实践作为获得艺术生命力的唯一源泉。在长期的艺术实践中，形成了具有“鲜明时代特色、雄健部队气质、浓郁军营气息、鲜明民族特色”的艺术风格。代表作建国后至今，先后创作和演出了话剧《战斗里成长》、《槐树庄》、《郝家村的故事》、《大漠丰碑》、《爱尔纳突击》，歌曲《真是乐死人》、《学习雷锋好榜样》、《马儿啊，你慢些走》、《众手浇开幸福花》、《看见你们格外亲》、《老房东查铺》、《祖国一片新面貌》、《远方的书信乘风来》、《八一军旗高高飘扬》，舞蹈《行军路上》、《草原女民兵》、《囚歌》、《走跑跳》、《毕业歌》、《剪纸姑娘》，京剧《妈阁紫烟》、《沧海忠魂》、《刘胡兰》等一大批脍炙人口，影响深远的精品力作。其中，大型声乐套曲《长征组歌》飞扬世界，久唱不衰，被评为二十世纪华人音乐经典。新时代创作在新的历史时期，战友文工团再攀艺术高峰，再结累累硕果。圆满完成了历年双拥晚会，党和国家纪念长征胜利七十周年，纪念建军八十周年，纪念抗日战争胜利六十周年大型庆典以及抗洪、抗震救灾的等重大演出任务。该团创作演出的反映部队现实生活的大型《军营歌谣》、《时代先锋》、《忠诚使命》、《旗帜飞扬》和《新军容·新风貌·新使命》等大型综艺晚会，受到了党和国家领导人以及军委、总部首长的称赞。该团创作演出的以反映新时期军事变革为主题的当代军事题材现代京剧《红沙河》，为继承弘扬民族文化,丰富军事题材舞台艺术再开先河。该团创作演出的作品还有大型场馆歌舞《七彩沙盘》、大型组歌组舞《士兵旋律与盛典随想》。主要艺术家北京军区战友文工团演员五十多年来涌现出了胡可、胡鹏、张非、晨耕、唐诃、生茂、唐江、刘微、洪源、石祥、马玉涛、马国光、贾世俊、高元钧、张振富、耿莲凤、叶少兰等一大批享有盛誉，深受广大人民群众喜爱的著名剧作家、曲艺家、歌唱家、音乐家和表演艺术家，使战友文工团以卓越的艺术成就蜚声于世，成为国家和军队一流的艺术团体。";
+	dc:description "战友文工团诞生于抗日战争的枪林弹雨之中，前身是晋察冀军区政治部抗敌剧社，参加了抗日战争、解放战争、抗美援朝战争和抗洪抢险、抗震救灾等重大活动。70多年来，在毛泽东、周恩来、聂荣臻、邓小平等老一辈无产阶级革命家的亲切关怀下，在历届军委、总部和军区首长的正确领导下和精心培育下，艰苦奋斗，创新发展。始终如一贯彻党的文艺方针，坚持为人民服务，为社会主义建设服务，为巩固和提高部队战斗力服务，为提高部队战斗力服务的正确方向。紧密围绕党和军队各个时期的中心任务，服务大局，履职尽责。如今，战友文工团已经成为一个集话剧团、舞剧团、京剧团、歌舞团、曲艺团、爱乐乐团、合唱团、创作中心、电视艺术中心、舞美设计制作中心为一体的大型军队文艺团体，成为担负国家和军队重大庆典演出的一支重要力量。";
+	dc:source "https://baike.baidu.com/item/%E6%88%98%E5%8F%8B%E6%96%87%E5%B7%A5%E5%9B%A2".
+
+performer:mengge
+	foaf:name "梦鸽";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "湖北荆州市"
+    ] ;
+	whois:born "1966";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手、演员"
+    ] ;
+    whois:publication "《摇篮曲》、《沂蒙颂》、《永远的妈妈》";
+	whois:achievement """全国听众最喜爱的优秀歌手第一名
+第七届全军文艺会演一等奖
+国庆50周年新歌评比一等奖
+中国音乐电视大赛金奖""";
+	dc:source "https://baike.baidu.com/item/%E6%A2%A6%E9%B8%BD#8_2".
+
+performer:lvwenke
+	foaf:name "吕文科";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河北井陉县"
+    ] ;
+	whois:born "1930/8/16";
+	whois:until "1997/11/16";
+	whois:career [
+    a whois:job ;
+    rdfs:label "男高音歌唱家"
+    ] ;
+    whois:publication "《木棉花开火样红》、《渔歌》、《克拉玛依新歌》";
+	whois:achievement """在全军第三、四届文艺汇演中荣获优秀演员奖和表演奖
+获得中央军委颁发的“胜利功勋荣誉奖章”
+获得国务院特殊津贴""".
+
+performer:wangerni
+	foaf:name "王二妮";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "陕西省榆林市"
+    ] ;
+	whois:born "1985/10/22";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手、演员"
+    ] ;
+    whois:publication "《爱陕北》、《我从西边来》、《丰收中国》、《山丹丹开花红艳艳》";
+	whois:achievement """国家一级演员
+金鸡百花电影节最佳新片奖
+2011年国家艺术院优秀表演奖""";
+	dc:source "https://baike.baidu.com/item/%E7%8E%8B%E4%BA%8C%E5%A6%AE".
+
+performer:yujunjian
+	foaf:name "郁钧剑";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "广西省桂林市"
+    ] ;
+	whois:born "1956/4/16";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌唱家、作家、书法家"
+    ] ;
+    whois:publication "《当兵干什么》、《小白杨》、《家和万事兴》";
+	whois:achievement """享受政府特殊津贴的国家一级演员，在部队多次立功授奖
+首届“全国十大歌手”、首届“全国听众最喜爱的歌唱演员”
+首届“全军十大明星”“全军学雷锋先进代表”等称号
+书画入选全国第五届书法展、全国第六届美展、全军书法展并获奖
+在中国美术馆举办过两次个人书画展""";
+	dc:source "https://baike.baidu.com/item/%E9%83%81%E9%92%A7%E5%89%91".
+
+performer:mengguibin
+	foaf:name "孟贵彬";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "直隶（今河北）深县"
+    ] ;
+	whois:born "1926";
+	whois:career [
+    a whois:job ;
+    rdfs:label "男高音歌唱家"
+    ] ;
+    whois:publication "《支援农业车马忙》、《一个共产党员的自白》、《歌唱二郎山》";
+	dc:source "https://baike.baidu.com/item/%E5%AD%9F%E8%B4%B5%E5%BD%AC".
+
+performer:chengzhi
+	foaf:name "程志";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "湖北省红安县"
+    ] ;
+	whois:born "1946";
+	whois:career [
+    a whois:job ;
+    rdfs:label "男高音歌唱家"
+    ] ;
+    whois:publication "《在银色的月光下》、
+《请你别忘了我》、《今夜无人入睡》";
+	whois:achievement "解放军总政歌舞团一级演员";
+	dc:source "https://baike.baidu.com/item/%E7%A8%8B%E5%BF%97/77224".
+
+performer:wangkun
+	foaf:name "王昆";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河北省唐县"
+    ] ;
+	whois:born "1925";
+	whois:until "2014/11/21";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌剧表演艺术家"
+    ] ;
+    whois:publication "《白毛女》、《秋收》、《夫妻识字》、《陕北道情》";
+	whois:achievement """1989年中国首届金唱片奖
+全国文化系统先进工作者
+获得国家颁发的金质奖、巴基斯坦总统授予的“卓越明星”勋章""";
+	dc:source "https://baike.baidu.com/item/%E7%8E%8B%E6%98%86/21492".
+
+performer:wanghongwei
+	foaf:name "王宏伟";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "新疆博尔塔拉蒙古自治州"
+    ] ;
+	whois:born "1971/9/26";
+	whois:career [
+    a whois:job ;
+    rdfs:label "男高音歌唱家、演员"
+    ] ;
+    whois:publication "《西部放歌》、《西部情歌》、《西部赞歌》";
+	whois:achievement """第九届中国青年歌手大奖赛金奖
+首届“中国唱片金碟奖”最佳男民歌歌手奖  
+第十届全球华语音乐榜中榜评委会特别奖  
+第四届“金唱片奖”最佳男演员奖  
+第六届CCTV-MTV音乐盛典内地年度最佳民歌男歌手
+第八届“五个一工程奖”
+首届全军“十大战士之星”奖""";
+	dc:source "https://baike.baidu.com/item/%E7%8E%8B%E5%AE%8F%E4%BC%9F/6721".
+
+performer:wanshanhong
+	foaf:name "万山红";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "黑龙江省伊春市"
+    ] ;
+	whois:born "1959/12";
+	whois:career [
+    a whois:job ;
+    rdfs:label "女高音歌唱家"
+    ] ;
+    whois:publication "《花开原野万山红》、《江姐》、《巫山神女》、《公仆赞》";
+	whois:achievement """美声与民族两唱法最高奖双料歌后
+国家一级演员
+享受国务院突出贡献津贴专家""";
+	dc:source "https://baike.baidu.com/item/%E4%B8%87%E5%B1%B1%E7%BA%A2/14354".
+
+performer:changsisi
+	foaf:name "常思思";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "山东省济南市"
+    ] ;
+	whois:born "1987/5/6";
+	whois:career [
+    a whois:job ;
+    rdfs:label "花腔女高音歌唱家"
+    ] ;
+    whois:publication "《春天的芭蕾》、《玛依拉变奏曲》、《炫境》";
+	whois:achievement """中国声乐金钟奖民族唱法金奖
+第十三届青歌赛民族唱法铜奖第一
+中国声乐文华奖
+中宣部“五个一工程”歌曲奖""";
+	dc:source "https://baike.baidu.com/item/%E5%B8%B8%E6%80%9D%E6%80%9D".
+
+performer:lvjihong
+	foaf:name "吕继宏";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "甘肃省天水市"
+    ] ;
+	whois:born "1960/6/27";
+	whois:career [
+    a whois:job ;
+    rdfs:label "演员"
+    ] ;
+    whois:publication " 《咱老百姓》、《军港之夜》、《军港的晚霞》";
+	whois:achievement """1992年ctv第五届青歌赛民族唱法专业组第二名
+1999年《咱老百姓》MTV获中宣部“五个一工程”奖
+2003年中国第四届“金唱片奖”最佳男演员奖
+2007年荣获第二十三届中国戏剧表演“梅花奖
+2009年获“人民喜爱的艺术家”荣誉""";
+	dc:source "https://baike.baidu.com/item/%E5%90%95%E7%BB%A7%E5%AE%8F/8750772".
+
+performer:qubiawu
+	foaf:name "曲比阿乌";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "四川省凉山彝族自治州"
+    ] ;
+	whois:born "1963/5/13";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手"
+    ] ;
+    whois:publication "《有一个美丽的地方》《远方的客人请你留下来》、《月琴弹起来》";
+	whois:achievement "1997年度全国听众最受欢迎的歌手";
+	dc:source "https://baike.baidu.com/item/%E6%9B%B2%E6%AF%94%E9%98%BF%E4%B9%8C".
+
+performer:bianxiaozhen
+	foaf:name "卞小贞";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "安徽省芜湖市"
+    ] ;
+	whois:born "1946";
+	whois:career [
+    a whois:job ;
+    rdfs:label "女高音歌唱家"
+    ] ;
+    whois:publication "《太阳最红，毛主席最亲》、《泉水叮咚响》、《大雁情》";
+	whois:achievement """国家一级演员
+国务院政府特殊津贴享受者""";
+	dc:source "https://baike.baidu.com/item/%E5%8D%9E%E5%B0%8F%E8%B4%9E".
+
+performer:tenggeer
+	foaf:name "腾格尔";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "内蒙古自治区鄂托克旗"
+    ] ;
+	whois:born "1960/1/15";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌唱家"
+    ] ;
+    whois:publication "《天堂》、《天与地》、《唱给黄河听》";
+	whois:achievement "国家一级演员，享受国务院特批的政府特殊津贴，中央国家机关颁发的五一劳动奖章获得者，全国劳动模范。";
+	dc:source "https://baike.baidu.com/item/%E8%85%BE%E6%A0%BC%E5%B0%94".
+
+performer:zhongguorenminjiefangjunhechangtuan
+    whois:publication "《东方红》、《中国革命之歌》";
+	whois:achievement "多年来，中国人民解放军合唱团培养出众多知名艺术家，诸多演员和声乐作品在国内外的艺术比赛中屡次获奖。这支音乐队伍经常深入部队为基层演出，深受全军官兵和人民观众的热烈欢迎。长年担负国家和军队的国事、外交演出任务。在一系列庆典活动中作为主要表演力量参加了重大歌舞晚会的排演工作，先后为多部影视剧及音像制品录音。中国人民解放军合唱团曾赴朝鲜、前苏联、罗马尼亚、日本、波兰、德国、泰国、匈牙利、缅甸及香港、澳门特别行政区访问演出，获得极大成功，为促进中外文化艺术交流，增进发展中国人民和军队与世界各国人民和军队之间的友谊做出了积极贡献，为祖国和军队赢得了荣誉。";
+	dc:description "多年来，中国人民解放军合唱团培养出众多知名艺术家，诸多演员和声乐作品在国内外的艺术比赛中屡次获奖。这支音乐队伍经常深入部队为基层演出，深受全军官兵和人民观众的热烈欢迎。长年担负国家和军队的国事、外交演出任务。在一系列庆典活动中作为主要表演力量参加了重大歌舞晚会的排演工作，先后为多部影视剧及音像制品录音。中国人民解放军合唱团曾赴朝鲜、前苏联、罗马尼亚、日本、波兰、德国、泰国、匈牙利、缅甸及香港、澳门特别行政区访问演出，获得极大成功，为促进中外文化艺术交流，增进发展中国人民和军队与世界各国人民和军队之间的友谊做出了积极贡献，为祖国和军队赢得了荣誉。";
+	dc:source "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E5%90%88%E5%94%B1%E5%9B%A2".
+
+performer:yuhongxian
+	foaf:name "余红仙";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "上海"
+    ] ;
+	whois:born "1939";
+	whois:career [
+    a whois:job ;
+    rdfs:label "苏州评弹表演艺术家"
+    ] ;
+    whois:publication "《蝶恋花·答李淑一》";
+	whois:achievement "文化部民族艺术传承人。";
+	dc:source "https://baike.baidu.com/item/%E4%BD%99%E7%BA%A2%E4%BB%99".
+
+performer:lijianfu
+	foaf:name "李建复";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "台湾"
+    ] ;
+	whois:born "1959/10/24";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手"
+    ] ;
+    whois:publication "《柴拉可汗》、《一千个春天》";
+	whois:achievement "在台湾乐坛上首开音乐工作室先河。";
+	dc:source "https://baike.baidu.com/item/%E6%9D%8E%E5%BB%BA%E5%A4%8D".
+
+performer:renguizhen
+	foaf:name "任桂珍";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "山东省临沂市"
+    ] ;
+	whois:born "1933";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌剧表演艺术家、女高音歌唱家"
+    ] ;
+    whois:publication "《谁不说俺家乡好》、《铁蹄下的歌女》、《塞外村女》";
+	whois:achievement "https://baike.baidu.com/item/%E4%BB%BB%E6%A1%82%E7%8F%8D";
+	dc:source "".
+
+performer:dongzhenhou
+	foaf:name "董振厚";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "辽宁省大连市"
+    ] ;
+	whois:born "1931";
+	whois:until "1985";
+	whois:career [
+    a whois:job ;
+    rdfs:label "演唱家"
+    ] ;
+    whois:publication "《草原上升起不落的太阳》、《延安颂》、《北方的星》";
+	dc:source "https://baike.baidu.com/item/%E8%91%A3%E6%8C%AF%E5%8E%9A".
+
+performer:zhongguoguojiajiaoxiangyuetuan
+	foaf:name "中国交响乐团";
+    whois:publication "《遵义会议放光芒》";
+	whois:achievement "回顾乐团的历史，早在五十年代，乐团即作为新中国时代音乐的领头人，实现了中国人演奏交响乐从初级阶段进入成熟期这一划时代的进步，演出了许多重要的作品。如：在中国成功地首演了贝多芬第九《合唱》交响曲、德沃夏克第九交响曲《新世界》、柏辽兹《幻想》交响曲、西贝柳斯第二交响曲、首演了中国作曲家罗忠镕第一交响曲等。六十年代，乐团还创办了深受群众喜爱的《星期音乐会》。半个世纪以来，中国交响乐团成功地演奏、演唱了大量古典主义、浪漫主义和近、现代的中外交响乐作品，其中许多作品由乐团在中国首演；乐团的音乐会实况经常通过广播、电视向世界各地播放。乐团与法国唱片公司、菲利浦唱片公司等合作录制了许多唱片向全世界发行；中国交响乐团经常在国内进行广泛的巡演，足迹遍及全国（包括港、澳、台地区）的40余座城市， 为弘扬中国交响乐作品及介绍外国交响名篇作出了历史性的卓越贡献，使乐团赢得了亿万听众的爱戴。";
+	dc:description "中国交响乐团（CNSO）是中华人民共和国文化部所属的文艺演出单位，是中国最优秀的职业乐团之一。其前身是成立于 1956年的中央乐团，1996年重组后更名为中国交响乐团。有交响乐队、合唱团两个演出实体。";
+	dc:source "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2?fromtitle=%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2&fromid=3073211".
+
+performer:mengzhilvzuhe
+	foaf:name "梦之旅组合";
+    whois:publication "《红梅花儿开》、《情深谊长》";
+	dc:source "https://baike.baidu.com/item/%E6%A2%A6%E4%B9%8B%E6%97%85%E7%BB%84%E5%90%88".
+
+performer:maguoguang
+	foaf:name "马国光";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "北京"
+    ] ;
+	whois:born "1932/1";
+	whois:until "1989/11/21";
+	whois:career [
+    a whois:job ;
+    rdfs:label "演员、歌手"
+    ] ;
+    whois:publication "《真是乐死人》、《两个小伙一般高》、《一路行军一路歌》";
+	whois:achievement "《我和班长》、《战斗的岗位就是家》，分别获1964年、1977年第三、第四届中国人民解放军文艺会演演员奖。";
+	dc:source "https://baike.baidu.com/item/%E9%A9%AC%E5%9B%BD%E5%85%89/5664700".
+
+performer:yuyueyue
+	foaf:name "喻越越";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "江西省抚州市"
+    ] ;
+	whois:born "1986/8/26";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手"
+    ] ;
+    whois:publication "《二泉吟》、《我和你》";
+	whois:achievement "2008年担任北京奥运会开幕式歌曲原唱。";
+	dc:source "https://baike.baidu.com/item/%E5%96%BB%E8%B6%8A%E8%B6%8A".

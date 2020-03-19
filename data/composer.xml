@@ -1,0 +1,1414 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix whois: <http://www.kanzaki.com/ns/whois#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix bio: <http://purl.org/vocab/bio/0.1/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix event:<http://purl.org/NET/c4dm/event.owl#>.
+@prefix composer:<http://baixue.com/composer/>.
+
+composer:nieer
+	foaf:name "聂耳";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "云南省玉溪市"
+    ] ;
+	whois:born "1912/2/14";
+	whois:until "1935/7/17";
+	whois:publication "《义勇军进行曲》、《饥寒交迫之歌》、《卖报歌》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "音乐家、作曲家"
+    ] ;
+	whois:achievement """聂耳创作了数十首革命歌曲，他的一系列作品影响中国音乐几十年。他的音乐创作具有鲜明的时代感、严肃的思想性、高昂的民族精神和卓越的艺术创造性，为中国无产阶级革命音乐的发展指出了方向，树立了中国音乐创作的榜样。创作了中华人民共和国国歌《义勇军进行曲》。""";
+	dc:source "https://baike.baidu.com/item/%E8%81%82%E8%80%B3/25310".
+
+composer:xianxinghai
+	foaf:name "冼星海";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "澳门"
+    ] ;
+	whois:born "1905/6/13";
+	whois:until "1945/10/30";
+	whois:publication "《黄河大合唱》、《生产运动大合唱》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家、钢琴家"
+    ] ;
+	whois:achievement "有“人民音乐家”之称。冼星海创作了《黄河大合唱》《生产大合唱》等不朽名作。特别是国人最为耳熟能详的《黄河大合唱》，在烽火连天的抗战岁月里，传唱大江南北，极大地鼓舞了民族士气，振奋了民族精神，成为中华民族抗敌救国的精神武器，是中华民族不朽的英雄乐章。";
+	dc:source "https://baike.baidu.com/item/%E5%86%BC%E6%98%9F%E6%B5%B7/13913".
+
+composer:zhenglvcheng
+	foaf:name "郑律成";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "朝鲜（现韩国）全罗南道光州"
+    ] ;
+	whois:born "1914/8/13";
+	whois:until "1976/12/7";
+	whois:publication "《延安颂》、《中国人民解放军进行曲》、《朝鲜人民军进行曲》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "100位为新中国成立作出突出贡献的英雄模范人物之一。";
+	dc:source "https://baike.baidu.com/item/%E9%83%91%E5%BE%8B%E6%88%90".
+
+composer:caohuoxing
+	foaf:name "曹火星";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河北省平山县"
+    ] ;
+	whois:born "1924/10";
+	whois:until "1999/4/16";
+	whois:publication "《没有共产党就没有新中国》、《我们的祖国到处是春天》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家、作词家"
+    ] ;
+	whois:achievement "曹火星一生创作了1600多首歌曲，被誉为“人民音乐家”。";
+	dc:source "https://baike.baidu.com/item/%E6%9B%B9%E7%81%AB%E6%98%9F".
+
+composer:wangshen
+	foaf:name "王莘";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "江苏省荡口县"
+    ] ;
+	whois:born "1918/10";
+	whois:until "2007/10/15";
+	whois:publication "《歌唱祖国》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家、作词家"
+    ] ;
+	whois:achievement "中国音协“金钟奖”终身成就奖获得者。";
+	dc:source "https://baike.baidu.com/item/%E7%8E%8B%E8%8E%98/19240".
+
+composer:zhouweizhi
+	foaf:name "周巍峙";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "江苏省东台县"
+    ] ;
+	whois:born "1916/6/13";
+	whois:until "2014/9/12";
+	whois:publication "《中国人民志愿军战歌》、《九一八纪念歌》、《十里长街送总理》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "音乐家"
+    ] ;
+	whois:achievement "曾获文化部第一届文化艺术科学成果特别奖、突出贡献老一辈音乐家”奖。";
+	dc:source "https://baike.baidu.com/item/%E5%91%A8%E5%B7%8D%E5%B3%99".
+
+composer:lvqiming
+	foaf:name "吕其明";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "安徽省无为县"
+    ] ;
+	whois:born "1930/5";
+	whois:publication "《红旗颂》、《弹起我心爱的土琵琶》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "以其管弦乐序曲《红旗颂》、交响叙事诗《白求恩》等一批大气磅礴的交响乐杰作，开一代先河，奠定了他在中国音乐史上不可撼动的地位。以《红旗颂》《弹起我心爱的土琵琶》获第十届中国金唱片奖综合类最佳创作奖。";
+	dc:source "https://baike.baidu.com/item/%E5%90%95%E5%85%B6%E6%98%8E".
+
+composer:liuchi
+	foaf:name "刘炽";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "陕西省西安市"
+    ] ;
+	whois:born "1921/3/10";
+	whois:until "1998/10/23";
+	whois:publication "歌剧《阿诗玛》、歌曲《我的祖国》、《让我们荡起双桨》、《英雄赞歌》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "电影作曲、歌曲家"
+    ] ;
+	whois:achievement """作品《祖国的花朵》获电影音乐奖。《让我们荡起双桨》在全国获多种奖项。《我的祖国》获全国首届金唱片奖。
+《卫士的摇篮》《矿工是人类的太阳》获全国歌曲金奖。""";
+	dc:source "https://baike.baidu.com/item/%E5%88%98%E7%82%BD/5296520".
+
+composer:quxixian
+	foaf:name "瞿希贤";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "上海"
+    ] ;
+	whois:born "1919/9/23";
+	whois:until "2008/3/19";
+	whois:publication "《听妈妈讲那过去的事情》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "音乐家，作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E7%9E%BF%E5%B8%8C%E8%B4%A4".
+
+composer:ouyangqianshu
+	foaf:name "欧阳谦叔";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "湖南省湘乡县"
+    ] ;
+	whois:born "1926";
+	whois:until "2003";
+	whois:publication "《洪湖水，浪打浪》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "北京电影制片厂将欧阳谦叔等创作的《洪湖赤卫队》拍摄成为同名歌剧艺术片，影片保留了原舞台剧的全部精彩唱段，获得1961年首届电影百花奖最佳音乐奖。";
+	dc:source "https://baike.baidu.com/item/%E6%AC%A7%E9%98%B3%E8%B0%A6%E5%8F%94".
+
+composer:zhangjingan
+	foaf:name "张敬安";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "湖北省麻城"
+    ] ;
+	whois:publication "《洪湖水，浪打浪》、《洪湖赤卫队》、《罗汉钱》、《泪血樱花》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "音乐家"
+    ] ;
+	whois:achievement "北京电影制片厂将欧阳谦叔等创作的《洪湖赤卫队》拍摄成为同名歌剧艺术片，影片保留了原舞台剧的全部精彩唱段，获得1961年首届电影百花奖最佳音乐奖。";
+	dc:source "https://baike.baidu.com/item/%E5%BC%A0%E6%95%AC%E5%AE%89/68766#viewPageContent".
+
+composer:wangxiren
+	foaf:name "王锡仁";
+	foaf:gender "男";
+	whois:born "1929/10";
+	whois:until "2010/2/11";
+	whois:publication "《红珊瑚》、《太阳最红，毛主席最亲》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E7%8E%8B%E9%94%A1%E4%BB%81/9681334".
+
+composer:hushiping
+	foaf:name "胡士平";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "安徽省无为县"
+    ] ;
+	whois:born "1924";
+	whois:until "2013/9/13";
+	whois:publication "《红珊瑚》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "荣获独立功勋荣誉章，享受政府特殊津贴，获中国歌剧研究院颁发的“歌剧作曲”终身成就奖。";
+	dc:source "https://baike.baidu.com/item/%E8%83%A1%E5%A3%AB%E5%B9%B3".
+
+composer:yangming
+	foaf:name "羊鸣";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "山东省蓬莱市"
+    ] ;
+	whois:born "1934";
+	whois:publication "《我爱祖国的蓝天》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "创作的歌曲《我爱祖国的蓝天》、歌剧音乐《江姐》（与人合作）分别获1964年第三届和1977年第四届中国人民解放军文艺会演创作优秀奖和创作奖。歌剧音乐《忆娘》（与人合作）1979年获中华人民共和国建国三十周年献礼演出创作一等奖。";
+	dc:source "https://baike.baidu.com/item/%E7%BE%8A%E9%B8%A3".
+
+composer:jiming
+	foaf:name "寄明";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "江苏省淮安市"
+    ] ;
+	whois:born "1917";
+	whois:until "1997/1/13";
+	whois:publication "《我们是共产主义接班人》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家、钢琴演奏家"
+    ] ;
+	whois:achievement "1978年为《英雄小八路》创作的主题歌《我们是共产主义接班人》，获1954-1979年第二届全国少年儿童文艺创作一等奖，并由共青团中央定为中国少年先锋队队歌，1980年获少年儿童音乐作品一等奖。";
+	dc:source "https://baike.baidu.com/item/%E5%AF%84%E6%98%8E".
+
+composer:leizhenbang
+	foaf:name "雷振邦";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "北京"
+    ] ;
+	whois:born "1916";
+	whois:until "1997";
+	whois:publication "《冰山上的来客》、《刘三姐》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "新中国最著名的电影音乐人。";
+	dc:source "https://baike.baidu.com/item/%E9%9B%B7%E6%8C%AF%E9%82%A6".
+
+composer:zangdongsheng
+	foaf:name "臧东升";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "黑龙江省嫩江县"
+    ] ;
+	whois:born "1937年";
+	whois:until "2015/11/22";
+	whois:publication "《情深谊长》、《兰花》、《伟大的祖国》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E8%87%A7%E4%B8%9C%E5%8D%87".
+
+composer:lijiefu
+	foaf:name "李劫夫";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "吉林省农安县"
+    ] ;
+	whois:born "1913/11/17";
+	whois:until "1976/12/17";
+	whois:publication "《我们走在大路上》、《革命人永远是年轻》、《沁园春·雪》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "军人、歌曲作曲家，音乐教育家"
+    ] ;
+	whois:achievement "李劫夫有广泛的文艺才能，对美术、文学、戏剧都有较高的造诣，其突出的艺术成就表现在歌曲创作方面。他对中国民族民间音乐及人民群众的音乐审美习惯有深刻的了解，他的作品大都具有浓郁的民族风格和通俗、质朴、自然、生动的艺术特色。他以民间分节歌形式写作的许多叙事歌曲，如《歌唱二小放牛郎》、《王禾小唱》和《忘不了》等，生动地反映了抗日战争时期人民群众的斗争生活和英雄事迹，曲调亲切动听、结构简练严谨，曾流行于华北各抗日民主根据地。他运用北方说唱音乐、戏曲音乐的艺术手法于歌曲创作之中，扩大了歌曲体裁的表现容量。在《八月十五》、《常家庄的故事》、《胜利花开遍地红》等歌曲和歌剧《星星之火》等作品中，表现出他对歌词的处理、对音乐语言的推陈出新所具有的独到功力。歌曲《我们走在大路上》热情洋溢、豪迈乐观，具有强烈的时代气息。他为毛泽东诗词谱写的歌曲，如《蝶恋花·答李淑一》、《沁园春·雪》、《七律二首·送瘟神》和《浪淘沙·北戴河》等，成功地体现了时代性与民族性的结合，或气势雄伟，或委婉细腻，具有较高艺术价值。";
+	dc:source "https://baike.baidu.com/item/%E6%9D%8E%E5%8A%AB%E5%A4%AB#2".
+
+composer:zhujianer
+	foaf:name "朱践耳";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "安徽省泾县"
+    ] ;
+	whois:born "1922/10/18";
+	whois:until "2017/8/15";
+	whois:publication "《唱支山歌给党听》、《接过雷锋的枪》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家、音乐家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E6%9C%B1%E8%B7%B5%E8%80%B3".
+
+composer:dumingxin
+	foaf:name "杜鸣心";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "湖北省潜江县"
+    ] ;
+	whois:born "1928";
+	whois:publication "《红色娘子军》、《飘扬吧，军旗》、《祖国的南海》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E6%9D%9C%E9%B8%A3%E5%BF%83".
+
+composer:jiangchunyang
+	foaf:name "姜春阳";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "辽宁省丹东市"
+    ] ;
+	whois:born "1930";
+	whois:publication "《我飞在祖国的天空》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E5%A7%9C%E6%98%A5%E9%98%B3".
+
+composer:jinsha
+	foaf:name "金砂";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "四川省铜梁县"
+    ] ;
+	whois:publication "《红梅赞》、《毛主席来到咱农庄》、歌剧《江姐》";
+	dc:source "https://baike.baidu.com/item/%E9%87%91%E7%A0%82".
+
+composer:husonghua
+	foaf:name "胡松华";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "北京"
+    ] ;
+	whois:born "1931/2";
+	whois:publication "《赞歌》、《塔吉克牧人之歌》、《上去高山望平川》、《美丽的草原我的家》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "男高音歌唱家"
+    ] ;
+	whois:achievement "曾获金唱片奖、四十年广播首唱金曲奖、文化部新作演唱评比一等奖、全球华语歌曲最高投票奖等。";
+	dc:source "https://baike.baidu.com/item/%E8%83%A1%E6%9D%BE%E5%8D%8E/34353".
+
+composer:qinyongcheng
+	foaf:name "秦咏诚";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "辽宁省大连市"
+    ] ;
+	whois:born "1933";
+	whois:until "2015/6/25";
+	whois:publication "《我为祖国献石油》、《我和我的祖国》 ";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "声乐协奏曲《海燕》获第二届全国音乐作品铖良奖";
+	dc:source "https://baike.baidu.com/item/%E7%A7%A6%E5%92%8F%E8%AF%9A".
+
+composer:fujing
+	foaf:name "傅晶";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "吉林省辽源市"
+    ] ;
+	whois:born "1932";
+	whois:publication "《蝶恋花·答李淑一》、《北京颂歌》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E5%82%85%E6%99%B6/7028679#viewPageContent".
+
+composer:tianguang
+	foaf:name "田光";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河北省饶阳县"
+    ] ;
+	whois:born "1925/9";
+	whois:until "2009/2";
+	whois:publication "《美好的赞歌》、《献给你的旋律》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E7%94%B0%E5%85%89/2174772#viewPageContent".
+
+composer:shiguangnan
+	foaf:name "施光南";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "重庆"
+    ] ;
+	whois:born "1940/8/22";
+	whois:until "1990/5/2";
+	whois:publication "《最美的赞歌献给党》、《月光下的凤尾竹》、《祝酒歌》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家、音乐家"
+    ] ;
+	whois:achievement "2018年12月18日，党中央、国务院授予施光南改革先锋称号，颁授改革先锋奖章，获评“谱写改革开放赞歌的音乐家”。其作品《祝酒歌》获庆祝建国30周年献礼演出一等创作奖及1980年听众喜爱的广播歌曲评选第一名，并被联合国科教文组织和亚洲文化中心选为在亚洲青少年中推荐的歌曲。《吐鲁番的葡萄熟了》在1980年文化部及中国音协主办的优秀群众歌曲评选中获奖。《立功喜报寄回家》在全军第三届文艺会演中获优秀创作奖。";
+	dc:source "https://baike.baidu.com/item/%E6%96%BD%E5%85%89%E5%8D%97".
+
+composer:hubaoshan
+	foaf:name "胡宝善";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "北京"
+    ] ;
+	whois:born "1935/6";
+	whois:until "2019/9/13";
+	whois:publication "《我爱这蓝色的海洋》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "演艺、海政歌舞团男中音歌唱家"
+    ] ;
+	whois:achievement "国家一级演员";
+	dc:source "https://baike.baidu.com/item/%E8%83%A1%E5%AE%9D%E5%96%84".
+
+composer:fugenchen
+	foaf:name "傅庚辰";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "黑龙江哈尔滨市"
+    ] ;
+	whois:born "1935/11";
+	whois:publication "《红星照我去战斗》、《闪闪的红星》、《毛主席的话儿记心上》、《歌唱大别山》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "获得第十届中国音乐金钟奖“终身成就音乐艺术家”称号。";
+	dc:source "https://baike.baidu.com/item/%E5%82%85%E5%BA%9A%E8%BE%B0".
+
+composer:wangming
+	foaf:name "王酩";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "上海";
+    ] ;
+	whois:born "1934/11/8";
+	whois:until "1997/12/5";
+	whois:publication "《绒花》、《妹妹找哥泪花流》、《边疆的泉水清又纯》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "中国交响乐团一级作曲家、享受国家津贴。其作品曾多次获得各奖项。";
+	dc:source "https://baike.baidu.com/item/%E7%8E%8B%E9%85%A9".
+
+composer:zhunanxi
+	foaf:name "朱南溪";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "江苏省灌南县"
+    ] ;
+	whois:born "1929";
+	whois:publication "《中国，中国，鲜红的太阳永不落》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "歌舞音乐《丰收歌》在第三届全军文艺晚会演时，被评为优秀作品奖），大型歌舞音乐《东海前哨之歌》，歌曲《中国，中国，鲜红的太阳永不落》获1980年国务院文化部中国音协优秀群众奖。";
+	dc:source "https://baike.baidu.com/item/%E6%9C%B1%E5%8D%97%E6%BA%AA".
+
+composer:alatengaole
+	foaf:name "阿拉腾奥勒";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "内蒙古通辽市科左后旗"
+    ] ;
+	whois:born "1942/9/30";
+	whois:until "2011/8/11";
+	whois:publication "《美丽的草原我的家》、《敬祝毛主席万寿无疆》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "荣获“内蒙古自治区文学艺术杰出贡献奖和金质奖章”、“萨日纳杰出贡献奖”，被授予内蒙古自治区杰出作曲家称号。";
+	dc:source "https://baike.baidu.com/item/%E9%98%BF%E6%8B%89%E8%85%BE%E5%A5%A5%E5%8B%92".
+
+composer:tanghe
+	foaf:name "唐诃";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河北省易县"
+    ] ;
+	whois:born "1922";
+	whois:until "2013/7/25";
+	whois:publication "《众手浇开幸福花》、《祖国祖国我爱你》、《长征组歌》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E5%94%90%E8%AF%83".
+
+composer:lvyuan
+	foaf:name "吕远";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "辽宁省丹东市"
+    ] ;
+	whois:born "1929/9";
+	whois:publication "《泉水叮咚响》、《克拉玛依之歌》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "词作曲家、音乐家"
+    ] ;
+	whois:achievement "歌剧获日本和平与友谊金奖。";
+	dc:source "https://baike.baidu.com/item/%E5%90%95%E8%BF%9C/5296651".
+
+composer:zhengqiufeng
+	foaf:name "郑秋枫";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "辽宁省丹东市"
+    ] ;
+	whois:born "1931";
+	whois:publication "《我爱你，中国》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "音乐家、作曲家"
+    ] ;
+	whois:achievement "1987年被列为中国十大音乐家。2019年10月28日，获“终身成就音乐艺术家”荣誉称号。";
+	dc:source "https://baike.baidu.com/item/%E9%83%91%E7%A7%8B%E6%9E%AB".
+
+composer:gujianfen
+	foaf:name "谷建芬";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "日本大阪"
+    ] ;
+	whois:born "1935";
+	whois:publication "《今天是你的生日》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "中国金唱片奖，金钟奖“终身成就音乐艺术家”。";
+	dc:source "https://baike.baidu.com/item/%E8%B0%B7%E5%BB%BA%E8%8A%AC".
+
+composer:liushizhao
+	foaf:name "刘诗召";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河南省开封市"
+    ] ;
+	whois:born "1936年";
+	whois:publication "《爱的奉献》、《军港之夜》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E5%88%98%E8%AF%97%E5%8F%AC".
+
+composer:luzaiyi
+	foaf:name "陆在易";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "浙江省余姚市"
+    ] ;
+	whois:born "1943";
+	whois:publication "《雨后彩虹》、《祖国，慈祥的母亲》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "国家一级作曲。其作品《中国，我可爱的母亲》曾获中国音乐最高奖《金钟奖》及上海市文学艺术界高荣誉奖——上海文学艺术奖等多项大奖。《蓝天·太阳与追求——为女声合唱队与乐队而作》曾获全国第五届音乐创作评比（合唱）大型作品二等奖。交响音画《睡莲》及交响小品二首（1，南国抒怀；2，夜林酣舞）曾获第十届“上海之春”音乐节优秀作品奖。艺术歌曲三首《桥·家·盼》和艺术歌曲《我爱这土地》在2001年与2002年分别获首届和第二届中国音乐最高奖《金钟奖》。";
+	dc:source "https://baike.baidu.com/item/%E9%99%86%E5%9C%A8%E6%98%93".
+
+composer:lixiaotian
+	foaf:name "黎小田";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "香港"
+    ] ;
+	whois:born "1946";
+	whois:until "2019/12/1";
+	whois:publication "《大地恩情》、《万里长城永不倒》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "1989年第八届香港电影金像奖最佳电影配乐、最佳电影歌曲 、2005年第五届华语音乐传媒大奖殿堂作曲家奖、2006年金帆音乐奖终身成就奖";
+	dc:source "https://baike.baidu.com/item/%E9%BB%8E%E5%B0%8F%E7%94%B0".
+
+composer:wangfuling
+	foaf:name "王福龄";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "上海"
+    ] ;
+	whois:born "1925";
+	whois:until "1989";
+	whois:publication "《我的中国心》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E7%8E%8B%E7%A6%8F%E9%BE%84".
+
+composer:wangshiguang
+	foaf:name "王世光";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "山东省青岛市"
+    ] ;
+	whois:born "1941";
+	whois:publication "《松花江上》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E7%8E%8B%E4%B8%96%E5%85%89/13474624?fr=aladdin".
+
+composer:zhonglimin
+	foaf:name "钟立民";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "江西省南昌市"
+    ] ;
+	whois:born "1925";
+	whois:until "2017/5/15";
+	whois:publication "《鼓浪屿之波》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家、编审"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E9%92%9F%E7%AB%8B%E6%B0%91".
+
+composer:xuxiyi
+	foaf:name "徐锡宜";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "上海"
+    ] ;
+	whois:born "1938";
+	whois:until "2017/8/22";
+	whois:publication "《战士歌唱毛主席》、《中国中国我爱你》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家、指挥家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E5%BE%90%E9%94%A1%E5%AE%9C".
+
+composer:shitieyuan
+	foaf:name "石铁源";
+	foaf:gender "男";
+	whois:publication "《我为伟大祖国站岗》、《在那桃花盛开的地方》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "一级作曲。歌曲《我为伟大祖国站岗》《在那桃花盛开的地方》等30余首（部）作品获全国、全军奖。享受国务院特殊津贴。";
+	dc:source "https://baike.baidu.com/item/%E9%93%81%E6%BA%90/11055385".
+
+composer:madianyin
+	foaf:name "马殿银";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河北省邯郸市"
+    ] ;
+	whois:publication "《党啊，亲爱的妈妈》、《旗帜》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "国家一级作曲。".
+
+composer:shixin
+	foaf:name "士心";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "天津"
+    ] ;
+	whois:born "1955/11/26";
+	whois:until "1993/6/30";
+	whois:publication "《说句心里话》、《小白杨》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "演员、作曲家"
+    ] ;
+	whois:achievement "全国第二届青年歌手大奖赛第一名。";
+	dc:source "https://baike.baidu.com/item/%E5%A3%AB%E5%BF%83".
+
+composer:liuweiguang
+	foaf:name "刘为光";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "广东省潮州市"
+    ] ;
+	whois:publication "《共和国之恋》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "中央电视台新影中心国家一级作曲家、中国电影音乐学会副会长，享受国务院特殊津贴专家。";
+	dc:source "https://baike.baidu.com/item/%E5%88%98%E4%B8%BA%E5%85%89/927165".
+
+composer:xupeidong
+	foaf:name "徐沛东";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "辽宁省大连市"
+    ] ;
+	whois:born "1954/2/1";
+	whois:publication "《大地飞歌》、《爱我中华》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E5%BE%90%E6%B2%9B%E4%B8%9C/2583824".
+
+composer:luodayou
+	foaf:name "罗大佑";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "台湾省台北市"
+    ] ;
+	whois:born "1954/7/20";
+	whois:publication "《东方之珠》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "歌手、词曲创作人、音乐人、作家"
+    ] ;
+	whois:achievement "曾获香港电影金像奖最佳原创电影歌曲、台湾电影金马奖最佳原创电影歌曲、美国VMA亚洲最佳录影带奖、中国金唱片奖艺术成就奖、音乐风云榜终身成就奖";
+	dc:source "https://baike.baidu.com/item/%E7%BD%97%E5%A4%A7%E4%BD%91/236869".
+
+composer:zhangqianyi
+	foaf:name "张千一";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "辽宁省沈阳市"
+    ] ;
+	whois:born "1959/9";
+	whois:publication "《牧歌》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E5%BC%A0%E5%8D%83%E4%B8%80/26842".
+
+composer:wangyougui
+	foaf:name "王佑贵";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "湖南郴州市"
+    ] ;
+	whois:born "1949";
+	whois:publication "《春天的故事》、《长大后我就成了你》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E7%8E%8B%E4%BD%91%E8%B4%B5/22498968#viewPageContent".
+
+composer:mengqingyun
+	foaf:name "孟庆云";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河北省三河市"
+    ] ;
+	whois:born "1949";
+	whois:publication "《长城长》、《为了谁》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "其作品多次荣获“文华奖”、“金钟奖”、“五个一工程”奖等重要奖项。";
+	dc:source "https://baike.baidu.com/item/%E5%AD%9F%E5%BA%86%E4%BA%91/39497".
+
+composer:yinqing
+	foaf:name "印青";
+	foaf:gender "男";
+	whois:born "1954/5";
+	whois:publication "《走进新时代》、《西部放歌》、《天路》、《世纪春雨》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "国家一级作曲家。".
+
+composer:lihaiying
+	foaf:name "李海鹰";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "广东省广州市"
+    ] ;
+	whois:born "1954";
+	whois:publication "《弯弯的月亮》、《七子之歌》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家、音乐总监"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E6%9D%8E%E6%B5%B7%E9%B9%B0/2986".
+
+composer:xiaobai
+	foaf:name "肖白";
+	foaf:gender "男";
+	whois:publication "《举杯吧朋友》、《奥林匹克风》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家、指挥家"
+    ] ;
+	whois:achievement "歌曲《奥林匹克风》获1992年中国十大金曲作曲金奖第一名。歌曲《不能没有你》获1996年春节晚会观众最喜爱的歌曲一等奖。歌曲《公元一九九七》获中国音乐电视MTV大赛作曲金奖等各种国家级奖项十余个。";
+	dc:source "https://baike.baidu.com/item/%E8%82%96%E7%99%BD/1018559".
+
+composer:liuqing
+	foaf:name "刘青";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "重庆市"
+    ] ;
+	whois:publication "《五星红旗》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "国家一级作曲家，享受国务院颁发的政府特殊津贴。";
+	dc:source "https://baike.baidu.com/item/%E5%88%98%E9%9D%92/10411352#viewPageContent".
+
+composer:caojin
+	foaf:name "曹进";
+	foaf:gender "男";
+	whois:publication "《祖国不会忘记》、《军旅之恋》、《无悔的选择》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家、文艺导演、军人"
+    ] ;
+	whois:achievement "歌曲《祖国不会忘记》《无悔的选择》获得第八届全国“五个一工程”奖。《请祖国检阅》《军旅之恋》分别在建国五十周年征歌、全军文艺会演中荣获一等奖；2013年荣获全国 “德艺双馨”艺术家荣誉称号；荣立二等功1次、三等功7次。";
+	dc:source "https://baike.baidu.com/item/%E6%9B%B9%E8%BF%9B/71058".
+
+composer:zhanghongguang
+	foaf:name "张宏光";
+	foaf:gender "男";
+	whois:publication "《精忠报国》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "第三批国家“万人计划”哲学社会科学领军人才。";
+	dc:source "https://baike.baidu.com/item/%E5%BC%A0%E5%AE%8F%E5%85%89/77988?fr=aladdin".
+
+composer:hemuyang
+	foaf:name "何沐阳";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "湖南省"
+    ] ;
+	whois:publication "《美丽中国》、《天耀中华》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作词人、制作人、策划人"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E4%BD%95%E6%B2%90%E9%98%B3".
+
+composer:nuankai
+	foaf:name "栾凯";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "山东省济南市"
+    ] ;
+	whois:publication "《沂蒙山》、《我们从古田再出发》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家、音乐人"
+    ] ;
+	whois:achievement "08奥运、第16届亚运会残亚会音乐主创。作曲的大型民族歌剧《沂蒙山》荣获中宣部第十五届精神文明建设“五个一工程”奖。";
+	dc:source "https://baike.baidu.com/item/%E6%A0%BE%E5%87%AF".
+
+composer:zhoupeng
+	foaf:name "周澎";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "陕西省商洛市"
+    ] ;
+	whois:born "1983/6/2";
+	whois:publication "《美丽中国走起来》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家、歌手"
+    ] ;
+	whois:achievement "获得第十届全国职工歌手大赛“金奖”。作品曾荣获“全国五个一工程奖”和“中国梦全国原创歌曲最佳作品奖”。";
+	dc:source "https://baike.baidu.com/item/%E5%91%A8%E6%BE%8E".
+
+composer:wangbei
+	foaf:name "王备";
+	foaf:gender "男";
+	whois:publication "《再一次出发》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "音乐制作人、作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E7%8E%8B%E5%A4%87".
+
+composer:yanke
+	foaf:name "彦克";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "山西省孝义县"
+    ];
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家、军人"
+    ] ;
+	whois:achievement "曾获三级独立自由勋章、三级解放勋章。多次获得中国人民解放军文艺会演优秀创作奖。";
+	dc:source "https://baike.baidu.com/item/%E5%BD%A6%E5%85%8B".
+
+composer:lixin
+	foaf:name "李昕";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "辽宁省葫芦岛市"
+    ] ;
+	whois:born "1958";
+	whois:publication "《人民空军忠于党》、《爱国爱家也爱你》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "国家一级作曲。";
+	dc:source "https://baike.baidu.com/item/%E6%9D%8E%E6%98%95/2069958#viewPageContent".
+
+composer:sanbao
+	foaf:name "三宝";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "内蒙古自治区呼和浩特市"
+    ] ;
+	whois:born "1968/6/5";
+	whois:publication "《你是这样的人》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "音乐制作人、曲作者、演奏指挥者"
+    ] ;
+	whois:achievement "第22届中国电影金鸡奖最佳音乐奖。";
+	dc:source "https://baike.baidu.com/item/%E4%B8%89%E5%AE%9D/10175163".
+
+composer:shengmao
+	foaf:name "生茂";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河北省晋县"
+    ] ;
+	whois:born "1928/6/6";
+	whois:until "2007/11/24";
+	whois:publication "《真是乐死人》、《祖国一片新面貌》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "享受国务院特殊津贴。获第三届中国人民解放军文艺会演优秀奖。";
+	dc:source "https://baike.baidu.com/item/%E7%94%9F%E8%8C%82".
+
+composer:xujingxin
+	foaf:name "徐景新";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "上海市奉贤县"
+    ] ;
+	whois:born "1943";
+	whois:until "《难忘的战斗》";
+	whois:publication "作曲家";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "国家一级作曲";
+	dc:source "https://baike.baidu.com/item/%E5%BE%90%E6%99%AF%E6%96%B0/9773925".
+
+composer:huangzhun
+	foaf:name "黄准";
+	foaf:gender "女";
+	whois:where [
+    a whois:born ;
+    rdfs:label "浙江台州市"
+    ] ;
+	whois:born "1926";
+	whois:publication "《青春万岁》、《红色娘子军》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "曾获全国儿童歌曲奖、全国青年最喜爱的歌曲三等奖。";
+	dc:source "https://baike.baidu.com/item/%E9%BB%84%E5%87%86/5549727".
+
+composer:maixin
+	foaf:name "麦新";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "上海市"
+    ] ;
+	whois:born "1914";
+	whois:until "1947";
+	whois:publication "《大刀进行曲》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E9%BA%A6%E6%96%B0".
+
+composer:zhangshixie
+	foaf:name "张士燮";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "天津"
+    ] ;
+	whois:born "1932";
+	whois:publication "《毛主席来到咱农庄》、《社员都是向阳花》、《十送红军》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "军人、词作家"
+    ] ;
+	whois:achievement "其作品中近30首歌曲获全国、全军各种奖项。";
+	dc:source "https://baike.baidu.com/item/%E5%BC%A0%E5%A3%AB%E7%87%AE".
+
+composer:shilemeng
+	foaf:name "时乐濛";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河南省伊川县"
+    ] ;
+	whois:born "1915";
+	whois:until "2008";
+	whois:publication "《千里跃进大别山》、《祖国万岁》、《长征》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家、指挥家"
+    ] ;
+	whois:achievement "中国音乐“金钟奖·终身成就奖”获得者";
+	dc:source "https://baike.baidu.com/item/%E6%97%B6%E4%B9%90%E6%BF%9B".
+
+composer:chengen
+	foaf:name "晨耕";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河北省完县"
+    ] ;
+	whois:born "1923";
+	whois:publication "《我和班长》、《歌唱光荣的八大员》、《长征组歌》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "音乐家"
+    ] ;
+	whois:achievement "作品曾多次获得全军文艺会演优秀奖，歌曲《忆战友》、《百灵鸟你往哪儿飞》分别获建国三十周年文艺会演一等奖。";
+	dc:source "https://baike.baidu.com/item/%E6%99%A8%E8%80%95".
+
+composer:yuqiu
+	foaf:name "遇秋";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河北省深泽县"
+    ] ;
+	whois:born "1929";
+	whois:until "2013";
+	whois:publication "《八一军旗高高飘扬》、《各族人民心向党》、《红军不怕远征难》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "中国人民解放军第一代手风琴手。".
+
+composer:make
+	foaf:name "马可";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "江苏省徐州市"
+    ] ;
+	whois:born "1918";
+	whois:until "1976/7/27";
+	whois:publication "《南泥湾》、《咱们工人有力量》、《夫妻识字》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E9%A9%AC%E5%8F%AF/1387605#viewPageContent".
+
+composer:luyi
+	foaf:name "卢怡";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河南省开封市"
+    ] ;
+	whois:born "1936/9";
+	whois:publication "《忠魂颂》、《红旗渠凯歌震天响》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "国家一级作曲。其作品曾多次获得各类奖项。";
+	dc:source "https://baike.baidu.com/item/%E5%8D%A2%E6%80%A1".
+
+composer:guanxia
+	foaf:name "关峡";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河南省开封市"
+    ] ;
+	whois:born "1957/6";
+	whois:publication "《公仆赞》、《木兰诗篇》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "国家一级作曲。";
+	dc:source "".
+
+composer:tangbiguang
+	foaf:name "唐璧光";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "湖南省东安县"
+    ] ;
+	whois:born "1920年农历正月";
+	whois:until "2015/7/24";
+	whois:publication "《浏阳河》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E5%94%90%E7%92%A7%E5%85%89".
+
+composer:lvwenke
+	foaf:name "吕文科";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河北省井陉县"
+    ] ;
+	whois:born "1930/8/16";
+	whois:until "1997/11/16";
+	whois:publication "《克拉玛依之歌》、《走上这高高的兴安岭》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E5%90%95%E6%96%87%E7%A7%91/4827148".
+
+composer:wangdahua
+	foaf:name "王大化";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "山东省潍坊市"
+    ] ;
+	whois:born "1919/5/16";
+	whois:until "1946/12/21";
+	whois:publication "《拥军花鼓》、《兄妹开荒》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "词作曲家"
+    ] ;
+	whois:achievement "中共东北局授予“人民艺术家”";
+	dc:source "https://baike.baidu.com/item/%E7%8E%8B%E5%A4%A7%E5%8C%96/605566".
+
+composer:leiyuansheng
+	foaf:name "雷远生";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "湖北省武汉市"
+    ] ;
+	whois:born "1951/11/15";
+	whois:publication "《再见了，大别山》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "代表作《再见了，大别山》获得了“ 中国首届金唱片奖”，入选“ 中国百年经典歌曲”，并被编入全国各大专院校声乐教材。";
+	dc:source "https://baike.baidu.com/item/%E9%9B%B7%E8%BF%9C%E7%94%9F".
+
+composer:huangyouyi
+	foaf:name "黄有异";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "广西省贺州市"
+    ] ;
+	whois:publication "《壮家小社员》、《赶圩归来啊哩哩》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "一级作曲。其作品《赶圩归来啊哩哩》于1988年获广西文艺创作“铜鼓奖”，后获全国优秀歌曲奖、亚洲艺术节特别奖，联合国科教文卫组选定为亚太地区音乐教材。";
+	dc:source "https://baike.baidu.com/item/%E9%BB%84%E6%9C%89%E5%BC%82".
+
+composer:liuxuean
+	foaf:name "刘雪庵";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "重庆市铜梁县"
+    ] ;
+	whois:born "1905";
+	whois:until "1985";
+	whois:publication "《流亡三部曲》、《长城谣》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "近现代作曲家、音乐理论家、音乐教育家，"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E5%88%98%E9%9B%AA%E5%BA%B5/65803".
+
+composer:zhanghaihui
+	foaf:name "张寒晖";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河北省定州市"
+    ] ;
+	whois:born "1902/5/5";
+	whois:until "1946/3/11";
+	whois:publication "《松花江上》、《军民大生产》、《去当兵》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "词作曲家、作家"
+    ] ;
+	whois:achievement "被誉为“人民艺术家”。";
+	dc:source "https://baike.baidu.com/item/%E5%BC%A0%E5%AF%92%E6%99%96#3_1".
+
+composer:heluting
+	foaf:name "贺绿汀";
+	foaf:gender " 男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "湖南省邵东县"
+    ] ;
+	whois:born "1903/7";
+	whois:until "1999/4/27";
+	whois:publication "《牧童短笛》、《摇篮曲》、《游击队歌》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "中国著名音乐家、教育家"
+    ] ;
+	whois:achievement "半个世纪以来，贺绿汀共创作了三部大合唱、二十四首合唱、近百首歌曲、六首钢琴曲、六首管弦乐曲、十多部电影音乐以及一些秧歌剧音乐和器乐独奏曲，并著有《贺绿汀音乐论文选集》。";
+	dc:source "https://baike.baidu.com/item/%E8%B4%BA%E7%BB%BF%E6%B1%80/464891".
+
+composer:zhaokaisheng
+	foaf:name "赵开生";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "江苏省常熟市"
+    ] ;
+	whois:born "1936";
+	whois:publication "《红梅赞》、《青春之歌》、《战地之花》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "评弹表演艺术家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E8%B5%B5%E5%BC%80%E7%94%9F".
+
+composer:houdejian
+	foaf:name "侯德健";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "台湾"
+    ] ;
+	whois:publication "《龙的传人》、《酒干倘卖无》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "其作品《酒干倘卖无》获第七届香港十大中文金曲奖（1984年）";
+	dc:source "https://baike.baidu.com/item/%E4%BE%AF%E5%BE%B7%E5%81%A5".
+
+composer:luonianyi
+	foaf:name "罗念一";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "四川省合江县"
+    ] ;
+	whois:publication "《美丽的西藏，可爱的家乡》、《西藏人民永远怀念周总理》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "舞剧《进军路上》分别获1964年、1977年第三、第四届中国人民解放军文艺会演作曲优秀奖和创作奖。";
+	dc:source "https://baike.baidu.com/item/%E7%BD%97%E5%BF%B5%E4%B8%80".
+
+composer:loushengmao
+	foaf:name "娄生茂";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "河北省晋州市"
+    ] ;
+	whois:born "1928";
+	whois:until "2007/11/24";
+	whois:publication "《看见你们格外亲》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "国家一级作曲家。";
+	dc:source "https://baike.baidu.com/item/%E5%A8%84%E7%94%9F%E8%8C%82".
+
+composer:lihuanzhi
+	foaf:name "李焕之";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "香港"
+    ] ;
+	whois:born "1919/1/12";
+	whois:until "2000/3/19";
+	whois:publication "《社会主义好》、《春节组曲》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家、指挥家、音乐理论家"
+    ] ;
+	dc:source "https://baike.baidu.com/item/%E6%9D%8E%E7%84%95%E4%B9%8B".
+
+composer:zhuzhengben
+	foaf:name "朱正本";
+	foaf:gender "男";
+	whois:where [
+    a whois:born ;
+    rdfs:label "安徽省凤台县"
+    ] ;
+	whois:born "1928";
+	whois:until "2012/4/28";
+	whois:publication "十送红军》、《送郎当红军》";
+	whois:career [
+    a whois:job ;
+    rdfs:label "作曲家"
+    ] ;
+	whois:achievement "被国务院文化部授予创作一等奖。";
+	dc:source "https://baike.baidu.com/item/%E6%9C%B1%E6%AD%A3%E6%9C%AC".
+
+
