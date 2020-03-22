@@ -1037,8 +1037,7 @@ lyricist:hejingzhi
     a whois:job ;
     rdfs:label "诗人、剧作家"
     ] ;
-	whois:achievement "创作第一部新歌剧《白毛女》
-获1951年斯大林文学奖";
+	whois:achievement "创作第一部新歌剧《白毛女》，获1951年斯大林文学奖";
 	dc:source "https://baike.baidu.com/item/%E8%B4%BA%E6%95%AC%E4%B9%8B".
 
 lyricist:ane
@@ -1051,8 +1050,7 @@ lyricist:ane
     ] ;
 	whois:born "1905/10/11";
 	whois:until "1976/8/18";
-	whois:publication "《卖报歌》、
-《渔光曲》、《高粱红了》";
+	whois:publication "《卖报歌》、《渔光曲》、《高粱红了》";
 	whois:career [
     a whois:job ;
     rdfs:label "剧作家、作词家、诗人、记者、翻译家"
