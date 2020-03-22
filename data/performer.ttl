@@ -729,8 +729,7 @@ performer:xuqianya
     rdfs:label "歌手"
     ] ;
     whois:publication "《彩云之南》、《美丽中国》";
-	whois:achievement "2010全国听众喜爱的歌手十大金牌歌手提名
-2005“A8音乐原创中国颁奖礼”年度最佳女歌手";
+	whois:achievement "2010全国听众喜爱的歌手十大金牌歌手提名";
 	dc:source "https://baike.baidu.com/item/%E5%BE%90%E5%8D%83%E9%9B%85".
 
 performer:wangli
