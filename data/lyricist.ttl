@@ -9,6 +9,7 @@
 
 lyricist:tianhan
 	foaf:name "田汉";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -26,6 +27,7 @@ lyricist:tianhan
 
 lyricist:guangweiran
 	foaf:name "光未然";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -42,6 +44,7 @@ lyricist:guangweiran
 
 lyricist:zhangsongru
 	foaf:name "张松如";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -58,6 +61,7 @@ lyricist:zhangsongru
 
 lyricist:caohuoxing
 	foaf:name "曹火星";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -74,6 +78,7 @@ lyricist:caohuoxing
 
 lyricist:wangshen
 	foaf:name "王莘";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -91,6 +96,7 @@ lyricist:wangshen
 
 lyricist:mafuyao
 	foaf:name "麻扶摇";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -108,6 +114,7 @@ lyricist:mafuyao
 
 lyricist:lumang
 	foaf:name "芦芒";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -123,10 +130,13 @@ lyricist:lumang
 	dc:source "https://baike.baidu.com/item/%E8%8A%A6%E8%8A%92".
 
 lyricist:hebin
-	foaf:name "何彬".
+	dc:subject "作词";
+	foaf:name "何彬"
+	.
 
 lyricist:qiaoyu
 	foaf:name "乔羽";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -144,6 +154,7 @@ lyricist:qiaoyu
 
 lyricist:guanhua
 	foaf:name "管桦";
+	dc:subject "作词";	
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -160,6 +171,7 @@ lyricist:guanhua
 
 lyricist:ouyangqianshu
 	foaf:name "欧阳谦叔";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -177,6 +189,7 @@ lyricist:ouyangqianshu
 
 lyricist:zhangjingan
 	foaf:name "张敬安";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -192,6 +205,7 @@ lyricist:zhangjingan
 
 lyricist:shanwen
 	foaf:name "单文";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:publication "《海阔天空》、《珊瑚颂》";
 	whois:career [
@@ -202,6 +216,7 @@ lyricist:shanwen
 
 lyricist:yansu
 	foaf:name "阎肃";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -219,6 +234,7 @@ lyricist:yansu
 
 lyricist:zhouyuhui
 	foaf:name "周郁辉";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -236,6 +252,7 @@ lyricist:zhouyuhui
 
 lyricist:lijiefu
 	foaf:name "李劫夫";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -253,6 +270,7 @@ lyricist:lijiefu
 
 lyricist:dumingxin
 	foaf:name "杜鸣心";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -269,6 +287,7 @@ lyricist:dumingxin
 
 lyricist:husonghua
 	foaf:name "胡松华";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -285,6 +304,7 @@ lyricist:husonghua
 
 lyricist:xiuzhuguo
 	foaf:name "薛柱国";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:born "1936";
 	whois:until "1997";
@@ -297,6 +317,7 @@ lyricist:xiuzhuguo
 
 lyricist:hongyuan
 	foaf:name "洪源";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -313,6 +334,7 @@ lyricist:hongyuan
 
 lyricist:hubaoshan
 	foaf:name "胡宝善";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -330,6 +352,7 @@ lyricist:hubaoshan
 
 lyricist:wudawei
 	foaf:name "邬大为";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -346,6 +369,7 @@ lyricist:wudawei
 
 lyricist:weibaogui
 	foaf:name "魏宝贵";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -362,6 +386,7 @@ lyricist:weibaogui
 
 lyricist:wangkaichuan
 	foaf:name "王凯传";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -379,6 +404,7 @@ lyricist:wangkaichuan
 
 lyricist:hedongjiu
 	foaf:name "贺东久";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -395,6 +421,7 @@ lyricist:hedongjiu
 
 lyricist:renhongju
 	foaf:name "任红举";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -411,6 +438,7 @@ lyricist:renhongju
 
 lyricist:huohua
 	foaf:name "火华";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -426,6 +454,7 @@ lyricist:huohua
 
 lyricist:qucong
 	foaf:name "瞿琮";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -442,6 +471,7 @@ lyricist:qucong
 
 lyricist:zhangmeitong
 	foaf:name "张枚同";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -458,6 +488,7 @@ lyricist:zhangmeitong
 
 lyricist:liushizhao
 	foaf:name "刘诗召";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -474,6 +505,7 @@ lyricist:liushizhao
 
 lyricist:liyourong
 	foaf:name "李幼容";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -489,6 +521,7 @@ lyricist:liyourong
 
 lyricist:luguozhan
 	foaf:name "卢国沾";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -505,6 +538,7 @@ lyricist:luguozhan
 
 lyricist:huangzhan
 	foaf:name "黄沾";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -525,6 +559,7 @@ lyricist:huangzhan
 
 lyricist:huhongwei
 	foaf:name "胡宏伟";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -541,6 +576,7 @@ lyricist:huhongwei
 
 lyricist:zhangli
 	foaf:name "张藜";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -558,6 +594,7 @@ lyricist:zhangli
 
 lyricist:shixiang
 	foaf:name "石祥";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:born "1939";
 	whois:publication "《祖国一片新面貌》、《十五的月亮》";
@@ -570,6 +607,7 @@ lyricist:shixiang
 
 lyricist:liuyiran
 	foaf:name "刘毅然";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -586,6 +624,7 @@ lyricist:liuyiran
 
 lyricist:shishunyi
 	foaf:name "石顺义";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -601,7 +640,8 @@ lyricist:shishunyi
 	dc:source "https://baike.baidu.com/item/%E7%9F%B3%E9%A1%BA%E4%B9%89".
 
 lyricist:hanjingting
-	foaf:name "韩静霆 ";
+	foaf:name "韩静霆";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -618,6 +658,7 @@ lyricist:hanjingting
 
 lyricist:zhengguojiang
 	foaf:name "郑国江";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -635,6 +676,7 @@ lyricist:zhengguojiang
 
 lyricist:zhangqianyi
 	foaf:name "张千一";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -651,6 +693,7 @@ lyricist:zhangqianyi
 
 lyricist:yexuquan
 	foaf:name "叶旭全";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -667,6 +710,7 @@ lyricist:yexuquan
 
 lyricist:jiangkairu
 	foaf:name "蒋开儒";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -683,6 +727,7 @@ lyricist:jiangkairu
 
 lyricist:wenyiduo
 	foaf:name "闻一多";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -699,6 +744,7 @@ lyricist:wenyiduo
 
 lyricist:quyuan
 	foaf:name "屈塬";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -718,6 +764,7 @@ lyricist:quyuan
 
 lyricist:jiading
 	foaf:name "甲丁";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -734,6 +781,7 @@ lyricist:jiading
 
 lyricist:wangxiaoling
 	foaf:name "王晓岭";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -751,6 +799,7 @@ lyricist:wangxiaoling
 
 lyricist:hemuyang
 	foaf:name "何沐阳";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -765,6 +814,7 @@ lyricist:hemuyang
 
 lyricist:zhoupeng
 	foaf:name "周澎";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -781,6 +831,7 @@ lyricist:zhoupeng
 
 lyricist:songxiaoming
 	foaf:name "宋小明";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -797,6 +848,7 @@ lyricist:songxiaoming
 
 lyricist:chexing
 	foaf:name "车行";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -815,6 +867,7 @@ lyricist:chexing
 
 lyricist:lvyuan
 	foaf:name "吕远";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -831,6 +884,7 @@ lyricist:lvyuan
 
 lyricist:kuangyong
 	foaf:name "邝鄘";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -849,6 +903,7 @@ lyricist:kuangyong
 
 lyricist:fugenchen
 	foaf:name "傅庚辰";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -866,6 +921,7 @@ lyricist:fugenchen
 
 lyricist:zhangshixie
 	foaf:name "张士燮";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -882,6 +938,7 @@ lyricist:zhangshixie
 
 lyricist:liyouyuan
 	foaf:name "李有源";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -899,6 +956,7 @@ lyricist:liyouyuan
 
 lyricist:chenbinjun
 	foaf:name "陈秉钧";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -916,6 +974,7 @@ lyricist:chenbinjun
 
 lyricist:lvpeng
 	foaf:name "吕鹏";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -932,6 +991,7 @@ lyricist:lvpeng
 
 lyricist:xiaohua
 	foaf:name "肖华";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -952,6 +1012,7 @@ lyricist:xiaohua
 
 lyricist:dutaoshen
 	foaf:name "桂涛声";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -968,6 +1029,7 @@ lyricist:dutaoshen
 
 lyricist:hejingzhi
 	foaf:name "贺敬之";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -985,6 +1047,7 @@ lyricist:hejingzhi
 
 lyricist:ane
 	foaf:name "安娥";
+	dc:subject "作词";
 	foaf:gender "女";
 	whois:where [
     a whois:born ;
@@ -1002,6 +1065,7 @@ lyricist:ane
 
 lyricist:dengzhongxia
 	foaf:name "邓中夏";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1019,6 +1083,7 @@ lyricist:dengzhongxia
 
 lyricist:wangdahua
 	foaf:name "王大化";
+	dc:subject "作词";
 	foaf:gender " 男";
 	whois:where [
     a whois:born ;
@@ -1036,6 +1101,7 @@ lyricist:wangdahua
 
 lyricist:fangbing
 	foaf:name "方冰";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1052,6 +1118,7 @@ lyricist:fangbing
 
 lyricist:husha
 	foaf:name "胡沙";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1068,6 +1135,7 @@ lyricist:husha
 
 lyricist:zhupujun
 	foaf:name "朱溥钧";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1083,6 +1151,7 @@ lyricist:zhupujun
 
 lyricist:shixuegui
 	foaf:name "施学贵";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1100,6 +1169,7 @@ lyricist:shixuegui
 
 lyricist:fulin
 	foaf:name "付林";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1116,6 +1186,7 @@ lyricist:fulin
 
 lyricist:zhanghanhui
 	foaf:name "张寒晖";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1133,6 +1204,7 @@ lyricist:zhanghanhui
 
 lyricist:maixin
 	foaf:name "麦新";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1150,6 +1222,7 @@ lyricist:maixin
 
 lyricist:heluting
 	foaf:name "贺绿汀";
+	dc:subject "作词";
 	foaf:gender " 男";
 	whois:where [
     a whois:born ;
@@ -1167,6 +1240,7 @@ lyricist:heluting
 
 lyricist:maozedong
 	foaf:name "毛泽东";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1184,6 +1258,7 @@ lyricist:maozedong
 
 lyricist:houdejian
 	foaf:name "侯德健";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1199,6 +1274,7 @@ lyricist:houdejian
 
 lyricist:liangshangquan
 	foaf:name "梁上泉";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1214,6 +1290,7 @@ lyricist:liangshangquan
 
 lyricist:yangshuzheng
 	foaf:name "杨庶正";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1230,6 +1307,7 @@ lyricist:yangshuzheng
 
 lyricist:xiaoheng
 	foaf:name "萧珩";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1246,6 +1324,7 @@ lyricist:xiaoheng
 
 lyricist:anbo
 	foaf:name "安波";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1262,6 +1341,7 @@ lyricist:anbo
 
 lyricist:liuxing
 	foaf:name "刘星";
+	dc:subject "作词";
 	foaf:gender "男";
 	whois:until "1962";
 	whois:publication "《红纱巾》";
