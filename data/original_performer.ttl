@@ -10,111 +10,145 @@
 @prefix cd:<http://www.recshop.fake/cd#>.
 @prefix originalperformer:<http://www.baixue.com/originalperformer/>.
 
-
 originalperformer:chenjingxi
-	foaf:name "陈景熹".
+	foaf:name "陈景熹";
+	dc:subject "原唱".
 
 originalperformer:guolanying
-	foaf:name "郭兰英".
+	foaf:name "郭兰英";
+	dc:subject "原唱".
 
 originalperformer:zhongguangshaonianertonghechangtuan
-	foaf:name "中广少年儿童合唱团".
+	foaf:name "中广少年儿童合唱团";
+	dc:subject "原唱".
 
 originalperformer:wangyuzhen
-	foaf:name "王玉珍".
+	foaf:name "王玉珍";
+	dc:subject "原唱".
 
 originalperformer:zhaoyunqin
-	foaf:name "赵云卿".
+	foaf:name "赵云卿";
+	dc:subject "原唱".
 
 originalperformer:qinwantan
-	foaf:name "秦万檀".
+	foaf:name "秦万檀";
+	dc:subject "原唱".
 
 originalperformer:yushurong
-	foaf:name "于淑荣".
+	foaf:name "于淑荣";
+	dc:subject "原唱".
 
 originalperformer:wuying
-	foaf:name "吴影".
+	foaf:name "吴影";
+	dc:subject "原唱".
 
 originalperformer:dengyuhua
-	foaf:name "邓玉华".
+	foaf:name "邓玉华";
+	dc:subject "原唱".
 
 originalperformer:wangqihui
-	foaf:name "王其慧".
+	foaf:name "王其慧";
+	dc:subject "原唱".
 
 originalperformer:husonghua
-	foaf:name "胡松华".
+	foaf:name "胡松华";
+	dc:subject "原唱".
 
 originalperformer:zhangyingzhe
-	foaf:name "张映哲".
+	foaf:name "张映哲";
+	dc:subject "原唱".
 
 originalperformer:wanfuxiang
-	foaf:name "万馥香".
+	foaf:name "万馥香";
+	dc:subject "原唱".
 
 originalperformer:liubinyi
-	foaf:name "刘秉义".
+	foaf:name "刘秉义";
+	dc:subject "原唱".
 
 originalperformer:zhangyuenan
-	foaf:name "张越男".
+	foaf:name "张越男";
+	dc:subject "原唱".
 
 originalperformer:lishuangjiang
-	foaf:name "李双江".
+	foaf:name "李双江";
+	dc:subject "原唱".
 
 originalperformer:liguangxi
-	foaf:name "李光羲".
+	foaf:name "李光羲";
+	dc:subject "原唱".
 
 originalperformer:luotianchan
-	foaf:name "罗天婵".
+	foaf:name "罗天婵";
+	dc:subject "原唱".
 
 originalperformer:hubaoshan
-	foaf:name "胡宝善".
+	foaf:name "胡宝善";
+	dc:subject "原唱".
 
 originalperformer:liguyi
-	foaf:name "李谷一".
+	foaf:name "李谷一";
+	dc:subject "原唱".
 
 originalperformer:dedema
-	foaf:name "德德玛".
+	foaf:name "德德玛";
+	dc:subject "原唱".
 
 originalperformer:yushuzhen
-	foaf:name "于淑珍".
+	foaf:name "于淑珍";
+	dc:subject "原唱".
 
 originalperformer:yepeiying
-	foaf:name "叶佩英".
+	foaf:name "叶佩英";
+	dc:subject "原唱".
 
 originalperformer:wuguosong
-	foaf:name "吴国松".
+	foaf:name "吴国松";
+	dc:subject "原唱".
 
 originalperformer:renyan
-	foaf:name "任雁".
+	foaf:name "任雁";
+	dc:subject "原唱".
 
 originalperformer:suxiaoming
-	foaf:name "苏小明".
+	foaf:name "苏小明";
+	dc:subject "原唱".
 
 originalperformer:weisong
-	foaf:name "魏松".
+	foaf:name "魏松";
+	dc:subject "原唱".
 
 originalperformer:mohualun
-	foaf:name "莫华伦".
+	foaf:name "莫华伦";
+	dc:subject "原唱".
 
 originalperformer:liaochangyong
-	foaf:name "廖昌永".
+	foaf:name "廖昌永";
+	dc:subject "原唱".
 
 originalperformer:huoyong
-	foaf:name "霍勇".
+	foaf:name "霍勇";
+	dc:subject "原唱".
 
 originalperformer:tongtiexin
-	foaf:name "佟铁鑫".
+	foaf:name "佟铁鑫";
+	dc:subject "原唱".
 
 originalperformer:yezhentang
-	foaf:name "叶振棠".
+	foaf:name "叶振棠";
+	dc:subject "原唱".
 
 originalperformer:zhangmingmin
-	foaf:name "张明敏".
+	foaf:name "张明敏";
+	dc:subject "原唱".
 
 originalperformer:jixiaoqin
-	foaf:name "季小琴".
+	foaf:name "季小琴";
+	dc:subject "原唱".
 
 originalperformer:jiangdawei
-	foaf:name "蒋大为".
+	foaf:name "蒋大为";
+	dc:subject "原唱".
 
 originalperformer:pengliyuan
 	foaf:name "彭丽媛".
@@ -123,157 +157,209 @@ originalperformer:yinxiumei
 	foaf:name "殷秀梅".
 
 originalperformer:liuchang
-	foaf:name "刘畅".
+	foaf:name "刘畅";
+	dc:subject "原唱".
 
 originalperformer:fanlinlin
-	foaf:name "范琳琳".
+	foaf:name "范琳琳";
+	dc:subject "原唱".
 
 originalperformer:dongwenhua
-	foaf:name "董文华".
+	foaf:name "董文华";
+	dc:subject "原唱".
 
 originalperformer:weiwei
-	foaf:name "韦唯".
+	foaf:name "韦唯";
+	dc:subject "原唱".
 
 originalperformer:guanzhengjie
-	foaf:name "关正杰".
+	foaf:name "关正杰";
+	dc:subject "原唱".
 
 originalperformer:lina
-	foaf:name "李娜".
+	foaf:name "李娜";
+	dc:subject "原唱".
 
 originalperformer:sunnan
-	foaf:name "孙楠".
+	foaf:name "孙楠";
+	dc:subject "原唱".
 
 originalperformer:zhangye
-	foaf:name "张也".
+	foaf:name "张也";
+	dc:subject "原唱".
 
 originalperformer:yanweiwen
-	foaf:name "阎维文".
+	foaf:name "阎维文";
+	dc:subject "原唱".
 
 originalperformer:zuhai
-	foaf:name "祖海".
+	foaf:name "祖海";
+	dc:subject "原唱".
 
 originalperformer:wangzhengzheng
-	foaf:name "汪正正".
+	foaf:name "汪正正";
+	dc:subject "原唱".
 
 originalperformer:liuyuanyuan
-	foaf:name "刘媛媛".
+	foaf:name "刘媛媛";
+	dc:subject "原唱".
 
 originalperformer:tangcan
-	foaf:name "汤灿".
+	foaf:name "汤灿";
+	dc:subject "原唱".
 
 originalperformer:caojin
-	foaf:name "曹进".
+	foaf:name "曹进";
+	dc:subject "原唱".
 
 originalperformer:wulantuya
-	foaf:name "乌兰图雅".
+	foaf:name "乌兰图雅";
+	dc:subject "原唱".
 
 originalperformer:wujingyunnanwenshanzhouzhidui
-	foaf:name "武警云南文山州支队".
+	foaf:name "武警云南文山州支队";
+	dc:subject "原唱".
 
 originalperformer:xuqianya
-	foaf:name "徐千雅".
+	foaf:name "徐千雅";
+	dc:subject "原唱".
 
 originalperformer:wangli
-	foaf:name "王莉".
+	foaf:name "王莉";
+	dc:subject "原唱".
 
 originalperformer:zhoupeng
-	foaf:name "周澎".
+	foaf:name "周澎";
+	dc:subject "原唱".
 
 originalperformer:hanlei
-	foaf:name "韩磊".
+	foaf:name "韩磊";
+	dc:subject "原唱".
 
 originalperformer:fujinghua
-	foaf:name "傅锦华".
+	foaf:name "傅锦华";
+	dc:subject "原唱".
 
 originalperformer:caidanzhuoma
-	foaf:name "才旦卓玛".
+	foaf:name "才旦卓玛";
+	dc:subject "原唱".
 
 originalperformer:songzuying
-	foaf:name "宋祖英".
+	foaf:name "宋祖英";
+	dc:subject "原唱".
 
 originalperformer:liuhuan
-	foaf:name "刘欢".
+	foaf:name "刘欢";
+	dc:subject "原唱".
 
 originalperformer:luqingshuang
-	foaf:name "陆青霜".
+	foaf:name "陆青霜";
+	dc:subject "原唱".
 
 originalperformer:lvwenke
-	foaf:name "吕文科".
+	foaf:name "吕文科";
+	dc:subject "原唱".
 
 originalperformer:lizengzheng
-	foaf:name "李增正".
+	foaf:name "李增正";
+	dc:subject "原唱".
 
 originalperformer:sunjiaobai
-	foaf:name "孙蘸白".
+	foaf:name "孙蘸白";
+	dc:subject "原唱".
 
 originalperformer:liguangyi
-	foaf:name "李光义".
+	foaf:name "李光义";
+	dc:subject "原唱".
 
 originalperformer:liuguiren
-	foaf:name "刘贵仁".
+	foaf:name "刘贵仁";
+	dc:subject "原唱".
 
 originalperformer:zhangluo
-	foaf:name "张洛".
+	foaf:name "张洛";
+	dc:subject "原唱".
 
 originalperformer:wangkun
-	foaf:name "王昆".
+	foaf:name "王昆";
+	dc:subject "原唱".
 
 originalperformer:wanghongwei
-	foaf:name "王宏伟".
+	foaf:name "王宏伟";
+	dc:subject "原唱".
 
 originalperformer:fengjianxue
-	foaf:name "冯健雪".
+	foaf:name "冯健雪";
+	dc:subject "原唱".
 
 originalperformer:wanshanghong
-	foaf:name "万山红".
+	foaf:name "万山红";
+	dc:subject "原唱".
 
 originalperformer:zhanghuamin
-	foaf:name "张华敏".
+	foaf:name "张华敏";
+	dc:subject "原唱".
 
 originalperformer:lizhijin
-	foaf:name "李之金".
+	foaf:name "李之金";
+	dc:subject "原唱".
 
 originalperformer:zhaotiange
-	foaf:name "赵天鸽".
+	foaf:name "赵天鸽";
+	dc:subject "原唱".
 
 originalperformer:wuyanze
-	foaf:name "吴雁泽".
+	foaf:name "吴雁泽";
+	dc:subject "原唱".
 
 originalperformer:tangpeizhu
-	foaf:name "唐佩珠".
+	foaf:name "唐佩珠";
+	dc:subject "原唱".
 
 originalperformer:zhangluo
-	foaf:name "张洛".
+	foaf:name "张洛";
+	dc:subject "原唱".
 
 originalperformer:bianxiaozhen
-	foaf:name "卞小贞".
+	foaf:name "卞小贞";
+	dc:subject "原唱".
 
 originalperformer:tenggeer
-	foaf:name "腾格尔".
+	foaf:name "腾格尔";
+	dc:subject "原唱".
 
 originalperformer:zhouxiaoyan
-	foaf:name "周小燕".
+	foaf:name "周小燕";
+	dc:subject "原唱".
 
 originalperformer:lijianfu
-	foaf:name "李建复".
+	foaf:name "李建复";
+	dc:subject "原唱".
 
 originalperformer:yujunjian
-	foaf:name "郁钧剑".
+	foaf:name "郁钧剑";
+	dc:subject "原唱".
 
 originalperformer:renguizhen
-	foaf:name "任桂珍".
+	foaf:name "任桂珍";
+	dc:subject "原唱".
 
 originalperformer:dongzhenhou
-	foaf:name "董振厚".
+	foaf:name "董振厚";
+	dc:subject "原唱".
 
 originalperformer:kuangqing
-	foaf:name "邝青".
+	foaf:name "邝青";
+	dc:subject "原唱".
 
 originalperformer:yuyueyue
-	foaf:name "喻越越".
+	foaf:name "喻越越";
+	dc:subject "原唱".
 
 originalperformer:zhangluo
-	foaf:name "张洛".
+	foaf:name "张洛";
+	dc:subject "原唱".
 
 originalperformer:maguoguang
-	foaf:name "马国光".
+	foaf:name "马国光";
+	dc:subject "原唱".
