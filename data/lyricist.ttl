@@ -143,8 +143,7 @@ lyricist:qiaoyu
     rdfs:label "山东省济宁市"
     ] ;
 	whois:born "1927/11/16";
-	whois:publication "《让我们荡起双桨》《难忘今宵》《爱我中华》等
-";
+	whois:publication "《让我们荡起双桨》《难忘今宵》《爱我中华》等";
 	whois:career [
     a whois:job ;
     rdfs:label "作词家、剧作家"
