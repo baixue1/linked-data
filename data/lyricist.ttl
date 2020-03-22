@@ -276,8 +276,7 @@ lyricist:dumingxin
     rdfs:label "湖北省潜江县"
     ] ;
 	whois:born "1928";
-	whois:publication "《红色娘子军》、《飘扬吧，军旗》、《祖国的南海》
-";
+	whois:publication "《红色娘子军》、《飘扬吧，军旗》、《祖国的南海》";
 	whois:career [
     a whois:job ;
     rdfs:label "作曲家"
