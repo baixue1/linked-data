@@ -4,8 +4,9 @@
 @prefix bio: <http://purl.org/vocab/bio/0.1/> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix owl:<http://www.w3.org/2002/07/owl#>.
 @prefix figure:<http://baixue.com/figure/>.
-
+@prefix historyevent:<http://baixue.com/historyevent>.
 figure:xiexiumei
     foaf:name "解秀梅" ;
     foaf:gender "女" ;
@@ -41,6 +42,7 @@ figure:jiangzhuyun
     dc:source "https://baike.baidu.com/item/%E6%B1%9F%E7%AB%B9%E7%AD%A0".
 
 figure:maozedong
+    owl:sameAs <http://dbpedia.org/page/Mao_Zedong>;
     foaf:name "毛泽东";
     foaf:gender "男";
     whois:born "1893/12/26/";
@@ -53,19 +55,19 @@ figure:maozedong
     a rdf:Bag ;
     rdf:_1 "开国大典" ;
     rdf:_2 "中共中央扩大的工作会议" ;
-    rdf:_3 "遵义会议";
+    rdf:_3 historyevent:zunyihuiyi;
     rdf:_4 "改善军民关系" ;
     rdf:_5 "拥政爱民运动" ;
-    rdf:_6 "巧渡金沙江";
+    rdf:_6 historyevent:qiaodujinshajiang;
     rdf:_7 "视察四川红光社" ;
-    rdf:_8 "土地改革运动" ;
-    rdf:_9 "秋收起义";
-    rdf:_10 "国共第一次合作";
-    rdf:_11 "长征" ;
+    rdf:_8 historyevent:tudigaigeyundong;
+    rdf:_9 "historyevent:qiushouqiyi";
+    rdf:_10 historyevent:guogongdiyicihezuo;
+    rdf:_11 historyevent:changzheng ;
     rdf:_12 "四个现代化" ;
-    rdf:_13 "第三次国内战争";
-    rdf:_14 "第二次国内革命战争" ;
-    rdf:_15 "抗日战争" ;
+    rdf:_13 historyevent:disanciguoneizhanzheng;
+    rdf:_14 historyevent:dierciguoneigemingzhanzheng ;
+    rdf:_15 historyevent:kangrizhanzheng ;
   ];
     bio:biography """中国人民的领袖，伟大的马克思主义者，无产阶级革命家、战略家和理论家，中国共产党、中国人民解放军和中华人民共和国的主要缔造者和领导人，诗人，书法家。 
 1949至1976年，毛泽东担任中华人民共和国最高领导人。他对马克思列宁主义的发展、军事理论的贡献以及对共产党的理论贡献被称为毛泽东思想。因毛泽东担任过的主要职务几乎全部称为主席，所以也被人们尊称为“毛主席”。""" ;
@@ -106,6 +108,7 @@ figure:zhangguanghou
     dc:source"https://baike.baidu.com/item/%E5%BC%A0%E5%B9%BF%E5%8E%9A".
 
 figure:dengjiaxian
+    owl:sameAs <http://kw.fudan.edu.cn/cndbpedia/search/?mention=%E9%82%93%E7%A8%BC%E5%85%88&entity=%E9%82%93%E7%A8%BC%E5%85%88%EF%BC%88%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E9%99%A2%E5%A3%AB%EF%BC%89>;
     foaf:name "邓稼先";
     foaf:gender "男";
     whois:born "1924/6/25";
@@ -121,6 +124,7 @@ figure:dengjiaxian
     dc:source "https://baike.baidu.com/item/%E9%82%93%E7%A8%BC%E5%85%88/146984".
 
 figure:qianxuesen
+    owl:sameAs <http://dbpedia.org/page/Qian_Xuesen>;
     foaf:name "钱学森";
     foaf:gender "男";
     whois:born "1911/12/11";
@@ -142,6 +146,7 @@ figure:qianxuesen
     dc:source "https://baike.baidu.com/item/%E9%92%B1%E5%AD%A6%E6%A3%AE/26105#4".
 
 figure:dengxiaoping
+    owl:sameAs <http://dbpedia.org/page/Deng_Xiaoping>;
     foaf:name "邓小平";
     foaf:gender "男";
     whois:born "1904/8/22";
@@ -153,11 +158,11 @@ figure:dengxiaoping
     bio:event [
     a rdf:Bag ;
     rdf:_1 "中共中央扩大的工作会议" ;
-    rdf:_2 "千里跃进大别山" ;
-    rdf:_3 "联产承包责任制";
-    rdf:_4 "邓小平南巡" ;
-    rdf:_5 "与撒切尔夫人会谈" ;
-    rdf:_6 "改革开放";
+    rdf:_2 historyevent:qianliyuejindabieshan ;
+    rdf:_3 historyevent:lianchanchengbaozerenzhi;
+    rdf:_4 historyevent:dengxiaopingnanxun;
+    rdf:_5 historyevent:yusaqieerfurenhuitan ;
+    rdf:_6 historyevent:gaigekaifang;
     ];
     bio:biography """早年赴欧洲勤工俭学，归国后，他全身心地投入党领导的争取民族独立和人民解放的革命斗争。从土地革命、抗日战争到解放战争，先后担任党和军队的许多重要领导职务，为党中央一系列重大战略决策的实施，为新民主主义革命的胜利和新中国的诞生，建立了赫赫功勋，成为中华人民共和国的开国元勋。 """;
 
@@ -178,7 +183,7 @@ figure:leifeng
 1954年加入中国少年先锋队，1960年参加中国人民解放军，同年11月加入中国共产党。1961年5月，雷锋作为全团候选人，被选为辽宁省抚顺市第四届人民代表大会代表。1962年2月19日，雷锋以特邀代表身份，出席沈阳军区首届共产主义青年团代表会议，并被选为主席团成员在大会上发言。1962年8月15日，雷锋因公殉职，年仅22岁。""" ;
     bio:event [
     a rdf:Bag ;
-    rdf:_1 "向雷锋学习运动" ;
+    rdf:_1 historyevent:xiangleifengxuexiyundong;
     ];
     bio:achivement """雷锋对后世影响最大的是以其名字命名的雷锋精神，雷锋精神是指以雷锋的无私奉献精神为基本内涵，在实践中不断丰富和发展着的革命精神。雷锋精神影响了后来一代一代的中国人。
 雷锋精神是指以雷锋的无私奉献精神为基本内涵，在实践中
@@ -187,6 +192,7 @@ figure:leifeng
     dc:source "https://baike.baidu.com/item/%E9%9B%B7%E9%94%8B/5569".
 
 figure:zhouenlai
+    owl:sameAs <http://dbpedia.org/page/Zhou_Enlai>;
     foaf:name "周恩来";
     foaf:gender "男";
     whois:born "1898年3月5日";
@@ -199,16 +205,12 @@ figure:zhouenlai
 1976年1月8日在北京逝世。他的逝世受到极广泛的悼念。由于他一贯勤奋工作，严于律己，关心群众，被称为“人民的好总理”。""" ;
     bio:event [
     a rdf:Bag ;
-    rdf:_1 "开国大典" ;
-    rdf:_2 "十里长街送总理" ;
-    rdf:_3 "长征" ;
-    rdf:_4 "四个现代化" ;
+    rdf:_1 historyevent:kaiguodadian;
+    rdf:_2 historyevent:shilichangjiesongzongli ;
+    rdf:_3 historyevent:changzheng;
+    rdf:_4 historyevent:sigexiandaihua;
     ];
-    bio:achivement """新民主主义革命时期，周恩来同志为中国共产党创建人民军队、创建革命统一战线、创建人民当家作主的新中国建立了不朽功勋。在大革命中，他出色领导了国民革命军军政工作、广东地方政权工作、震惊中外的上海工人武装起义，成为我们党最早认识武装斗争重要性和最早从事军事工作的领导人之一。大革命失败后，他领导发动举世闻名的八一南昌起义，打响了武装反抗国民党反动派的第一枪，党领导的人民军队从此诞生。党的六大以后，他作为实际主持党中央工作的领导人，在极端险恶的条件下机智勇敢地保卫党的中央机关，保护党的大批领导骨干，发展党在白区的秘密工作，支持工农武装割据。他积极探索中国革命的正确道路，明确提出“乡村中心”的思想，为推动“农村包围城市，武装夺取政权”道路的形成作出了突出贡献。在江西中央革命根据地，他同朱德同志等一起成功指挥了第四次反“围剿”斗争，创造了大兵团伏击歼灭战的新经验。
-红军长征途中，在具有深远历史意义的遵义会议上，他旗帜鲜明地支持毛泽东同志的正确主张，为确立毛泽东同志在红军和党中央的领导地位，为在危难中挽救红军、挽救党，发挥了重要作用。西安事变爆发后，在民族危亡的关键时刻，他根据党中央的既定方针，前往西安，在极端复杂而艰难的环境中推动西安事变和平解决，促成了国共合作、团结抗日的新局面。抗日战争中，他代表我们党长期坚持在国民党统治区工作，负责与国民党当局谈判，广泛团结社会各阶层爱国人士，坚持并发展抗日民族统一战线，同国民党顽固派进行了有勇有谋的斗争。抗日战争胜利后，为制止内战，他陪同毛泽东同志赴重庆与国民党进行和平谈判，尔后又率领我党代表团与国民党当局开展了有理有节的政治斗争。解放战争时期，他协助毛泽东同志运筹帷幄，在推动第二条战线的形成、转战陕北、指挥一系列改变中国命运的战略大决战、筹备召开新政协、主持起草《共同纲领》等工作中，作出了卓越贡献。
-新中国成立后，周恩来同志先后担任政务院总理、国务院总理长达26年，为积极探索符合我国国情的社会主义建设道路，全面组织和实施社会主义各项建设事业，兢兢业业，殚精竭虑，在政治、经济、外交、国防、统战、科技、文化、教育、新闻、卫生、体育等各领域倾注了大量心血，作出了奠基性的贡献。在领导新中国的建设和发展中，他强调经济建设工作在整个国家生活中“居于首要的地位”，一个国家如果经济上不能完全独立，政治上也就不能完全独立。他强调要正确处理各种关系，做到统筹全局、全面安排、综合平衡、协调发展；强调“我们的国家不仅要有经济建设，还要有政治建设和精神建设”，建设社会主义必须全面发展；强调一定要重视环境保护，不能因发展经济而牺牲环境，不要做对不起子孙后代的事。他高度重视科学技术和知识分子在社会主义建设中的关键作用，强调实现现代化、把我国建设成为社会主义强国“关键在于实现科学技术的现代化”，“知识分子是社会主义建设事业取得胜利的不可缺少的重要力量”。
-他组织领导“两弹一星”大规模科技攻坚取得重大突破，极大提升了我国的综合国力和国际地位。他高度重视对外贸易和学习外国先进技术，强调“学习外国必须同独创精 神相结合”。他高度重视发挥统一战线在社会主义革命和建设中的作用，经常倾听各民主党派和无党派爱国人士的意见，为坚持和完善中国共产党领导的多党合作和政治协商制度作出了重要贡献。他时时不忘祖国统一大业，为解决香港、澳门和台湾问题做了大量基础性、开拓性工作。他卓有成效地领导了党和国家的外事工作，首倡和平共处五项原则，遵照国家不分大小一律平等的原则，推动我国积极发展同各国特别是广大发展中国家的友好合作关系，使我们的朋友遍天下。他博大精深的外交思想、丰富多彩的外交实践、独具一格的外交艺术和外交风格，在国际社会为党和国家赢得了很高的声誉。
-在“文化大革命”极端复杂的特殊环境下，周恩来同志忍辱负重，苦撑危局，作出了常人难以想象的努力，全力维护党和国家正常工作的运转，全力维护党的团结统一，尽一切可能减少损失。他保护了一大批党的领导骨干、民主人士和知识分子；他协助毛泽东同志粉碎了林彪反革命集团妄图夺取最高权力的阴谋，并主持中央日常工作，批判和纠正极左思潮的错误，使各方面工作有了转机；他根据毛泽东同志的决策积极促成和落实邓小平同志复出并主持中央工作，全力支持邓小平同志领导对各方面工作进行整顿；他身患绝症，仍顽强坚持工作，并同邓小平、叶剑英、李先念同志等一起，与江青反革命集团进行了坚决斗争；他在四届全国人大一次会议上重申实现四个现代化的宏伟目标，极大鼓舞了全党全国各族人民。
+    bio:achivement """新民主主义革命时期，周恩来同志为中国共产党创建人民军队、创建革命统一战线、创建人民当家作主的新中国建立了不朽功勋。
 周恩来同志参与领导了革命和建设时期党的各项重大工作，为党的每一个重大胜利付出了大量心血。在长期实践中，他注重把马克思主义基本原理同我国具体实际结合起来，认真总结革命和建设正反两方面的经验，深入进行理论思考，深刻阐释党的理论和路线方针政策，在政治、经济、军事、外交、统一战线、文化教育和党的建设等领域都作出了理论建树，为毛泽东思想的形成和发展作出了重要贡献，也为后来改革开放时期我们党形成中国特色社会主义理论体系提供了重要思想材料。""";
     dc:source "https://baike.baidu.com/item/%E5%91%A8%E6%81%A9%E6%9D%A5/114814#3".
 
@@ -224,8 +226,8 @@ figure:songzheyuan
     bio:biography """幼年家贫，刻苦读书。光绪三十三年（1907年）从军，北洋陆军随营武备学堂毕业。毕业后服役于冯玉祥部，历任哨长、连长、营长、团长。1922参加直奉战争，升任第二十五混成旅旅长，是西北军五虎上将之一。1924年参加北京政变，10月冯部改编成国民军，宋哲元任第一军第一师（后改为第四师）师长。1925年秋改任热河特别行政区都统。他曾在承德避暑山庄里成立蚕蜂学校推广种桑养蜂，振兴热河农业；还兴办军械厂，可以小批量仿制德国毛瑟20响驳壳枪。1940年4月5日，宋哲元以中风不语病逝，葬于绵阳附近的富乐山，享年56岁。""";
     bio:event [
     a rdf:Bag ;
-    rdf:_1 "“九一八”事变" ;
-    rdf:_2 "七·七”事变" ;
+    rdf:_1 historyevent:jiuyibashibian;
+    rdf:_2 historyevent:qiqishibian;
     ];
     bio:achivement """九一八事变爆发后的第三天，宋哲元即率第29军全体官兵，向全国发出抗日通电，坚决表示：哲元等分属军人，责在保国。谨率所部枕戈待命，宁为战死鬼，不作亡国奴，奋斗牺牲，誓雪国耻。1932年任军事委员会北平分会委员兼察哈尔省政府主席。
     1933年1月1日日军攻榆关，热河危急，2月18日宋哲元通电全国，决心抗击日军，奉命开赴北平附近参加长城抗战，任第三军团总指挥，防守冀东。3月4日承德失守，长城告急，第二十九军紧急增援喜峰口，9日冯治安、张自忠师开始与日军在喜峰口接触，11日宋哲元部赵登禹、王治邦旅之大刀队夜袭喜峰口外潘家口附近之日军一个炮兵中队，大获全胜，13日日机十二架炸喜峰口我军阵地，14日二十九军克复喜峰口外老婆山，3月15日喜峰口敌军被迫后撤，报纸上宣称29军先后歼敌五千有余，“喜峰口抗战大捷”的战绩轰动了全国，宋哲元特意写了“宁为战死鬼，不做亡国奴”、“有进无退，死而后已”两幅条幅，立即被多家报纸制版刊载，成为传诵全国的壮语，对全国人民起了激励作用。3月16日喜峰口日军袭罗文峪，二十九军再战血洗罗文峪，17日罗文峪日军受挫，19日罗文峪激战再起，宋哲元到保定谒蒋介石，20日北返，21日喜峰口继续激战，25日喜峰口宋哲元军克复半壁山。4月7日宋哲元电辞察哈尔省府主席，8日中央慰留，宋旋赴津。4月11日冷口及建昌营失守，喜峰口敌南侵，第二十九军陷于腹背受敌、孤立无援的境地，13日第二十九军奉命撤出阵地，14日喜峰口敌攻滦阳，宋哲元军苦战，17日喜峰口日军进犯撒河桥，22日宋哲元自北平赴遵化前线，24日宋哲元部收复滦阳，日军撤出喜峰口，长城抗战结束，二十九军“大刀队”名扬天下，宋哲元等将领成为抗日英雄。1935年，以喜峰口血战为背景创作的《大刀进行曲》唱遍了全中国。
@@ -233,6 +235,7 @@ figure:songzheyuan
     dc:source "https://baike.baidu.com/item/%E5%AE%8B%E5%93%B2%E5%85%83/1165277?fr=aladdin".
 
 figure:liuzhidan
+    owl:sameAs <http://kw.fudan.edu.cn/cndbpedia/search/?mention=%E5%88%98%E5%BF%97%E4%B8%B9&entity=%E5%88%98%E5%BF%97%E4%B8%B9%EF%BC%88%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%86%9C%E7%BA%A2%E5%86%9B%E9%AB%98%E7%BA%A7%E5%B0%86%E9%A2%86%EF%BC%89>;
     foaf:name "刘志丹";
     foaf:gender "男";
     whois:born "1903/10/4";
@@ -313,8 +316,8 @@ figure:wangerxiao
 1942年10月25日，日本鬼子又来“扫荡”，走到山口时迷了路。敌人看见王二小在山坡上放牛，就叫他带路。王二小装着听话的样子走在前面，为了保护转移的乡亲，把敌人带进了八路军的埋伏圈。突然，四面八方响起了枪声，敌人知道上了当，气急败坏之下，将王二小用刺刀刺死了。机智勇敢的小英雄王二小，就这样被日本侵略者残忍地杀害了，牺牲在涞源县狼牙口村，年仅13岁。""" ;
     bio:event [
     a rdf:Bag ;
-    rdf:_1 "抗日战争" ;
-    rdf:_2 "王二小诱敌深入" ;
+    rdf:_1 historyevent:kangrizhanzheng;
+    rdf:_2 historyevent:wangerxiaoyoudishenru;
     ];
     bio:achivement "抗日小英雄" ;
     dc:source "https://baike.baidu.com/item/%E7%8E%8B%E4%BA%8C%E5%B0%8F/1153458#3".
@@ -328,7 +331,7 @@ figure:xiaoqin
 村里的群众早就受够了金旺的欺压，现在看到他又要陷害二黑和小芹，就连夜到区政府，把情况报告给区长。区长接到了报告，立刻赶来，严肃处理了金旺，批评了双方父母的封建思想，支持了二黑和小芹追求自由幸福的愿望，二黑和小芹终于从重重的封建压制下得到了胜利。""" ;
     bio:event [
     a rdf:Bag ;
-    rdf:_1 "抗日战争" ;
+    rdf:_1 historyevent:kangrizhanzheng;
     ];
     dc:source "https://baike.baidu.com/item/%E5%B0%8F%E4%BA%8C%E9%BB%91%E7%BB%93%E5%A9%9A/7014618?fr=aladdin".
 
@@ -357,7 +360,7 @@ figure:gadameilin
     bio:biography """1893年，嘎达梅林出生在内蒙古哲里木盟(今通辽市)达尔罕旗(今科尔沁左翼中旗)腰茫哈苏木(今舍伯吐镇)塔木扎兰屯(今塔本扎兰嘎查)，16岁到达尔罕旗卫队当兵服役，历任旗卫队章京、昆都、扎兰、梅林（皆为官职名），掌管全旗130名的骑兵卫队，后因反对达尔罕王爷和军阀开垦草原而被捕入狱。被妻子牡丹搭救越狱后，嘎达梅林于1929年冬至1931年春率众起义，举行武装反垦暴动，转战于科尔沁草原，最后战死在黄花敖包脚下的乌力吉木红河（新开河），终年38岁。由嘎达梅林掀起的这场反军阀反封建的武装斗争震撼了科尔沁草原，唤醒了草原人民与封建蒙古王公和东北军阀进行斗争的勇气。许多年过去了，嘎达梅林的英雄事迹凝结成一部悲壮的史诗，在美丽的大草原上传唱。2002年，由著名导演冯小宁执导的电影《嘎达梅林》率先将这个故事展现在全国观众面前，随后，《嘎达梅林》交响曲、音乐会等多种形式演绎的传奇故事将嘎达梅林精神传诵。如今，电视剧在央视的热播，令《嘎达梅林》这首草原英雄之歌再次广为流传。""";
      bio:event [
     a rdf:Bag ;
-    rdf:_1 "抗垦起义" ;
+    rdf:_1 historyevent:kangkenqiyi;
     ];
     bio:achivement "白音大赉起义、“独贵龙”运动".
 
@@ -377,6 +380,7 @@ figure:liuzhixun
     dc:source "https://baike.baidu.com/item/%E6%9F%B3%E7%9B%B4%E8%8D%80".
 
 figure:yangkaihui
+    owl:sameAs <http://kw.fudan.edu.cn/cndbpedia/search/?mention=%E6%9D%A8%E5%BC%80%E6%85%A7&entity=%E6%9D%A8%E5%BC%80%E6%85%A7%EF%BC%88%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%A6%BB%E5%AD%90%EF%BC%89>;
     foaf:name "杨开慧";
     foaf:gender "女";
     whois:born "1901/11/6";
@@ -391,6 +395,7 @@ figure:yangkaihui
     dc:source "https://baike.baidu.com/item/%E6%9D%A8%E5%BC%80%E6%85%A7/34635".
 
 figure:maoanying
+    owl:sameAs <http://dbpedia.org/page/Mao_Anying>;
     foaf:name "毛岸英";
     foaf:gender "男";
     whois:born "1922/10/24";
@@ -402,7 +407,7 @@ figure:maoanying
     bio:biography """毛岸英是毛泽东与其妻子杨开慧的长子，在抗美援朝战争中牺牲。安葬于朝鲜平安南道桧仓郡的中国人民志愿军烈士陵园。""";
     bio:event [
     a rdf:Bag ;
-    rdf:_1 "抗美援朝战争" ;
+    rdf:_1 historyevent:kangmeiyuanchaozhanzheng;
     ];
     bio:achivement """2019年9月25日，毛岸英获“最美奋斗者”个人称号。 
 2009年9月14日，他被评为100位新中国成立以来感动中国人物之一。
