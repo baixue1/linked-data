@@ -963,8 +963,7 @@ performer:chengzhi
     a whois:job ;
     rdfs:label "男高音歌唱家"
     ] ;
-    whois:publication "《在银色的月光下》、
-《请你别忘了我》、《今夜无人入睡》";
+    whois:publication "《在银色的月光下》、《请你别忘了我》、《今夜无人入睡》";
 	whois:achievement "解放军总政歌舞团一级演员";
 	dc:source "https://baike.baidu.com/item/%E7%A8%8B%E5%BF%97/77224".
 
