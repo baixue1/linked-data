@@ -9,6 +9,7 @@
 
 composer:nieer
 	foaf:name "聂耳";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -26,6 +27,7 @@ composer:nieer
 
 composer:xianxinghai
 	foaf:name "冼星海";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -43,6 +45,7 @@ composer:xianxinghai
 
 composer:zhenglvcheng
 	foaf:name "郑律成";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -60,6 +63,7 @@ composer:zhenglvcheng
 
 composer:caohuoxing
 	foaf:name "曹火星";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -77,6 +81,7 @@ composer:caohuoxing
 
 composer:wangshen
 	foaf:name "王莘";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -94,6 +99,7 @@ composer:wangshen
 
 composer:zhouweizhi
 	foaf:name "周巍峙";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -111,6 +117,7 @@ composer:zhouweizhi
 
 composer:lvqiming
 	foaf:name "吕其明";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -127,6 +134,7 @@ composer:lvqiming
 
 composer:liuchi
 	foaf:name "刘炽";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -145,6 +153,7 @@ composer:liuchi
 
 composer:quxixian
 	foaf:name "瞿希贤";
+	dc:subject "作曲";
 	foaf:gender "女";
 	whois:where [
     a whois:born ;
@@ -161,6 +170,7 @@ composer:quxixian
 
 composer:ouyangqianshu
 	foaf:name "欧阳谦叔";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -178,6 +188,7 @@ composer:ouyangqianshu
 
 composer:zhangjingan
 	foaf:name "张敬安";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -193,6 +204,7 @@ composer:zhangjingan
 
 composer:wangxiren
 	foaf:name "王锡仁";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:born "1929/10";
 	whois:until "2010/2/11";
@@ -205,6 +217,7 @@ composer:wangxiren
 
 composer:hushiping
 	foaf:name "胡士平";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -222,6 +235,7 @@ composer:hushiping
 
 composer:yangming
 	foaf:name "羊鸣";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -238,6 +252,7 @@ composer:yangming
 
 composer:jiming
 	foaf:name "寄明";
+	dc:subject "作曲";
 	foaf:gender "女";
 	whois:where [
     a whois:born ;
@@ -255,6 +270,7 @@ composer:jiming
 
 composer:leizhenbang
 	foaf:name "雷振邦";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -272,6 +288,7 @@ composer:leizhenbang
 
 composer:zangdongsheng
 	foaf:name "臧东升";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -288,6 +305,7 @@ composer:zangdongsheng
 
 composer:lijiefu
 	foaf:name "李劫夫";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -305,6 +323,7 @@ composer:lijiefu
 
 composer:zhujianer
 	foaf:name "朱践耳";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -321,6 +340,7 @@ composer:zhujianer
 
 composer:dumingxin
 	foaf:name "杜鸣心";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -336,6 +356,7 @@ composer:dumingxin
 
 composer:jiangchunyang
 	foaf:name "姜春阳";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -351,6 +372,7 @@ composer:jiangchunyang
 
 composer:jinsha
 	foaf:name "金砂";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -361,6 +383,7 @@ composer:jinsha
 
 composer:husonghua
 	foaf:name "胡松华";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -377,6 +400,7 @@ composer:husonghua
 
 composer:qinyongcheng
 	foaf:name "秦咏诚";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -394,6 +418,7 @@ composer:qinyongcheng
 
 composer:fujing
 	foaf:name "傅晶";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -409,6 +434,7 @@ composer:fujing
 
 composer:tianguang
 	foaf:name "田光";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -425,6 +451,7 @@ composer:tianguang
 
 composer:shiguangnan
 	foaf:name "施光南";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -442,6 +469,7 @@ composer:shiguangnan
 
 composer:hubaoshan
 	foaf:name "胡宝善";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -459,6 +487,7 @@ composer:hubaoshan
 
 composer:fugenchen
 	foaf:name "傅庚辰";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -475,6 +504,7 @@ composer:fugenchen
 
 composer:wangming
 	foaf:name "王酩";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -492,6 +522,7 @@ composer:wangming
 
 composer:zhunanxi
 	foaf:name "朱南溪";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -508,6 +539,7 @@ composer:zhunanxi
 
 composer:alatengaole
 	foaf:name "阿拉腾奥勒";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -525,6 +557,7 @@ composer:alatengaole
 
 composer:tanghe
 	foaf:name "唐诃";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -541,6 +574,7 @@ composer:tanghe
 
 composer:lvyuan
 	foaf:name "吕远";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -557,6 +591,7 @@ composer:lvyuan
 
 composer:zhengqiufeng
 	foaf:name "郑秋枫";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -573,6 +608,7 @@ composer:zhengqiufeng
 
 composer:gujianfen
 	foaf:name "谷建芬";
+	dc:subject "作曲";
 	foaf:gender "女";
 	whois:where [
     a whois:born ;
@@ -589,6 +625,7 @@ composer:gujianfen
 
 composer:liushizhao
 	foaf:name "刘诗召";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -604,6 +641,7 @@ composer:liushizhao
 
 composer:luzaiyi
 	foaf:name "陆在易";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -620,6 +658,7 @@ composer:luzaiyi
 
 composer:lixiaotian
 	foaf:name "黎小田";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -637,6 +676,7 @@ composer:lixiaotian
 
 composer:wangfuling
 	foaf:name "王福龄";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -653,6 +693,7 @@ composer:wangfuling
 
 composer:wangshiguang
 	foaf:name "王世光";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -668,6 +709,7 @@ composer:wangshiguang
 
 composer:zhonglimin
 	foaf:name "钟立民";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -684,6 +726,7 @@ composer:zhonglimin
 
 composer:xuxiyi
 	foaf:name "徐锡宜";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -700,6 +743,7 @@ composer:xuxiyi
 
 composer:shitieyuan
 	foaf:name "石铁源";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:publication "《我为伟大祖国站岗》、《在那桃花盛开的地方》";
 	whois:career [
@@ -711,6 +755,7 @@ composer:shitieyuan
 
 composer:madianyin
 	foaf:name "马殿银";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -725,6 +770,7 @@ composer:madianyin
 
 composer:shixin
 	foaf:name "士心";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -742,6 +788,7 @@ composer:shixin
 
 composer:liuweiguang
 	foaf:name "刘为光";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -757,6 +804,7 @@ composer:liuweiguang
 
 composer:xupeidong
 	foaf:name "徐沛东";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -772,6 +820,7 @@ composer:xupeidong
 
 composer:luodayou
 	foaf:name "罗大佑";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -788,6 +837,7 @@ composer:luodayou
 
 composer:zhangqianyi
 	foaf:name "张千一";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -803,6 +853,7 @@ composer:zhangqianyi
 
 composer:wangyougui
 	foaf:name "王佑贵";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -818,6 +869,7 @@ composer:wangyougui
 
 composer:mengqingyun
 	foaf:name "孟庆云";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -834,6 +886,7 @@ composer:mengqingyun
 
 composer:yinqing
 	foaf:name "印青";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:born "1954/5";
 	whois:publication "《走进新时代》、《西部放歌》、《天路》、《世纪春雨》";
@@ -845,6 +898,7 @@ composer:yinqing
 
 composer:lihaiying
 	foaf:name "李海鹰";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -860,6 +914,7 @@ composer:lihaiying
 
 composer:xiaobai
 	foaf:name "肖白";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:publication "《举杯吧朋友》、《奥林匹克风》";
 	whois:career [
@@ -871,6 +926,7 @@ composer:xiaobai
 
 composer:liuqing
 	foaf:name "刘青";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -886,6 +942,7 @@ composer:liuqing
 
 composer:caojin
 	foaf:name "曹进";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:publication "《祖国不会忘记》、《军旅之恋》、《无悔的选择》";
 	whois:career [
@@ -897,6 +954,7 @@ composer:caojin
 
 composer:zhanghongguang
 	foaf:name "张宏光";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:publication "《精忠报国》";
 	whois:career [
@@ -908,6 +966,7 @@ composer:zhanghongguang
 
 composer:hemuyang
 	foaf:name "何沐阳";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -922,6 +981,7 @@ composer:hemuyang
 
 composer:nuankai
 	foaf:name "栾凯";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -937,6 +997,7 @@ composer:nuankai
 
 composer:zhoupeng
 	foaf:name "周澎";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -953,6 +1014,7 @@ composer:zhoupeng
 
 composer:wangbei
 	foaf:name "王备";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:publication "《再一次出发》";
 	whois:career [
@@ -963,6 +1025,7 @@ composer:wangbei
 
 composer:yanke
 	foaf:name "彦克";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -977,6 +1040,7 @@ composer:yanke
 
 composer:lixin
 	foaf:name "李昕";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -993,6 +1057,7 @@ composer:lixin
 
 composer:sanbao
 	foaf:name "三宝";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1009,6 +1074,7 @@ composer:sanbao
 
 composer:shengmao
 	foaf:name "生茂";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1026,6 +1092,7 @@ composer:shengmao
 
 composer:xujingxin
 	foaf:name "徐景新";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1043,6 +1110,7 @@ composer:xujingxin
 
 composer:huangzhun
 	foaf:name "黄准";
+	dc:subject "作曲";
 	foaf:gender "女";
 	whois:where [
     a whois:born ;
@@ -1059,6 +1127,7 @@ composer:huangzhun
 
 composer:maixin
 	foaf:name "麦新";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1075,6 +1144,7 @@ composer:maixin
 
 composer:zhangshixie
 	foaf:name "张士燮";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1091,6 +1161,7 @@ composer:zhangshixie
 
 composer:shilemeng
 	foaf:name "时乐濛";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1108,6 +1179,7 @@ composer:shilemeng
 
 composer:chengen
 	foaf:name "晨耕";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1124,6 +1196,7 @@ composer:chengen
 
 composer:yuqiu
 	foaf:name "遇秋";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1140,6 +1213,7 @@ composer:yuqiu
 
 composer:make
 	foaf:name "马可";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1156,6 +1230,7 @@ composer:make
 
 composer:luyi
 	foaf:name "卢怡";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1172,6 +1247,7 @@ composer:luyi
 
 composer:guanxia
 	foaf:name "关峡";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1188,6 +1264,7 @@ composer:guanxia
 
 composer:tangbiguang
 	foaf:name "唐璧光";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1204,6 +1281,7 @@ composer:tangbiguang
 
 composer:lvwenke
 	foaf:name "吕文科";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1220,6 +1298,7 @@ composer:lvwenke
 
 composer:wangdahua
 	foaf:name "王大化";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1237,6 +1316,7 @@ composer:wangdahua
 
 composer:leiyuansheng
 	foaf:name "雷远生";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1253,6 +1333,7 @@ composer:leiyuansheng
 
 composer:huangyouyi
 	foaf:name "黄有异";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1268,6 +1349,7 @@ composer:huangyouyi
 
 composer:liuxuean
 	foaf:name "刘雪庵";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1284,6 +1366,7 @@ composer:liuxuean
 
 composer:zhanghaihui
 	foaf:name "张寒晖";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1301,6 +1384,7 @@ composer:zhanghaihui
 
 composer:heluting
 	foaf:name "贺绿汀";
+	dc:subject "作曲";
 	foaf:gender " 男";
 	whois:where [
     a whois:born ;
@@ -1318,6 +1402,7 @@ composer:heluting
 
 composer:zhaokaisheng
 	foaf:name "赵开生";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1333,6 +1418,7 @@ composer:zhaokaisheng
 
 composer:houdejian
 	foaf:name "侯德健";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1348,6 +1434,7 @@ composer:houdejian
 
 composer:luonianyi
 	foaf:name "罗念一";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1363,6 +1450,7 @@ composer:luonianyi
 
 composer:loushengmao
 	foaf:name "娄生茂";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1380,6 +1468,7 @@ composer:loushengmao
 
 composer:lihuanzhi
 	foaf:name "李焕之";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
@@ -1396,6 +1485,7 @@ composer:lihuanzhi
 
 composer:zhuzhengben
 	foaf:name "朱正本";
+	dc:subject "作曲";
 	foaf:gender "男";
 	whois:where [
     a whois:born ;
