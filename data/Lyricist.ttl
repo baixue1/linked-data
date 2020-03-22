@@ -791,8 +791,7 @@ lyricist:wangxiaoling
     a whois:job ;
     rdfs:label "作词家、一级编剧、文职将军。"
     ] ;
-	whois:achievement "享受国务院政府特殊津贴。曾获解放军文艺奖多种奖励，三次荣立二等功。
-";
+	whois:achievement "享受国务院政府特殊津贴。曾获解放军文艺奖多种奖励，三次荣立二等功。";
 	dc:source "https://baike.baidu.com/item/%E7%8E%8B%E6%99%93%E5%B2%AD/10284545".
 
 lyricist:hemuyang
@@ -890,8 +889,7 @@ lyricist:kuangyong
     ] ;
 	whois:born "1897";
 	whois:until "1928/6/6";
-	whois:publication "《国民革命歌》
-";
+	whois:publication "《国民革命歌》";
 	whois:career [
     a whois:job ;
     rdfs:label "军人"
