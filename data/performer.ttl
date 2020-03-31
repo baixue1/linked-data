@@ -5,7 +5,7 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 @prefix event:<http://purl.org/NET/c4dm/event.owl#>.
-@prefix performer:<http://baixue.com/performer/>.
+@prefix performer:<http://47.97.223.173/performer/>.
 
 performer:huoyong
 	foaf:name "霍勇";
