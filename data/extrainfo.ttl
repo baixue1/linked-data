@@ -1,0 +1,25 @@
+@prefix rdf:<http://www.w3.org/1993/02/22-rdf-syntax-ns#>.
+@prefix rdfs:<http://www.w3.org/2000/01/rdf-schema#>.
+@prefix owl:<http://www.w3.org/2002/07/owl#>.
+@prefix extrainfo:<http://47.97.223.173.com/>.
+
+#properties
+extrainfo:lyricist
+    rdf:type rdf:property;
+    rdfs:label "lyricist";
+    rdfs:comment "Raleted an arbitriary subject to a class that identifies a lyricist of the song".
+
+extrainfo: company
+    rdf:type rdf:property;
+    rdfs:label "company";
+    rdfs:comment "Raleted an arbitriary subject to a class that identifies a company which releases the album".
+
+extrainfo: year
+    rdf:type rdf:property;
+    rdfs:label "year";
+    rdfs:comment "Raleted an arbitriary subject to a class that identifies a year when the album releases".
+
+extrainfo: originalperformer
+    rdf:type rdf:property;
+    rdfs:label "originalperformer";
+    rdfs:comment "Raleted an arbitriary subject to a class that identifies a original performer of the album".
