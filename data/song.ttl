@@ -22,8 +22,8 @@ song:yiyongjunjinxingqu
 	mo:performer performer:zhongguorenminjiefangjunyuetuan;
 	extrainfo:lyricist lyricist:tianhan;
 	mo:composer composer:nieer;
-	mo: available_as "中国军乐进行曲20首";
-	mo: AudioFile "https://music.163.com/#/song?id=395749&market=baiduqk";
+	mo:available_as "中国军乐进行曲20首";
+	mo:AudioFile "https://music.163.com/#/song?id=395749&market=baiduqk";
 	mm:duration "1:42";
 	extrainfo:year "1992";
 	extrainfo:company "百利唱片";
@@ -36,8 +36,8 @@ song:baoweihuanghe
 	mo:performer performer:zhongguojiaoxiangyuetuanhechangtuan;
 	extrainfo:lyricist lyricist:guangweiran;
 	mo:composer composer:xianxinghai;
-	mo: available_as "穿过硝烟的歌声 男女声合唱";
-	mo: AudioFile https://music.163.com/#/song?id=1303273878&market=baiduqk;
+	mo:available_as "穿过硝烟的歌声 男女声合唱";
+	mo:AudioFile https://music.163.com/#/song?id=1303273878&market=baiduqk;
 	mm:duration "2:50";
 	extrainfo:year "2017";
 	extrainfo:company "恒大音乐";
@@ -50,8 +50,8 @@ song:zhongguorenminjiefangjunjunge
 	mo:performer performer:huoyong;
 	extrainfo:lyricist lyricist:zhangrongru;
 	mo:composer composer:zhenglvcheng;
-	mo: available_as "我是一个兵";
-	mo: AudioFile https://music.163.com/#/song?id=30284152;
+	mo:available_as "我是一个兵";
+	mo:AudioFile https://music.163.com/#/song?id=30284152;
 	mm:duration "1:31";
 	extrainfo:year "2013";
 	extrainfo:company "映帆音乐";
@@ -64,8 +64,8 @@ song:meiyougongchandangjiumeiyouxinzhongguo
 	mo:performer performer:huoyong;
 	extrainfo:lyricist lyricist:caohuoxing;
 	mo:composer composer:caohuoxing;
-	mo: available_as "我是一个兵";
-	mo: AudioFile https://music.163.com/#/song?id=30284136;
+	mo:available_as "我是一个兵";
+	mo:AudioFile https://music.163.com/#/song?id=30284136;
 	mm:duration "1:36";
 	extrainfo:year "2013";
 	extrainfo:company " 映帆音乐";
@@ -79,8 +79,8 @@ song:gechangzuoguo
 	mo:performer "中国人民解放军军乐团";
 	extrainfo:lyricist lyricist:wangshen;
 	mo:composer composer:wangshen;
-	mo: available_as "祖国颂(中国共产党八十周年纪念珍藏版)";
-	mo: AudioFile https://music.163.com/#/song?id=25841339&market=baiduqk;
+	mo:available_as "祖国颂(中国共产党八十周年纪念珍藏版)";
+	mo:AudioFile https://music.163.com/#/song?id=25841339&market=baiduqk;
 	mm:duration "3:08";
 	extrainfo:year "2000";
 	extrainfo:company "激光节目";
@@ -93,8 +93,8 @@ song:zhongguorenminzhiyuanjunjunge
 	mo:performer performer:huoyong;
 	extrainfo:lyricist lyricist:mafuyao;
 	mo:composer composer:zhouweizhi;
-	mo: available_as "我是一个兵";
-	mo: AudioFile https://music.163.com/#/song?id=30284158;
+	mo:available_as "我是一个兵";
+	mo:AudioFile https://music.163.com/#/song?id=30284158;
 	mm:duration "1:48";
 	extrainfo:year "2013";
 	extrainfo:company " 映帆音乐";
@@ -151,8 +151,8 @@ song:tanqiwoxinaidetupipa
 	extrainfo:lyricist lyricist:hebin;
 	mo:composer composer:lvqiming;
 	extrainfo:originalperformer originalperformer:chenjingxi;
-	mo: available_as "民歌·宝典8";
-	mo: AudioFile kugou.com/song/1n1jrbb.html?frombaidu#hash=A68BFC19379140BAFDA393423CEFB9E4&album_id=0;
+	mo:available_as "民歌·宝典8";
+	mo:AudioFile kugou.com/song/1n1jrbb.html?frombaidu#hash=A68BFC19379140BAFDA393423CEFB9E4&album_id=0;
 	mm:duration "4:19";
 	extrainfo:year "2000";
 	mo:text "西边的太阳快要落山了，微山湖上静悄悄。弹起我心爱的土琵琶，唱起那动人的歌谣。爬上飞快的火车，像骑上奔驰的骏马。车站和铁道线上，是我们杀敌的好战场。我们扒飞车那个搞机枪，撞火车那个炸桥梁，就像钢刀插入敌胸膛，打得鬼子魂飞胆丧。西边的太阳就要落山了，鬼子的末日就要来到。弹起我心爱的土琵琶，唱起那动人的歌谣。哎……嗨……嗨……";
@@ -165,8 +165,8 @@ song:wodezuguo
 	extrainfo:lyricist lyricist:qiaoyu;
 	mo:composer composer:liuchi;
 	extrainfo:originalperformer originalperformer:guolanying;
-	mo: available_as "我的祖国.南泥湾";
-	mo: AudioFile https://music.163.com/#/song?id=236405;
+	mo:available_as "我的祖国.南泥湾";
+	mo:AudioFile https://music.163.com/#/song?id=236405;
 	mm:duration "5:30";
 	extrainfo:year "1992";
 	extrainfo:company "百利唱片";
@@ -191,8 +191,8 @@ song:tingmamajiangnaguoqudeshiqing
 	extrainfo:lyricist lyricist:guanhua;
 	mo:composer composer:quxixian;
 	extrainfo:originalperformer originalperformer:liuchang;
-	mo: available_as "世纪歌典16 少儿篇";
-	mo: AudioFile https://music.163.com/#/song?id=395621;
+	mo:available_as "世纪歌典16 少儿篇";
+	mo:AudioFile https://music.163.com/#/song?id=395621;
 	mm:duration "5:30";
 	extrainfo:year "2000";
 	extrainfo:company "中唱上海";
@@ -225,8 +225,8 @@ song:zuguosong
 	mo:performer performer:zhongguojiaoxiangyuetuanhechangtuan;
 	extrainfo:lyricist lyricist:qiaoyu;
 	mo:composer composer:liuchi;
-	mo: available_as "世纪歌典20";
-	mo: AudioFile https://music.163.com/#/song?id=5272552;
+	mo:available_as "世纪歌典20";
+	mo:AudioFile https://music.163.com/#/song?id=5272552;
 	mm:duration "6:35";
 	extrainfo:year "2000";
 	extrainfo:company "中唱上海";
@@ -290,8 +290,8 @@ song:
 	mo:composer composer:ouyangqianshu;
 	mo:composer composer:zhangjingan;
 	extrainfo:originalperformer originalperformer:wangyuzhen;
-	mo: available_as "原唱经典名曲珍藏1";
-	mo: AudioFile https://www.xiami.com/song/bqvgVJL35b07;
+	mo:available_as "原唱经典名曲珍藏1";
+	mo:AudioFile https://www.xiami.com/song/bqvgVJL35b07;
 	mm:duration "3:34";
 	extrainfo:year "1995";
 	extrainfo:company "太平洋影音";
@@ -307,8 +307,8 @@ song:shanhusong
 	mo:composer composer:wangxiren;
 	mo:composer composer:hushiping;
 	extrainfo:originalperformer originalperformer:zhaoyunqin;
-	mo: available_as "世纪歌典歌剧篇";
-	mo: AudioFile http://www.kuwo.cn/play_detail/23592859;
+	mo:available_as "世纪歌典歌剧篇";
+	mo:AudioFile http://www.kuwo.cn/play_detail/23592859;
 	mm:duration "2:11";
 	extrainfo:year "2000";
 	mo:text "一树红花照碧海，一团火焰出水来，珊瑚树红春常在，风波浪里把花开。哎！云来遮，雾来盖，云里雾里放光彩。风吹来，浪打来，风吹浪打花常开。哎！一盏红灯照碧海，一团火焰出水来，红灯高照云天外，火焰熊熊把路开。哎！云来遮，雾来盖，云里雾里放光彩，风吹来，浪打来，迎接救星上岛来。哎！滚滚火焰冲天起，火树金花遍地开，霹雷一声震四海，浪走云飞大军来。一盏红灯照碧海，一团火焰出水来。红灯高照云天外，火焰熊熊把路开。云来遮，雾来盖，云里雾里放光彩。风吹来，浪打来，迎接救星上岛来！";
@@ -325,8 +325,8 @@ song:woaizuguodelantian
 	extrainfo:originalperformer originalperformer:qinwantan;
 	extrainfo:originalperformer originalperformer:yushurong;
 	extrainfo:originalperformer originalperformer:wuying;
-	mo: available_as "再见吧！妈妈";
-	mo: AudioFile https://music.163.com/#/song?id=126817&market=baiduqk;
+	mo:available_as "再见吧！妈妈";
+	mo:AudioFile https://music.163.com/#/song?id=126817&market=baiduqk;
 	mm:duration "2:26";
 	extrainfo:year "2001";
 	extrainfo:company "长城艺术文化";
@@ -352,8 +352,8 @@ song:womenshigongchanzhuyijiebanren
 	mo:performer performer:zhongguangshaonianertonghechangtuan;
 	extrainfo:lyricist lyricist:zhouyuhui;
 	mo:composer composer:jiming;
-	mo: available_as "记忆的符号-中国电影百年寻音集 CD8";
-	mo: AudioFile https://music.163.com/#/song?id=5263124;
+	mo:available_as "记忆的符号-中国电影百年寻音集 CD8";
+	mo:AudioFile https://music.163.com/#/song?id=5263124;
 	mm:duration "1:30";
 	extrainfo:year "2005";
 	extrainfo:company "中国唱片";
@@ -365,8 +365,8 @@ song:huaerweishenmezheyanghong
 	mo:performer "于淑荣、吴颖";
 	extrainfo:lyricist "雷蕾";
 	mo:composer composer:leizhenbang;
-	mo: available_as "中国电影百年寻音集";
-	mo: AudioFile https://www.kugou.com/album/543025.html;
+	mo:available_as "中国电影百年寻音集";
+	mo:AudioFile https://www.kugou.com/album/543025.html;
 	mm:duration "https://www.kugou.com/song/2hmzc0b.html?frombaidu#hash=00C0AF6E878A7EA249F2AC69E77896EF&album_id=0";
 	extrainfo:year "2005";
 	extrainfo:company "中国唱片";
@@ -394,8 +394,8 @@ song:qingshenyichang
 	extrainfo:lyricist "王印泉";
 	mo:composer composer:zangdongsheng;
 	extrainfo:originalperformer originalperformer:dengyuhua;
-	mo: available_as "中国歌典 1960's 激情燃烧的岁月";
-	mo: AudioFile https://music.163.com/#/album?id=512988;
+	mo:available_as "中国歌典 1960's 激情燃烧的岁月";
+	mo:AudioFile https://music.163.com/#/album?id=512988;
 	mm:duration "1:40";
 	extrainfo:year "2002";
 	extrainfo:company "中唱成都";
@@ -411,8 +411,8 @@ song:womenzouzaidadaoshang
 	extrainfo:lyricist lyricist:lijiefu;
 	mo:composer composer:lijiefu;
 	extrainfo:originalperformer originalperformer:wangqihui;
-	mo: available_as "中国歌典 1960's 激情燃烧的岁月";
-	mo: AudioFile https://music.163.com/#/song?id=5270792&market=baiduqk;
+	mo:available_as "中国歌典 1960's 激情燃烧的岁月";
+	mo:AudioFile https://music.163.com/#/song?id=5270792&market=baiduqk;
 	mm:duration "2:32";
 	extrainfo:year "2002";
 	extrainfo:company "中唱成都";
@@ -425,8 +425,8 @@ song:changzhishangegeidangting
 	extrainfo:lyricist "蕉萍";
 	mo:composer composer:zhujianer;
 	extrainfo:originalperformer originalperformer:husonghua;
-	mo: available_as "记忆的符号-中国电影百年寻音集 CD2";
-	mo: AudioFile https://music.163.com/#/song?id=5263033;
+	mo:available_as "记忆的符号-中国电影百年寻音集 CD2";
+	mo:AudioFile https://music.163.com/#/song?id=5263033;
 	mm:duration "0:58";
 	extrainfo:year "2005";
 	extrainfo:company " 中国唱片";
@@ -453,8 +453,8 @@ song:wanquangeshuiqingyouqing
 	mo:performer "苏云";
 	extrainfo:lyricist "吴祖强";
 	mo:composer composer:dumingxin;
-	mo: available_as "惊艳";
-	mo: AudioFile https://www.kugou.com/album/591106.html;
+	mo:available_as "惊艳";
+	mo:AudioFile https://www.kugou.com/album/591106.html;
 	mm:duration "4:35";
 	extrainfo:year "2007";
 	mo:text """万泉河水清又清，
@@ -480,8 +480,8 @@ song:yingxiongzange
 	extrainfo:lyricist lyricist:zhangsongru;
 	mo:composer composer:liuchi;
 	extrainfo:originalperformer originalperformer:zhangyingzhe;
-	mo: available_as "记忆的符号-中国电影百年寻音集 CD2";
-	mo: AudioFile https://www.kugou.com/song/#hash=0BD29D7A77AA8E0F04D53B2D0E69A2F9&album_id=591106;
+	mo:available_as "记忆的符号-中国电影百年寻音集 CD2";
+	mo:AudioFile https://www.kugou.com/song/#hash=0BD29D7A77AA8E0F04D53B2D0E69A2F9&album_id=591106;
 	mm:duration "4:31";
 	extrainfo:year "2005";
 	mo:text "烽烟滚滚唱英雄，四面青山侧耳听，侧耳听。晴天响雷敲金鼓，大海扬波作和声。人民战士驱虎豹，舍生忘死保和平。为什么战旗美如画，英雄的鲜血染红了它。为什么大地春常在，英雄的生命开鲜花；英雄猛跳出战壕，一道电光裂长空，裂长空。地陷进去独身挡，天塌下来只手擎。两脚熊熊趟烈火，浑身闪闪披彩虹。为什么战旗美如画，英雄的鲜血染红了它。为什么大地春常在，英雄的生命开鲜花；一声呼叫炮声隆，翻江倒海天地崩，天地崩。双手紧握爆破筒，怒目喷火热血涌。敌人腐烂变泥土，勇士辉煌化金星。为什么战旗美如画，英雄的鲜血染红了它。为什么大地春常在，英雄的生命开鲜花！";
@@ -496,8 +496,8 @@ song:hongmeizan
 	mo:composer composer:jinsha;
 	mo:composer composer:yangming;
 	extrainfo:originalperformer originalperformer:wanfuxiang;
-	mo: available_as "望星空";
-	mo: AudioFile https://music.163.com/#/song?id=330644&market=baiduqk;
+	mo:available_as "望星空";
+	mo:AudioFile https://music.163.com/#/song?id=330644&market=baiduqk;
 	mm:duration "4:02";
 	extrainfo:year "1999";
 	extrainfo:company "洋明文化";
@@ -512,8 +512,8 @@ song:zange
 	extrainfo:lyricist lyricist:husonghua;
 	mo:composer composer:husonghua;
 	extrainfo:originalperformer originalperformer:husonghua;
-	mo: available_as "赞歌";
-	mo: AudioFile https://music.163.com/#/song?id=98424;
+	mo:available_as "赞歌";
+	mo:AudioFile https://music.163.com/#/song?id=98424;
 	mm:duration "5:37";
 	extrainfo:year "1999";
 	extrainfo:company "上海声像";
@@ -527,8 +527,8 @@ song:woweizuguoxianshiyou
 	extrainfo:lyricist lyricist:xiuzhuguo;
 	mo:composer composer:qinyongcheng;
 	extrainfo:originalperformer originalperformer:liubinyi;
-	mo: available_as "中国歌典 1980's 改革开放的时代";
-	mo: AudioFile https://music.163.com/#/song?id=5270858&market=baiduqk;
+	mo:available_as "中国歌典 1980's 改革开放的时代";
+	mo:AudioFile https://music.163.com/#/song?id=5270858&market=baiduqk;
 	mm:duration "2:01";
 	extrainfo:year "2002";
 	extrainfo:company "中唱成都";
@@ -567,8 +567,8 @@ song:beijingsongge
 	mo:composer composer:fujing;
 	mo:composer composer:tianguang;
 	extrainfo:originalperformer originalperformer:zhangyuenan;
-	mo: available_as "文革歌曲合集之1－毛主席颂歌";
-	mo: AudioFile https://y.qq.com/portal/player.html;
+	mo:available_as "文革歌曲合集之1－毛主席颂歌";
+	mo:AudioFile https://y.qq.com/portal/player.html;
 	mm:duration "4:15";
 	extrainfo:year "2005";
 	mo:text """灿烂的朝霞
@@ -606,8 +606,8 @@ song:daqishougechangqige
 	extrainfo:lyricist "韩伟";
 	mo:composer composer:shiguangnan;
 	extrainfo:originalperformer originalperformer:luotianchan;
-	mo: available_as "军营民谣";
-	mo: AudioFile https://www.kugou.com/song/1p179c1.html?frombaidu#hash=3905B1FF168CEF489DD489131C6C2A10&album_id=0;
+	mo:available_as "军营民谣";
+	mo:AudioFile https://www.kugou.com/song/1p179c1.html?frombaidu#hash=3905B1FF168CEF489DD489131C6C2A10&album_id=0;
 	mm:duration "2:13";
 	extrainfo:year "1900";
 	mo:text """打起手鼓唱起歌
@@ -645,8 +645,8 @@ song:woaizhelansedehaiyang
 	extrainfo:lyricist lyricist:hubaoshan;
 	mo:composer composer:hubaoshan;
 	extrainfo:originalperformer originalperformer:hubaoshan;
-	mo: available_as "20世纪中华歌坛名人百集珍藏版";
-	mo: AudioFile https://www.xiami.com/song/endDl33849;
+	mo:available_as "20世纪中华歌坛名人百集珍藏版";
+	mo:AudioFile https://www.xiami.com/song/endDl33849;
 	mm:duration "3:01";
 	extrainfo:year "1998";
 	extrainfo:company "中国唱片";
@@ -687,8 +687,8 @@ song:hongxingzhaowoquzhandou
 	extrainfo:lyricist lyricist:weibaogui;
 	mo:composer composer:composer:fugenchen;
 	extrainfo:originalperformer originalperformer:lishuangjiang;
-	mo: available_as "20世纪中华歌坛名人百集珍藏版";
-	mo: AudioFile https://music.163.com/#/album?id=12256;
+	mo:available_as "20世纪中华歌坛名人百集珍藏版";
+	mo:AudioFile https://music.163.com/#/album?id=12256;
 	mm:duration "2:34";
 	extrainfo:year "1996";
 	extrainfo:company "中国唱片";
@@ -722,8 +722,8 @@ song:zhujiuge
 	extrainfo:lyricist "韩伟";
 	mo:composer composer:shiguangnan;
 	extrainfo:originalperformer originalperformer:liguangxi;
-	mo: available_as "20世纪中华歌坛名人百集珍藏版";
-	mo: AudioFile https://music.163.com/#/album?id=12368;
+	mo:available_as "20世纪中华歌坛名人百集珍藏版";
+	mo:AudioFile https://music.163.com/#/album?id=12368;
 	mm:duration "2:52";
 	extrainfo:year "1999";
 	extrainfo:company " 中国唱片";
@@ -767,8 +767,8 @@ song:bianjiangdeshuiqingyouchun
 	extrainfo:lyricist lyricist:wangkaichuan;
 	mo:composer composer:wangming;
 	extrainfo:originalperformer originalperformer:liguyi;
-	mo: available_as "红色经典影视民歌";
-	mo: AudioFile http://www.kuwo.cn/play_detail/23577511?from=baidu;
+	mo:available_as "红色经典影视民歌";
+	mo:AudioFile http://www.kuwo.cn/play_detail/23577511?from=baidu;
 	mm:duration "2:51";
 	extrainfo:year "2004";
 	mo:text """边疆的泉水清又纯
@@ -799,8 +799,8 @@ song:xianhongdetaiyangyongbuluo
 	extrainfo:lyricist lyricist:hedongjiu;
 	extrainfo:lyricist lyricist:renhongju;
 	mo:composer composer:zhunanxi;
-	mo: available_as "革命歌曲";
-	mo: AudioFile https://www.kugou.com/song/1mfuja6.html?frombaidu#hash=A47B15CC6DA11E35B6B09058C06FE8FB&album_id=0;
+	mo:available_as "革命歌曲";
+	mo:AudioFile https://www.kugou.com/song/1mfuja6.html?frombaidu#hash=A47B15CC6DA11E35B6B09058C06FE8FB&album_id=0;
 	mm:duration "1:37";
 	extrainfo:year "1900";
 	mo:text """中国，中国，壮丽的山河，
@@ -826,8 +826,8 @@ song:meilidecaoyuanwodejia
 	extrainfo:lyricist lyricist:huohua;
 	mo:composer composer:alatengaole;
 	extrainfo:originalperformer originalperformer:dedema;
-	mo: available_as "美丽的草原我的家";
-	mo: AudioFile https://music.163.com/#/album?id=22647;
+	mo:available_as "美丽的草原我的家";
+	mo:AudioFile https://music.163.com/#/album?id=22647;
 	mm:duration "4:31";
 	extrainfo:year "2009";
 	extrainfo:company " ABC(国际)唱片";
@@ -853,8 +853,8 @@ song:womendeshenghuochongmanyangguang
 	mo:composer composer:lvyuan;
 	mo:composer composer:tanghe;
 	extrainfo:originalperformer originalperformer:yushuzhen;
-	mo: available_as "中国歌典 -1970's 风云变幻的岁月";
-	mo: AudioFile https://music.163.com/#/song?id=5270811&market=baiduqk;
+	mo:available_as "中国歌典 -1970's 风云变幻的岁月";
+	mo:AudioFile https://music.163.com/#/song?id=5270811&market=baiduqk;
 	mm:duration "2:57";
 	extrainfo:year "2002";
 	extrainfo:company "中唱成都";
@@ -879,8 +879,8 @@ song:woainizhongguo
 	extrainfo:lyricist lyricist:qucong;
 	mo:composer composer:zhengqiufeng;
 	extrainfo:originalperformer originalperformer:yepeiying;
-	mo: available_as "中华人民共和国国歌 珍藏版";
-	mo: AudioFile https://music.163.com/#/song?id=5281547&market=baiduqk;
+	mo:available_as "中华人民共和国国歌 珍藏版";
+	mo:AudioFile https://music.163.com/#/song?id=5281547&market=baiduqk;
 	mm:duration "5:23";
 	extrainfo:year "1994";
 	extrainfo:company " 中唱广州";
@@ -924,7 +924,7 @@ song:nianqingdepengyoulaixianghui
 	mo:composer composer:gujianfen;
 	extrainfo:originalperformer originalperformer:wuguosong;
 	extrainfo:originalperformer originalperformer:renyan;
-	mo: AudioFile https://music.163.com/#/album?id=34923612;
+	mo:AudioFile https://music.163.com/#/album?id=34923612;
 	mm:duration "2:49";
 	mo:text """年轻的朋友们，今天来相会，
 荡起小船儿，暖风轻轻吹
@@ -958,8 +958,8 @@ song:jungangzhiye
 	extrainfo:lyricist lyricist:liushizhao;
 	mo:composer composer:liushizhao;
 	extrainfo:originalperformer originalperformer:suxiaoming;
-	mo: available_as "20世纪中华歌坛名人百集珍藏版";
-	mo: AudioFile https://music.163.com/#/album?id=28859";
+	mo:available_as "20世纪中华歌坛名人百集珍藏版";
+	mo:AudioFile https://music.163.com/#/album?id=28859";
 	mm:duration "3:10";
 	extrainfo:year "1997";
 	extrainfo:company "中国唱片";
@@ -994,8 +994,8 @@ song:zuguocixiangdemuqin
 	extrainfo:originalperformer originalperformer:liaochangyong;
 	extrainfo:originalperformer originalperformer:huoyong;
 	foaf:name "霍勇";
-	mo: available_as "你好，春天";
-	mo: AudioFile https://music.163.com/#/song?id=323723;
+	mo:available_as "你好，春天";
+	mo:AudioFile https://music.163.com/#/song?id=323723;
 	mm:duration "3:35";
 	extrainfo:year "2003";
 	extrainfo:company "上海音像出版社";
@@ -1018,8 +1018,8 @@ song:zaixiwangdetianyeshang
 	mo:performer performer:zhongguoguangbohechangtuan;
 	extrainfo:lyricist "陈晓光";
 	mo:composer composer:shiguangnan;
-	mo: available_as "中华人民共和国国歌 珍藏版";
-	mo: AudioFile https://music.163.com/#/song/5281546?userid=394340611;
+	mo:available_as "中华人民共和国国歌 珍藏版";
+	mo:AudioFile https://music.163.com/#/song/5281546?userid=394340611;
 	mm:duration "4:29";
 	extrainfo:year "1994";
 	extrainfo:company "中唱广州";
@@ -1056,8 +1056,8 @@ song:shaonianzuguodechuntian
 	mo:performer performer:xinyuehechangtuan;
 	extrainfo:lyricist lyricist:liyourong;
 	mo:composer composer:jiming;
-	mo: available_as "中华儿歌珍藏集5";
-	mo: AudioFile https://www.xiami.com/song/bf0zk9L2f535;
+	mo:available_as "中华儿歌珍藏集5";
+	mo:AudioFile https://www.xiami.com/song/bf0zk9L2f535;
 	mm:duration "2:08";
 	extrainfo:year "2010";
 	extrainfo:company "中国唱片";
@@ -1105,8 +1105,8 @@ song:duoqingdetudi
 	extrainfo:lyricist "任志平";
 	mo:composer composer:shiguangnan;
 	extrainfo:originalperformer originalperformer:tongtiexin;
-	mo: available_as "时代·记忆";
-	mo: AudioFile https://music.163.com/#/song?id=1340350112&market=baiduqk;
+	mo:available_as "时代·记忆";
+	mo:AudioFile https://music.163.com/#/song?id=1340350112&market=baiduqk;
 	mm:duration "4:16";
 	extrainfo:year "2018";
 	extrainfo:company "悦晟雷音";
@@ -1142,8 +1142,8 @@ song:wanlichangchengyongbudao
 	extrainfo:lyricist lyricist:luguozhan;
 	mo:composer composer:lixiaotian;
 	extrainfo:originalperformer originalperformer:yezhentang;
-	mo: available_as "百份百经典电视剧集金曲精选";
-	mo: AudioFile https://www.xiami.com/song/ed7q4551a;
+	mo:available_as "百份百经典电视剧集金曲精选";
+	mo:AudioFile https://www.xiami.com/song/ed7q4551a;
 	mm:duration "2:51";
 	extrainfo:year "2002";
 	extrainfo:company "环星音乐";
@@ -1183,8 +1183,8 @@ song:wodezhongguoxin
 	extrainfo:lyricist lyricist:huangzhan;
 	mo:composer composer:wangfuling;
 	extrainfo:originalperformer originalperformer:zhangmingmin;
-	mo: available_as "我的中国心";
-	mo: AudioFile http://www.kuwo.cn/play_detail/60333?from=baidu;
+	mo:available_as "我的中国心";
+	mo:AudioFile http://www.kuwo.cn/play_detail/60333?from=baidu;
 	mm:duration "3:17";
 	extrainfo:year "1982";
 	mo:text """河山只在我梦萦
@@ -1223,8 +1223,8 @@ song:changjiangzhige
 	extrainfo:lyricist lyricist:huhongwei;
 	mo:composer composer:wangshiguang;
 	extrainfo:originalperformer originalperformer:jixiaoqin;
-	mo: available_as "爱琴海的珍珠";
-	mo: AudioFile https://www.xiami.com/song/bf2oKaF311f4;
+	mo:available_as "爱琴海的珍珠";
+	mo:AudioFile https://www.xiami.com/song/bf2oKaF311f4;
 	mm:duration "3:48";
 	extrainfo:year "1984";
 	extrainfo:company "云南音像出版社";
@@ -1262,8 +1262,8 @@ song:gulangyuzhibo
 	extrainfo:lyricist "红曙";
 	mo:composer composer:zhonglimin;
 	extrainfo:originalperformer originalperformer:liguangxi;
-	mo: available_as "海峡之声 音乐会节目选";
-	mo: AudioFile https://www.xiami.com/song/mQIFtS7035c;
+	mo:available_as "海峡之声 音乐会节目选";
+	mo:AudioFile https://www.xiami.com/song/mQIFtS7035c;
 	mm:duration "4:09";
 	extrainfo:year "1983";
 	extrainfo:company "中国唱片";
@@ -1288,8 +1288,8 @@ song:wohewodezuguo
 	extrainfo:lyricist lyricist:zhangli;
 	mo:composer composer:qinyongcheng;
 	extrainfo:originalperformer originalperformer:liguyi;
-	mo: available_as "祖国春常在";
-	mo: AudioFile https://music.163.com/#/song?id=257350&market=baiduqk;
+	mo:available_as "祖国春常在";
+	mo:AudioFile https://music.163.com/#/song?id=257350&market=baiduqk;
 	mm:duration "3:56";
 	extrainfo:year "2003";
 	mo:text """我和我的祖国
@@ -1325,8 +1325,8 @@ song:shiwudeyueliang
 	mo:composer composer:xuxiyi;
 	mo:composer composer:shitieyuan;
 	extrainfo:originalperformer originalperformer:jiangdawei;
-	mo: available_as "民歌电影歌曲";
-	mo: AudioFile https://www.xiami.com/song/xLsxsac2c9b;
+	mo:available_as "民歌电影歌曲";
+	mo:AudioFile https://www.xiami.com/song/xLsxsac2c9b;
 	mm:duration "3:42";
 	extrainfo:year "1995";
 	extrainfo:company "太平洋影音";
@@ -1357,8 +1357,8 @@ song:dangaqinaidemama
 	extrainfo:lyricist "龚爱书、余致迪";
 	mo:composer "马殿银、周右";
 	extrainfo:originalperformer originalperformer:yinxiumei;
-	mo: available_as "名歌经典";
-	mo: AudioFile https://www.xiami.com/song/C0Wo49fda;
+	mo:available_as "名歌经典";
+	mo:AudioFile https://www.xiami.com/song/C0Wo49fda;
 	mm:duration "3:05";
 	extrainfo:year "1999";
 	extrainfo:company "新时代";
@@ -1396,8 +1396,8 @@ song:womenshihuanghetaishan
 	extrainfo:lyricist "曹勇";
 	mo:composer composer:shixin;
 	extrainfo:originalperformer originalperformer:pengliyuan;
-	mo: available_as "中国歌典 1980's 改革开放的时代";
-	mo: AudioFile https://music.163.com/#/song?id=5270848&market=baiduqk;
+	mo:available_as "中国歌典 1980's 改革开放的时代";
+	mo:AudioFile https://music.163.com/#/song?id=5270848&market=baiduqk;
 	mm:duration "3:00";
 	extrainfo:year "2002";
 	extrainfo:company "中唱成都";
@@ -1434,7 +1434,7 @@ song:gongheguozhilian
 	extrainfo:lyricist lyricist:liuyiran;
 	mo:composer composer:liuweiguang;
 	extrainfo:originalperformer originalperformer:liuchang;
-	mo: available_as "白发·黄沙";
+	mo:available_as "白发·黄沙";
 	mo:text """在爱里在情里
 痛苦幸福我呼唤着你
 在歌里在梦里
@@ -1466,8 +1466,8 @@ song:fulaoxiangqin
 	extrainfo:lyricist lyricist:shishunyi;
 	mo:composer "王锡仁";
 	extrainfo:originalperformer originalperformer:fanlinlin;
-	mo: available_as "心愿";
-	mo: AudioFile https://music.163.com/#/song?id=233036&market=baiduqk;
+	mo:available_as "心愿";
+	mo:AudioFile https://music.163.com/#/song?id=233036&market=baiduqk;
 	mm:duration "4:35";
 	extrainfo:year "2010";
 	extrainfo:company "星外星唱片";
@@ -1515,8 +1515,8 @@ song:jintianshinideshengri
 	extrainfo:lyricist lyricist:hanjingting;
 	mo:composer composer:gujianfen;
 	extrainfo:originalperformer originalperformer:dongwenhua;
-	mo: available_as "董文华经典";
-	mo: AudioFile http://www.kuwo.cn/play_detail/80400726?from=baidu;
+	mo:available_as "董文华经典";
+	mo:AudioFile http://www.kuwo.cn/play_detail/80400726?from=baidu;
 	mm:duration "4:56";
 	extrainfo:year "2019";
 	mo:text """今天是你的生日我的中国
@@ -1553,8 +1553,8 @@ song:zaizhongguodadishang
 	extrainfo:lyricist "晓光";
 	mo:composer composer:shixin;
 	extrainfo:originalperformer originalperformer:pengliyuan;
-	mo: available_as "父老乡亲";
-	mo: AudioFile https://music.163.com/#/song?id=282309&market=baiduqk;
+	mo:available_as "父老乡亲";
+	mo:AudioFile https://music.163.com/#/song?id=282309&market=baiduqk;
 	mm:duration "4:10";
 	extrainfo:year "2001";
 	extrainfo:company "星文唱片";
@@ -1593,8 +1593,8 @@ song:aiwozhonghua
 	extrainfo:lyricist lyricist:qiaoyu;
 	mo:composer composer:xupeidong;
 	extrainfo:originalperformer originalperformer:weiwei;
-	mo: available_as "20世纪中华歌坛名人百集珍藏版";
-	mo: AudioFile http://www.kuwo.cn/play_detail/681934?from=baidu;
+	mo:available_as "20世纪中华歌坛名人百集珍藏版";
+	mo:AudioFile http://www.kuwo.cn/play_detail/681934?from=baidu;
 	mm:duration "3:39";
 	extrainfo:year "1998";
 	mo:text """爱我中华
@@ -1669,8 +1669,8 @@ song:dongfangzhizhu
 	extrainfo:lyricist lyricist:zhengguojiang;
 	mo:composer composer:luodayou;
 	extrainfo:originalperformer originalperformer:guanzhengjie;
-	mo: available_as "启示";
-	mo: AudioFile https://music.163.com/#/song?id=87039&market=baiduqk;
+	mo:available_as "启示";
+	mo:AudioFile https://music.163.com/#/song?id=87039&market=baiduqk;
 	mm:duration "3:42";
 	extrainfo:year "1986";
 	extrainfo:company "环球唱片";
@@ -1698,7 +1698,7 @@ song:qingzanggaoyuan
 	extrainfo:lyricist lyricist:zhangqianyi;
 	mo:composer composer:zhangqianyi;
 	extrainfo:originalperformer originalperformer:lina;
-	mo: available_as "二十世纪原创经典典藏 龙凤金歌榜";
+	mo:available_as "二十世纪原创经典典藏 龙凤金歌榜";
 	dc:source "https://www.xiami.com/song/bACmmb4ec4";
 	mm:duration "3:36";
 	extrainfo:year "2006";
@@ -1733,8 +1733,8 @@ song:chuntiandegushi
 	extrainfo:lyricist lyricist:jiangkairu;
 	mo:composer composer:wangyougui;
 	extrainfo:originalperformer originalperformer:dongwenhua;
-	mo: available_as "二十世纪原创经典典藏 龙凤金歌榜";
-	mo: AudioFile https://music.163.com/#/song?id=5280162&market=baiduqk;
+	mo:available_as "二十世纪原创经典典藏 龙凤金歌榜";
+	mo:AudioFile https://music.163.com/#/song?id=5280162&market=baiduqk;
 	mm:duration "5:21";
 	extrainfo:year "1995";
 	extrainfo:company "中唱深圳";
@@ -1772,8 +1772,8 @@ song:changchengchang
 	extrainfo:lyricist lyricist:yansu;
 	mo:composer composer:mengqingyun;
 	extrainfo:originalperformer originalperformer:dongwenhua;
-	mo: available_as "20世纪中华歌坛名人百集珍藏版";
-	mo: AudioFile https://music.163.com/#/song?id=224651&autoplay=true&market=baiduhd;
+	mo:available_as "20世纪中华歌坛名人百集珍藏版";
+	mo:AudioFile https://music.163.com/#/song?id=224651&autoplay=true&market=baiduhd;
 	mm:duration "4:39";
 	extrainfo:year "1996";
 	extrainfo:company " 中国唱片";
@@ -1813,8 +1813,8 @@ song:hongqipiaopiao
 	extrainfo:lyricist "乔方";
 	mo:composer "李杰";
 	extrainfo:originalperformer originalperformer:sunnan;
-	mo: available_as "生生世世";
-	mo: AudioFile https://music.163.com/#/song?id=145754&market=baiduqk;
+	mo:available_as "生生世世";
+	mo:AudioFile https://music.163.com/#/song?id=145754&market=baiduqk;
 	mm:duration "4:11";
 	extrainfo:year "1995";
 	extrainfo:company "艺能动音";
@@ -1859,8 +1859,8 @@ song:zoujinxinshidai
 	extrainfo:lyricist lyricist:jiangkairu;
 	mo:composer composer:yinqing;
 	extrainfo:originalperformer originalperformer:zhangye;
-	mo: available_as "走进新时代";
-	mo: AudioFile https://music.163.com/#/song?id=330680&market=baiduqk;
+	mo:available_as "走进新时代";
+	mo:AudioFile https://music.163.com/#/song?id=330680&market=baiduqk;
 	mm:duration "4:08";
 	extrainfo:year "1997";
 	extrainfo:company "上海声像";
@@ -1908,8 +1908,8 @@ song:qizizhigeaomen
 	mo:performer performer:rongyunlin;
 	extrainfo:lyricist lyricist:wenyiduo;
 	mo:composer composer:lihaiying;
-	mo: available_as "中国最爱儿歌经典二";
-	mo: AudioFile https://www.xiami.com/song/8GfXyVf38c2;
+	mo:available_as "中国最爱儿歌经典二";
+	mo:AudioFile https://www.xiami.com/song/8GfXyVf38c2;
 	mm:duration "2:17";
 	extrainfo:year "2002";
 	extrainfo:company "中唱深圳";
@@ -1950,8 +1950,8 @@ song:jubeibapengyou
 	extrainfo:lyricist "任毅";
 	mo:composer composer:xiaobai;
 	extrainfo:originalperformer originalperformer:yanweiwen;
-	mo: available_as "战士情歌";
-	mo: AudioFile https://music.163.com/#/song?id=29023811&autoplay=true&market=baiduhd;
+	mo:available_as "战士情歌";
+	mo:AudioFile https://music.163.com/#/song?id=29023811&autoplay=true&market=baiduhd;
 	mm:duration "3:52";
 	extrainfo:year "2014";
 	extrainfo:company "龙乐世纪";
@@ -2011,8 +2011,8 @@ song:weileshei
 	extrainfo:lyricist "邹友开";
 	mo:composer composer:mengqingyun;
 	extrainfo:originalperformer originalperformer:zuhai;
-	mo: available_as "欢乐海";
-	mo: AudioFile https://music.163.com/#/song?id=334013&market=baiduqk;
+	mo:available_as "欢乐海";
+	mo:AudioFile https://music.163.com/#/song?id=334013&market=baiduqk;
 	mm:duration "4:31";
 	extrainfo:year "2004";
 	extrainfo:company "广西民族";
@@ -2063,8 +2063,8 @@ song:chaoyuemengxiang
 	extrainfo:lyricist "韩葆、胡峥";
 	mo:composer "王晓峰";
 	extrainfo:originalperformer originalperformer:wangzhengzheng;
-	mo: available_as "Beyond the Dream ";
-	mo: AudioFile https://music.163.com/#/song?id=164861&market=baiduqk;
+	mo:available_as "Beyond the Dream ";
+	mo:AudioFile https://music.163.com/#/song?id=164861&market=baiduqk;
 	mm:duration "3:18";
 	extrainfo:year "2011";
 	extrainfo:company "怡人唱片";
@@ -2112,8 +2112,8 @@ song:wuxinghongqi
 	extrainfo:lyricist "天明";
 	mo:composer composer:liuqing;
 	extrainfo:originalperformer originalperformer:liuyuanyuan;
-	mo: available_as "五星红旗";
-	mo: AudioFile https://music.163.com/#/song?id=271610&autoplay=true&market=baiduhd;
+	mo:available_as "五星红旗";
+	mo:AudioFile https://music.163.com/#/song?id=271610&autoplay=true&market=baiduhd;
 	mm:duration "3:18";
 	extrainfo:year "2002";
 	extrainfo:company "京文唱片";
@@ -2144,8 +2144,8 @@ song:zhufuzuguo
 	extrainfo:lyricist "清风";
 	mo:composer composer:mengqingyun;
 	extrainfo:originalperformer originalperformer:tangcan;
-	mo: available_as "祝福祖国";
-	mo: AudioFile https://music.163.com/#/song?id=294533&market=baiduqk;
+	mo:available_as "祝福祖国";
+	mo:AudioFile https://music.163.com/#/song?id=294533&market=baiduqk;
 	mm:duration "5:11";
 	extrainfo:year "1999";
 	extrainfo:company "金蜂音像";
@@ -2179,8 +2179,8 @@ song:tianlu
 	mo:performer performer:hanhong;
 	extrainfo:lyricist lyricist:quyuan;
 	mo:composer composer:yinqing;
-	mo: available_as "冰雪莲";
-	mo: AudioFile http://bd.kuwo.cn/play_detail/107471?from=baidu;
+	mo:available_as "冰雪莲";
+	mo:AudioFile http://bd.kuwo.cn/play_detail/107471?from=baidu;
 	mm:duration "4:22";
 	extrainfo:year "2007";
 	mo:text """清晨我站在青青的牧场
@@ -2215,8 +2215,8 @@ song:zaicanlandeyangguangxia
 	mo:performer "刘祉妤";
 	extrainfo:lyricist "集体作词、贺慈航执笔";
 	mo:composer composer:yinqing;
-	mo: available_as "刘祉妤个人专辑";
-	mo: AudioFile https://y.qq.com/n/yqq/song/0011tJW51B6BAO.html?ADTAG=baiduald&play=1;
+	mo:available_as "刘祉妤个人专辑";
+	mo:AudioFile https://y.qq.com/n/yqq/song/0011tJW51B6BAO.html?ADTAG=baiduald&play=1;
 	mm:duration "4:22";
 	extrainfo:year "2019";
 	extrainfo:company "GD Music";
@@ -2265,8 +2265,8 @@ song:zuguobuhuiwangji
 	extrainfo:lyricist "作词:张月谭";
 	mo:composer composer:caojin;
 	extrainfo:originalperformer originalperformer:caojin;
-	mo: available_as "红歌②";
-	mo: AudioFile https://y.qq.com/n/yqq/song/004FTKhJ33kbF3.html?ADTAG=baiduald&play=1;
+	mo:available_as "红歌②";
+	mo:AudioFile https://y.qq.com/n/yqq/song/004FTKhJ33kbF3.html?ADTAG=baiduald&play=1;
 	mm:duration "3:43";
 	extrainfo:year "2010";
 	extrainfo:company "央金玛国际文化传媒";
@@ -2315,7 +2315,7 @@ song:yangguanglushang
 	extrainfo:lyricist lyricist:wangxiaoling;
 	mo:composer composer:zhanghongguang;
 	extrainfo:originalperformer originalperformer:pengliyuan;
-	mo: AudioFile https://www.kugou.com/song/pjxz477.html?frombaidu#hash=3F24F036B5D798397E86935298788485&album_id=0;
+	mo:AudioFile https://www.kugou.com/song/pjxz477.html?frombaidu#hash=3F24F036B5D798397E86935298788485&album_id=0;
 	mm:duration "4:08";
 	extrainfo:year "2009";
 	mo:text """走过了春和秋,走在阳光路上.
@@ -2347,8 +2347,8 @@ song:zhanzaicaoyuanwangbeijing
 	extrainfo:lyricist "邱国栋";
 	mo:composer "张天赋";
 	extrainfo:originalperformer originalperformer:wulantuya;
-	mo: available_as "站在草原望北京";
-	mo: AudioFile https://music.163.com/#/song?id=305734&market=baiduqk;
+	mo:available_as "站在草原望北京";
+	mo:AudioFile https://music.163.com/#/song?id=305734&market=baiduqk;
 	mm:duration "4:06";
 	extrainfo:year "2012";
 	extrainfo:company "酝星文化";
@@ -2377,8 +2377,8 @@ song:zhetiaolu
 	extrainfo:lyricist "黄石";
 	mo:composer composer:mengqingyun;
 	extrainfo:originalperformer originalperformer:wangli;
-	mo: available_as "这条路";
-	mo: AudioFile https://music.163.com/#/song?id=1305365233&market=baiduqk;
+	mo:available_as "这条路";
+	mo:AudioFile https://music.163.com/#/song?id=1305365233&market=baiduqk;
 	mm:duration "4:37";
 	extrainfo:year "2018";
 	extrainfo:company "悦声无限";
@@ -2409,8 +2409,8 @@ song:womenconggutianzaichufa
 	extrainfo:lyricist lyricist:wangxiaoling;
 	mo:composer composer:nuankai;
 	extrainfo:originalperformer originalperformer:yanweiwen;
-	mo: available_as "钢枪·玫瑰";
-	mo: AudioFile https://music.163.com/#/song?id=33715995&autoplay=true&market=baiduhd;
+	mo:available_as "钢枪·玫瑰";
+	mo:AudioFile https://music.163.com/#/song?id=33715995&autoplay=true&market=baiduhd;
 	mm:duration "3:00";
 	extrainfo:year "2015";
 	extrainfo:company "沃石唱片";
@@ -2448,8 +2448,8 @@ song:meilizhongguozouqilai
 	extrainfo:lyricist "陈维东";
 	mo:composer composer:zhoupeng;
 	extrainfo:originalperformer originalperformer:zhoupeng;
-	mo: available_as "美丽中国走起来";
-	mo: AudioFile https://music.163.com/#/song?id=865040397&autoplay=true&market=baiduhd;
+	mo:available_as "美丽中国走起来";
+	mo:AudioFile https://music.163.com/#/song?id=865040397&autoplay=true&market=baiduhd;
 	mm:duration "3:52";
 	extrainfo:year "2015";
 	extrainfo:company "塑星文化";
@@ -2516,8 +2516,8 @@ song:zaiyicichufa
 	extrainfo:lyricist lyricist:quyuan;
 	mo:composer composer:wangbei;
 	extrainfo:originalperformer originalperformer:hanlei;
-	mo: available_as "2018年中央电视台春节联欢晚会";
-	mo: AudioFile http://bd.kuwo.cn/play_detail/40614274?from=baidu;
+	mo:available_as "2018年中央电视台春节联欢晚会";
+	mo:AudioFile http://bd.kuwo.cn/play_detail/40614274?from=baidu;
 	mm:duration "4:16";
 	extrainfo:year "2018";
 	mo:text """当年的海风掀开厚重的面纱
@@ -2558,8 +2558,8 @@ song:zhiyoushangejingqinren
 	extrainfo:lyricist lyricist:qiaoyu;
 	mo:composer composer:leizhenbang;
 	extrainfo:originalperformer originalperformer:fujinghua;
-	mo: available_as "记忆的符号-中国电影百年寻音集 CD4";
-	mo: AudioFile https://music.163.com/#/song?id=5263076&market=baiduqk;
+	mo:available_as "记忆的符号-中国电影百年寻音集 CD4";
+	mo:AudioFile https://music.163.com/#/song?id=5263076&market=baiduqk;
 	mm:duration "1:47";
 	extrainfo:year "2005";
 	extrainfo:company "中国唱片";
@@ -2577,8 +2577,8 @@ song:gongchandanglailekebiantian
 	mo:performer performer:caidanzhuoma;
 	mo:composer composer:yanke;
 	extrainfo:originalperformer originalperformer:caidanzhuoma;
-	mo: available_as "才旦卓玛名歌经典";
-	mo: AudioFile https://www.xiami.com/song/cbYk22de8;
+	mo:available_as "才旦卓玛名歌经典";
+	mo:AudioFile https://www.xiami.com/song/cbYk22de8;
 	mm:duration "2:57";
 	extrainfo:year "1999";
 	extrainfo:company "新时代影音";
@@ -2593,8 +2593,8 @@ song:haorizi
 	extrainfo:lyricist lyricist:chexing;
 	mo:composer composer:lixin;
 	extrainfo:originalperformer originalperformer:songzuying;
-	mo: available_as "宋祖英20年金曲";
-	mo: AudioFile https://music.163.com/#/song?id=288838&autoplay=true&market=baiduhd;
+	mo:available_as "宋祖英20年金曲";
+	mo:AudioFile https://music.163.com/#/song?id=288838&autoplay=true&market=baiduhd;
 	mm:duration "2:55";
 	extrainfo:year "2009";
 	extrainfo:company "中国音乐家音像出版社";
@@ -2631,8 +2631,8 @@ song:bayueguihuabiandikai
 	mo:performer performer:zhongguojiaoxiangyuetuanhechangtuan;
 	extrainfo:lyricist "霍希扬";
 	mo:composer composer:lihuanzhi;
-	mo: available_as "共和国的歌声";
-	mo: AudioFile https://music.163.com/#/song?id=5239744&market=baiduqk;
+	mo:available_as "共和国的歌声";
+	mo:AudioFile https://music.163.com/#/song?id=5239744&market=baiduqk;
 	mm:duration "1:40";
 	extrainfo:year "2010";
 	extrainfo:company "广州新时代影音";
@@ -2646,8 +2646,8 @@ song:bayueshiwuyueerming
 	extrainfo:lyricist lyricist:lvyuan;
 	mo:composer composer:lvyuan;
 	extrainfo:originalperformer originalperformer:guolanying;
-	mo: available_as "演唱全集⑤演唱精选集《我的祖国》";
-	mo: AudioFile https://music.163.com/#/song?id=236182&market=baiduqk;
+	mo:available_as "演唱全集⑤演唱精选集《我的祖国》";
+	mo:AudioFile https://music.163.com/#/song?id=236182&market=baiduqk;
 	mm:duration "7:07";
 	extrainfo:year "2003";
 	extrainfo:company "中国唱片";
@@ -2700,8 +2700,8 @@ song:nishizheyangderen
 	extrainfo:lyricist lyricist:songxiaoming;
 	mo:composer composer:sanbao;
 	extrainfo:originalperformer originalperformer:liuhuan;
-	mo: available_as "经典20年 珍藏锦集";
-	mo: AudioFile https://music.163.com/#/song?id=109202&market=baiduqk;
+	mo:available_as "经典20年 珍藏锦集";
+	mo:AudioFile https://music.163.com/#/song?id=109202&market=baiduqk;
 	mm:duration "3:35";
 	extrainfo:year "2004";
 	extrainfo:company "索尼音乐";
@@ -2736,8 +2736,8 @@ song:xuexileifenghaobangyang
 	mo:performer performer:zhanyouwengongtuan;
 	extrainfo:lyricist lyricist:hongyuan;
 	mo:composer composer:shengmao;
-	mo: available_as "中国歌典 1960's 激情燃烧的岁月";
-	mo: AudioFile https://music.163.com/#/song?id=5270796&market=baiduqk;
+	mo:available_as "中国歌典 1960's 激情燃烧的岁月";
+	mo:AudioFile https://music.163.com/#/song?id=5270796&market=baiduqk;
 	mm:duration "1:32";
 	extrainfo:year "2002";
 	extrainfo:company "中唱成都";
@@ -2772,8 +2772,8 @@ song:matougongrenge
 	mo:performer performer:liubinyi;
 	extrainfo:lyricist lyricist:tianhan;
 	mo:composer composer:nieer;
-	mo: available_as "20世纪中华歌坛名人百集珍藏版";
-	mo: AudioFile https://music.163.com/#/song?id=128985&market=baiduqk;
+	mo:available_as "20世纪中华歌坛名人百集珍藏版";
+	mo:AudioFile https://music.163.com/#/song?id=128985&market=baiduqk;
 	mm:duration "2:41";
 	extrainfo:year "1997";
 	extrainfo:company "中国唱片";
@@ -2811,8 +2811,8 @@ song:chunmiaochutuyingzhaoyang
 	extrainfo:lyricist "黄准";
 	mo:composer composer:xujingxin;
 	extrainfo:originalperformer originalperformer:luqingshuang;
-	mo: available_as "70年代红色电影金曲";
-	mo: AudioFile https://music.163.com/#/song?id=278904&market=baiduqk;
+	mo:available_as "70年代红色电影金曲";
+	mo:AudioFile https://music.163.com/#/song?id=278904&market=baiduqk;
 	mm:duration "2:27";
 	extrainfo:year "2006";
 	mo:text """翠竹青青哟披霞光，
@@ -2849,8 +2849,8 @@ song:dadaojinxingqu
 	mo:performer performer:huoyong;
 	extrainfo:lyricist lyricist:maixin;
 	mo:composer composer:maixin;
-	mo: available_as "生死不离";
-	mo: AudioFile https://y.qq.com/n/yqq/song/000fvykm2zVV7h.html?ADTAG=baiduald&play=1;
+	mo:available_as "生死不离";
+	mo:AudioFile https://y.qq.com/n/yqq/song/000fvykm2zVV7h.html?ADTAG=baiduald&play=1;
 	mm:duration "1:24";
 	extrainfo:year "2014";
 	extrainfo:company "明日明星";
@@ -2875,8 +2875,8 @@ song:kelamayizhige
 	extrainfo:lyricist lyricist:lvyuan;
 	mo:composer composer:lvyuan;
 	extrainfo:originalperformer originalperformer:lvwenke;
-	mo: available_as "中国歌典 1950's 艰苦奋斗的岁月";
-	mo: AudioFile https://music.163.com/#/song?id=5270747&market=baiduqk;
+	mo:available_as "中国歌典 1950's 艰苦奋斗的岁月";
+	mo:AudioFile https://music.163.com/#/song?id=5270747&market=baiduqk;
 	mm:duration "3:42";
 	extrainfo:year "2002";
 	extrainfo:company "中唱成都";
@@ -2904,8 +2904,8 @@ song:didaozhan
 	extrainfo:lyricist "任旭东";
 	mo:composer composer:fugenchen;
 	extrainfo:originalperformer originalperformer:lizengzheng;
-	mo: available_as "金瓶似的小山";
-	mo: AudioFile https://music.163.com/#/song?id=182754&market=baiduqk;
+	mo:available_as "金瓶似的小山";
+	mo:AudioFile https://music.163.com/#/song?id=182754&market=baiduqk;
 	mm:duration "2:08";
 	extrainfo:year "1993";
 	extrainfo:company "中唱广州";
@@ -2940,8 +2940,8 @@ song:dongfanghong
 	extrainfo:lyricist lyricist:liyouyuan;
 	extrainfo:lyricist lyricist:zhangsongru;
 	mo:composer composer:lihuanzhi;
-	mo: available_as "爱陕北";
-	mo: AudioFile https://y.qq.com/n/yqq/song/003ohRXc101ycG.html?ADTAG=baiduald&play=1;
+	mo:available_as "爱陕北";
+	mo:AudioFile https://y.qq.com/n/yqq/song/003ohRXc101ycG.html?ADTAG=baiduald&play=1;
 	mm:duration "3:43";
 	extrainfo:year "2010";
 	extrainfo:company "中国唱片";
@@ -2975,8 +2975,8 @@ song:gechangerlangshan
 	extrainfo:lyricist "祝一明";
 	mo:composer composer:shilemeng;
 	extrainfo:originalperformer originalperformer:sunjiaobai;
-	mo: available_as "百年经典3：我的祖国";
-	mo: AudioFile https://music.163.com/#/song?id=5266814;
+	mo:available_as "百年经典3：我的祖国";
+	mo:AudioFile https://music.163.com/#/song?id=5266814;
 	mm:duration "4:15";
 	extrainfo:year "2004";
 	extrainfo:company "中国唱片";
@@ -3015,8 +3015,8 @@ song:eryuelilai
 	extrainfo:lyricist lyricist:chenbinjun;
 	mo:composer composer:xianxinghai;
 	extrainfo:originalperformer originalperformer:liguangyi;
-	mo: available_as "秋水伊人";
-	mo: AudioFile https://music.163.com/#/album?id=25690;
+	mo:available_as "秋水伊人";
+	mo:AudioFile https://music.163.com/#/album?id=25690;
 	mm:duration "4:49";
 	extrainfo:year "1996";
 	extrainfo:company "百利唱片";
@@ -3044,8 +3044,8 @@ song:meiniangqu
 	mo:performer performer:yinxiumei;
 	extrainfo:lyricist lyricist:tianhan;
 	mo:composer composer:nieer;
-	mo: available_as "20世纪中华歌坛名人百集珍藏版";
-	mo: AudioFile https://music.163.com/#/song?id=323790&market=baiduqk;
+	mo:available_as "20世纪中华歌坛名人百集珍藏版";
+	mo:AudioFile https://music.163.com/#/song?id=323790&market=baiduqk;
 	mm:duration "2:54";
 	extrainfo:year "1997";
 	extrainfo:company "中国唱片";
@@ -3082,8 +3082,8 @@ song:gemingrenyongyuannianqing
 	mo:composer composer:lijiefu;
 	extrainfo:originalperformer originalperformer:liuguiren;
 	extrainfo:originalperformer originalperformer:zhangluo;
-	mo: available_as "百年经典3: 我的祖国";
-	mo: AudioFile https://www.xiami.com/song/dCugR2b41b;
+	mo:available_as "百年经典3: 我的祖国";
+	mo:AudioFile https://www.xiami.com/song/dCugR2b41b;
 	mm:duration "2:43";
 	extrainfo:year "2004";
 	extrainfo:company "中国唱片";
@@ -3111,8 +3111,8 @@ song:sheyuandoushixiangyanghua
 	extrainfo:lyricist lyricist:zhangshixie;
 	mo:composer "王玉西";
 	extrainfo:originalperformer originalperformer:wangkun;
-	mo: available_as "中国歌典 1960's 激情燃烧的岁月";
-	mo: AudioFile https://www.kugou.com/song/53ccde.html?frombaidu#hash=7930A6B1536134A915D3FD81D8F84AB5&album_id=0;
+	mo:available_as "中国歌典 1960's 激情燃烧的岁月";
+	mo:AudioFile https://www.kugou.com/song/53ccde.html?frombaidu#hash=7930A6B1536134A915D3FD81D8F84AB5&album_id=0;
 	mm:duration "2:34";
 	extrainfo:year "2002";
 	extrainfo:company "中唱成都";
@@ -3144,8 +3144,8 @@ song:zaitaihangshanshang
 	mo:performer performer:zhongguoguojiajiaoxiangyuetuan;
 	extrainfo:lyricist lyricist:dutaoshen;
 	mo:composer composer:xianxinghai;
-	mo: available_as "经典男女声合唱-辉煌中央乐团(金曲篇)";
-	mo: AudioFile https://music.163.com/#/song?id=397678&market=baiduqk;
+	mo:available_as "经典男女声合唱-辉煌中央乐团(金曲篇)";
+	mo:AudioFile https://music.163.com/#/song?id=397678&market=baiduqk;
 	mm:duration "2:14";
 	extrainfo:year "2005";
 	extrainfo:company "杰盛唱片";
@@ -3160,8 +3160,8 @@ song:nanniwan
 	extrainfo:lyricist lyricist:hejingzhi;
 	mo:composer composer:make;
 	extrainfo:originalperformer originalperformer:guolanying;
-	mo: available_as "我的祖国.南泥湾";
-	mo: AudioFile https://music.163.com/#/song?id=236396&market=baiduqk;
+	mo:available_as "我的祖国.南泥湾";
+	mo:AudioFile https://music.163.com/#/song?id=236396&market=baiduqk;
 	mm:duration "2:15";
 	extrainfo:year "1992";
 	extrainfo:company "百利唱片";
@@ -3176,8 +3176,8 @@ song:xibufangge
 	extrainfo:lyricist lyricist:quyuan;
 	mo:composer composer:yinqing;
 	extrainfo:originalperformer originalperformer:wanghongwei;
-	mo: available_as "黑眼睛";
-	mo: AudioFile https://www.xiami.com/song/mQ508T70cab;
+	mo:available_as "黑眼睛";
+	mo:AudioFile https://www.xiami.com/song/mQ508T70cab;
 	mm:duration "3:41";
 	extrainfo:year "2006";
 	extrainfo:company "天凡之音";
@@ -3212,8 +3212,8 @@ song:danghongjundegegehuilaile
 	dc:title "当红军的哥哥回来了";
 	mo:performer performer:wangerni;
 	extrainfo:originalperformer originalperformer:fengjianxue;
-	mo: available_as "陕北民歌";
-	mo: AudioFile https://music.163.com/#/song?id=304834&market=baiduqk;
+	mo:available_as "陕北民歌";
+	mo:AudioFile https://music.163.com/#/song?id=304834&market=baiduqk;
 	mm:duration "3:33";
 	extrainfo:year "2010";
 	extrainfo:company " 枫华润诚文化";
@@ -3255,8 +3255,8 @@ song:maibaoge
 	mo:performer "小蓓蕾组合";
 	extrainfo:lyricist lyricist:ane;
 	mo:composer composer:nieer;
-	mo: available_as "童歌经典 4";
-	mo: AudioFile https://music.163.com/#/song?id=1297747674&market=baiduqk;
+	mo:available_as "童歌经典 4";
+	mo:AudioFile https://music.163.com/#/song?id=1297747674&market=baiduqk;
 	mm:duration "2:14";
 	extrainfo:year "2008";
 	extrainfo:company "龙天世纪";
@@ -3271,8 +3271,8 @@ song:gongpuzan
 	extrainfo:lyricist "高赞祥";
 	mo:composer composer:guanxia;
 	extrainfo:originalperformer originalperformer:wanshanghong;
-	mo: available_as "放歌中国 第十三期";
-	mo: AudioFile http://bd.kuwo.cn/play_detail/29888949?from=baidu;
+	mo:available_as "放歌中国 第十三期";
+	mo:AudioFile http://bd.kuwo.cn/play_detail/29888949?from=baidu;
 	mm:duration "4:54";
 	extrainfo:year "2017";
 	mo:text """老百姓在传颂你啊孔繁森，你有一颗善良的爱民心
@@ -3294,8 +3294,8 @@ song:nongyouge
 	extrainfo:lyricist lyricist:zhangshixie;
 	mo:composer "王嘉祥";
 	extrainfo:originalperformer originalperformer:wangkun;
-	mo: available_as "三十里铺";
-	mo: AudioFile https://www.xiami.com/song/xL2dbJaf437;
+	mo:available_as "三十里铺";
+	mo:AudioFile https://www.xiami.com/song/xL2dbJaf437;
 	mm:duration "2:09";
 	extrainfo:year "1998";
 	extrainfo:company "上海声像";
@@ -3310,8 +3310,8 @@ song:liuyanghe
 	extrainfo:lyricist "徐叔华";
 	mo:composer "朱立奇";
 	mo:composer composer:tangbiguang;
-	mo: available_as "李谷一经典";
-	mo: AudioFile https://music.163.com/#/song?id=1392932038&market=baiduqk;
+	mo:available_as "李谷一经典";
+	mo:AudioFile https://music.163.com/#/song?id=1392932038&market=baiduqk;
 	mm:duration "2:13";
 	extrainfo:year "2019";
 	extrainfo:company "Live Music";
@@ -3362,8 +3362,8 @@ song:maozhuxilaidaozannongzhuang
 	extrainfo:lyricist lyricist:zhangshixie;
 	mo:composer composer:jinsha;
 	extrainfo:originalperformer originalperformer:zhanghuamin;
-	mo: available_as "世纪歌典5";
-	mo: AudioFile https://music.163.com/#/song?id=5272774&market=baiduqk;
+	mo:available_as "世纪歌典5";
+	mo:AudioFile https://music.163.com/#/song?id=5272774&market=baiduqk;
 	mm:duration "4:58";
 	extrainfo:year "2000";
 	extrainfo:company "中唱上海";
@@ -3396,8 +3396,8 @@ song:maozhuxidezhanshizuitingdangdehua
 	extrainfo:lyricist "李之金";
 	mo:composer "李之金";
 	extrainfo:originalperformer originalperformer:lizhijin;
-	mo: available_as "红";
-	mo: AudioFile https://music.163.com/#/song?id=222813&market=baiduqk;
+	mo:available_as "红";
+	mo:AudioFile https://music.163.com/#/song?id=222813&market=baiduqk;
 	mm:duration "2:50";
 	extrainfo:year "2011";
 	extrainfo:company "星文文化";
@@ -3433,8 +3433,8 @@ song:meimeizhaogeleihualiu
 	extrainfo:lyricist lyricist:wangkaichuan;
 	mo:composer composer:wangming;
 	extrainfo:originalperformer originalperformer:liguyi;
-	mo: available_as "秋水伊人";
-	mo: AudioFile https://music.163.com/#/song?id=257651&market=baiduqk;
+	mo:available_as "秋水伊人";
+	mo:AudioFile https://music.163.com/#/song?id=257651&market=baiduqk;
 	mm:duration "3:57";
 	extrainfo:year "1996";
 	extrainfo:company "百利唱片";
@@ -3467,8 +3467,8 @@ song:xiongmeikaihuang
 	extrainfo:lyricist lyricist:wangdahua;
 	mo:composer composer:wangdahua;
 	extrainfo:originalperformer originalperformer:wangkun;
-	mo: available_as "三十里铺";
-	mo: AudioFile https://music.163.com/#/song?id=34828183&market=baiduqk;
+	mo:available_as "三十里铺";
+	mo:AudioFile https://music.163.com/#/song?id=34828183&market=baiduqk;
 	mm:duration "3:37";
 	extrainfo:year "1998";
 	extrainfo:company "上海声像";
@@ -3494,8 +3494,8 @@ song:gechangerxiaofangniulang
 	extrainfo:lyricist lyricist:fangbing;
 	mo:composer composer:lijiefu;
 	extrainfo:originalperformer originalperformer:zhaotiange;
-	mo: available_as "20世纪中华歌坛名人百集珍藏版";
-	mo: AudioFile https://www.xiami.com/song/bifza8106;
+	mo:available_as "20世纪中华歌坛名人百集珍藏版";
+	mo:AudioFile https://www.xiami.com/song/bifza8106;
 	mm:duration "4:49";
 	extrainfo:year "1997";
 	extrainfo:company "中国唱片";
@@ -3535,8 +3535,8 @@ song:jiuguojunge
 	mo:performer performer:zhongguojiaoxiangyuetuanhechangtuan;
 	extrainfo:lyricist lyricist:chenbinjun;
 	mo:composer composer:xianxinghai;
-	mo: available_as "正义之声-100首优秀抗战歌曲";
-	mo: AudioFile https://www.kugou.com/song/9qru97c.html?frombaidu#hash=8A7BD8180A22DE5A0D01183ABB76841F&album_id=0;
+	mo:available_as "正义之声-100首优秀抗战歌曲";
+	mo:AudioFile https://www.kugou.com/song/9qru97c.html?frombaidu#hash=8A7BD8180A22DE5A0D01183ABB76841F&album_id=0;
 	mm:duration "1:21";
 	extrainfo:year "2015";
 	mo:text """枪口对外，
@@ -3571,8 +3571,8 @@ song:shuangjiaotashangxingfulu
 	extrainfo:lyricist "刘昌庆";
 	mo:composer "肃珩";
 	extrainfo:originalperformer originalperformer:lishuangjiang;
-	mo: available_as "记忆的符号-中国电影百年寻音集 CD18";
-	mo: AudioFile https://www.xiami.com/song/mQ4bNm67955;
+	mo:available_as "记忆的符号-中国电影百年寻音集 CD18";
+	mo:AudioFile https://www.xiami.com/song/mQ4bNm67955;
 	mm:duration "2:11";
 	extrainfo:year "2005";
 	extrainfo:company "中国唱片";
@@ -3598,8 +3598,8 @@ song:zaijianledabieshan
 	extrainfo:lyricist "王和泉";
 	mo:composer composer:leiyuansheng;
 	extrainfo:originalperformer originalperformer:wuyanze;
-	mo: available_as "此时此刻";
-	mo: AudioFile https://www.xiami.com/song/xL5cKi99bd1;
+	mo:available_as "此时此刻";
+	mo:AudioFile https://www.xiami.com/song/xL5cKi99bd1;
 	mm:duration "4:18";
 	extrainfo:year "2014";
 	extrainfo:company "龙乐唱片";
@@ -3647,8 +3647,8 @@ song:qinglinlindeshuilanyingyingdetian
 	extrainfo:lyricist "田川、胡沙";
 	mo:composer composer:make;
 	extrainfo:originalperformer originalperformer:guolanying;
-	mo: available_as "蓝花花";
-	mo: AudioFile https://www.xiami.com/song/mQH73O67824;
+	mo:available_as "蓝花花";
+	mo:AudioFile https://www.xiami.com/song/mQH73O67824;
 	mm:duration "5:54";
 	extrainfo:year "1999";
 	extrainfo:company "上海声像";
@@ -3685,8 +3685,8 @@ song:ganxuguilaialili
 	extrainfo:lyricist lyricist:shixuegui;
 	mo:composer composer:huangyouyi;
 	extrainfo:originalperformer originalperformer:tangpeizhu;
-	mo: available_as "人间天堂";
-	mo: AudioFile https://music.163.com/#/song?id=284677&market=baiduqk;
+	mo:available_as "人间天堂";
+	mo:AudioFile https://music.163.com/#/song?id=284677&market=baiduqk;
 	mm:duration "3:24";
 	extrainfo:year "2004";
 	extrainfo:company "京文唱片";
@@ -3716,8 +3716,8 @@ song:ronghua
 	extrainfo:lyricist "刘国富、田农";
 	mo:composer composer:wangming;
 	extrainfo:originalperformer originalperformer:liguyi;
-	mo: available_as "中国电影百年歌曲精萃6";
-	mo: AudioFile https://music.163.com/#/song?id=5264018&market=baiduqk;
+	mo:available_as "中国电影百年歌曲精萃6";
+	mo:AudioFile https://music.163.com/#/song?id=5264018&market=baiduqk;
 	mm:duration "3:50";
 	extrainfo:year "2005";
 	extrainfo:company "中唱上海";
@@ -3733,8 +3733,8 @@ song:feiyuedaduhe
 	mo:composer composer:yuqiu;
 	mo:composer composer:tanghe;
 	mo:composer composer:shengmao;
-	mo: available_as "辉煌中央乐团革命红色经典（铁流二万里）";
-	mo: AudioFile https://music.163.com/#/song?id=1304301129&market=baiduqk;
+	mo:available_as "辉煌中央乐团革命红色经典（铁流二万里）";
+	mo:AudioFile https://music.163.com/#/song?id=1304301129&market=baiduqk;
 	mm:duration "3:10";
 	extrainfo:year "2005";
 	extrainfo:company "恒大音乐";
@@ -3774,8 +3774,8 @@ song:fanshennongnubagechang
 	extrainfo:lyricist "李堃";
 	mo:composer "闫飞";
 	extrainfo:originalperformer originalperformer:caidanzhuoma;
-	mo: available_as "才旦卓玛名歌经典";
-	mo: AudioFile https://music.163.com/#/song?id=217720&market=baiduqk;
+	mo:available_as "才旦卓玛名歌经典";
+	mo:AudioFile https://music.163.com/#/song?id=217720&market=baiduqk;
 	mm:duration "2:36";
 	extrainfo:year "1999";
 	extrainfo:company "新时代";
@@ -3791,8 +3791,8 @@ song:taiyangzuihongmaozhuxizuiqin
 	extrainfo:lyricist lyricist:fulin;
 	mo:composer composer:wangxiren;
 	extrainfo:originalperformer originalperformer:bianxiaozhen;
-	mo: available_as "中国歌典 -1970's 风云变幻的岁月";
-	mo: AudioFile https://music.163.com/#/song?id=5270808&market=baiduqk;
+	mo:available_as "中国歌典 -1970's 风云变幻的岁月";
+	mo:AudioFile https://music.163.com/#/song?id=5270808&market=baiduqk;
 	mm:duration "4:44";
 	extrainfo:year "2002";
 	extrainfo:company "中唱成都";
@@ -3821,8 +3821,8 @@ song:sanshilipu
 	mo:performer performer:pengliyuan;
 	extrainfo:lyricist "常永昌";
 	mo:composer "常永昌";
-	mo: available_as "中国名歌";
-	mo: AudioFile https://music.163.com/#/song?id=282779&market=baiduqk;
+	mo:available_as "中国名歌";
+	mo:AudioFile https://music.163.com/#/song?id=282779&market=baiduqk;
 	mm:duration "3:29";
 	extrainfo:year "1991";
 	extrainfo:company "中国唱片";
@@ -3859,8 +3859,8 @@ song:gadameilin
 	mo:performer performer:tenggeer;
 	mo:composer composer:sanbao;
 	extrainfo:originalperformer originalperformer:tenggeer;
-	mo: available_as "蓝天";
-	mo: AudioFile https://music.163.com/#/song?id=151264&market=baiduqk;
+	mo:available_as "蓝天";
+	mo:AudioFile https://music.163.com/#/song?id=151264&market=baiduqk;
 	mm:duration "4:06";
 	extrainfo:year "2002";
 	extrainfo:company "风潮音乐";
@@ -3881,8 +3881,8 @@ song:changchengyao
 	extrainfo:lyricist "潘孑农";
 	mo:composer composer:liuxuean;
 	extrainfo:originalperformer originalperformer:zhouxiaoyan;
-	mo: available_as "上海老歌 1931-1949";
-	mo: AudioFile https://music.163.com/#/song?id=5253227&market=baiduqk;
+	mo:available_as "上海老歌 1931-1949";
+	mo:AudioFile https://music.163.com/#/song?id=5253227&market=baiduqk;
 	mm:duration "2:55";
 	extrainfo:year "2008";
 	extrainfo:company "中唱上海";
@@ -3896,8 +3896,8 @@ song:songhuajiangshan
 	extrainfo:lyricist lyricist:zhanghanhui;
 	mo:composer composer:zhanghaihui;
 	extrainfo:originalperformer originalperformer:yinxiumei;
-	mo: available_as "名歌经典";
-	mo: AudioFile https://music.163.com/#/song?id=323754&market=baiduqk;
+	mo:available_as "名歌经典";
+	mo:AudioFile https://music.163.com/#/song?id=323754&market=baiduqk;
 	mm:duration "3:24";
 	extrainfo:year "1999";
 	extrainfo:company "新时代";
@@ -3910,8 +3910,8 @@ song:youjiduige
 	mo:performer performer:zhongguorenminjiefangjunhechangtuan;
 	extrainfo:lyricist lyricist:heluting;
 	mo:composer composer:heluting;
-	mo: available_as "纪念中国人民抗日战争暨世界反法西斯战争胜利70周年阅兵式合唱";
-	mo: AudioFile https://music.163.com/#/song?id=34516731;
+	mo:available_as "纪念中国人民抗日战争暨世界反法西斯战争胜利70周年阅兵式合唱";
+	mo:AudioFile https://music.163.com/#/song?id=34516731;
 	mm:duration "1:58";
 	extrainfo:year "2015";
 	extrainfo:company "中国中央电视台";
@@ -3924,8 +3924,8 @@ song:dielianhuadalishuyi
 	mo:performer performer:yuhongxian;
 	extrainfo:lyricist lyricist:maozedong;
 	mo:composer composer:zhaokaisheng;
-	mo: available_as "记忆的符号-中国电影百年寻音集 CD21";
-	mo: AudioFile http://bd.kuwo.cn/play_detail/6299278?from=baidu;
+	mo:available_as "记忆的符号-中国电影百年寻音集 CD21";
+	mo:AudioFile http://bd.kuwo.cn/play_detail/6299278?from=baidu;
 	mm:duration "3:47";
 	extrainfo:year "2005";
 	mo:text "我失骄杨君失柳，杨柳轻飏直上重霄九。问讯吴刚何所有，吴刚捧出桂花酒。寂寞嫦娥舒广袖，万里长空且为忠魂舞。忽报人间曾伏虎，泪飞顿作倾盆雨。";
@@ -3943,8 +3943,8 @@ song:longdechuanren
 	extrainfo:lyricist lyricist:houdejian;
 	mo:composer composer:houdejian;
 	extrainfo:originalperformer originalperformer:lijianfu;
-	mo: available_as "龙的传人";
-	mo: AudioFile https://music.163.com/#/song?id=116272&market=baiduqk;
+	mo:available_as "龙的传人";
+	mo:AudioFile https://music.163.com/#/song?id=116272&market=baiduqk;
 	mm:duration "3:30";
 	extrainfo:year "1980";
 	extrainfo:company "新格唱片";
@@ -3982,8 +3982,8 @@ song:xiaobaiyang
 	extrainfo:lyricist lyricist:liangshangquan;
 	mo:composer composer:shixin;
 	extrainfo:originalperformer originalperformer:yujunjian;
-	mo: available_as "小白杨";
-	mo: AudioFile https://music.163.com/#/song?id=177414&market=baiduqk;
+	mo:available_as "小白杨";
+	mo:AudioFile https://music.163.com/#/song?id=177414&market=baiduqk;
 	mm:duration "2:51";
 	extrainfo:year "2007";
 	extrainfo:company "中国长城艺术文化中心";
@@ -4018,8 +4018,8 @@ song:sheibushuojiaxianghao
 	extrainfo:lyricist lyricist:xiaoheng;
 	mo:composer composer:lvqiming;
 	extrainfo:originalperformer originalperformer:renguizhen;
-	mo: available_as "20世纪中华歌坛名人百集珍藏版";
-	mo: AudioFile https://music.163.com/#/song?id=286325&market=baiduqk;
+	mo:available_as "20世纪中华歌坛名人百集珍藏版";
+	mo:AudioFile https://music.163.com/#/song?id=286325&market=baiduqk;
 	mm:duration "3:34";
 	extrainfo:year "1997";
 	extrainfo:company "中国唱片";
@@ -4034,8 +4034,8 @@ song:zainataohuashengkaidedifang
 	extrainfo:lyricist lyricist:weibaogui;
 	mo:composer composer:shitieyuan;
 	extrainfo:originalperformer originalperformer:dongzhenhou;
-	mo: available_as "在那桃花盛开的地方";
-	mo: AudioFile https://www.xiami.com/song/mQBFt981991;
+	mo:available_as "在那桃花盛开的地方";
+	mo:AudioFile https://www.xiami.com/song/mQBFt981991;
 	mm:duration "3:22";
 	extrainfo:year "2003";
 	extrainfo:company "新世纪";
@@ -4063,8 +4063,8 @@ song:yongjunhuagu
 	dc:title "拥军花鼓";
 	mo:performer "小蓓蕾组合";
 	extrainfo:lyricist lyricist:anbo;
-	mo: available_as "娃娃唱红歌";
-	mo: AudioFile https://www.xiami.com/song/xN2qHFd8154;
+	mo:available_as "娃娃唱红歌";
+	mo:AudioFile https://www.xiami.com/song/xN2qHFd8154;
 	mm:duration "1:55";
 	extrainfo:year "2018";
 	extrainfo:company "南山天音";
@@ -4104,8 +4104,8 @@ song:zunyihuiyifangguangmang
 	mo:composer composer:yuqiu;
 	mo:composer composer:shengmao;
 	mo:composer composer:tanghe;
-	mo: available_as "铁流二万里";
-	mo: AudioFile https://music.163.com/#/album?id=34751220;
+	mo:available_as "铁流二万里";
+	mo:AudioFile https://music.163.com/#/album?id=34751220;
 	mm:duration "4:13";
 	extrainfo:year "2005";
 	extrainfo:company "杰盛唱片";
@@ -4117,8 +4117,8 @@ song:riyuetongguang
 	dc:title "日月同光";
 	extrainfo:lyricist lyricist:liuyiran;
 	mo:composer composer:liuweiguang;
-	mo: available_as "毛岸英 影视原声带";
-	mo: AudioFile https://www.kugou.com/song/1wa87a7.html?frombaidu#hash=B8282469058F92A4DE36245038F779B8&album_id=0;
+	mo:available_as "毛岸英 影视原声带";
+	mo:AudioFile https://www.kugou.com/song/1wa87a7.html?frombaidu#hash=B8282469058F92A4DE36245038F779B8&album_id=0;
 	mm:duration "2:21";
 	extrainfo:year "2010";
 	mo:text """女：
@@ -4156,8 +4156,8 @@ song:zhizaibaodaochuangxinye
 	extrainfo:lyricist "张荣仁";
 	mo:composer "邝青";
 	extrainfo:originalperformer originalperformer:kuangqing;
-	mo: available_as "歌声飘扬60年——向新中国成立六十周年献礼";
-	mo: AudioFile https://www.kugou.com/song/l6btc17.html?frombaidu#hash=CF84F1A060712F072EC0E7D2956025DD&album_id=0;
+	mo:available_as "歌声飘扬60年——向新中国成立六十周年献礼";
+	mo:AudioFile https://www.kugou.com/song/l6btc17.html?frombaidu#hash=CF84F1A060712F072EC0E7D2956025DD&album_id=0;
 	mm:duration "4:31";
 	extrainfo:year "2000";
 	mo:text """南渡江，水流长。海南一派好风光。红旗漫山献宝岛，喜看荒山变粮仓。
@@ -4177,8 +4177,8 @@ song:busuanziyongmei
 	mo:performer performer:yushuzhen;
 	extrainfo:lyricist lyricist:maozedong;
 	mo:composer "郝全钢";
-	mo: available_as "于淑珍歌唱艺术集";
-	mo: AudioFile https://www.xiami.com/song/8GuT4je905b;
+	mo:available_as "于淑珍歌唱艺术集";
+	mo:AudioFile https://www.xiami.com/song/8GuT4je905b;
 	mm:duration "3:20";
 	extrainfo:year "2005";
 	extrainfo:company "中国唱片";
@@ -4201,8 +4201,8 @@ song:zhenshilesiren
 	extrainfo:lyricist "林中";
 	mo:composer composer:loushengmao;
 	extrainfo:originalperformer originalperformer:maguoguang;
-	mo: available_as "百年经典3：我的祖国";
-	mo: AudioFile https://music.163.com/#/song?id=5266819&market=baiduqk;
+	mo:available_as "百年经典3：我的祖国";
+	mo:AudioFile https://music.163.com/#/song?id=5266819&market=baiduqk;
 	mm:duration "1:56";
 	extrainfo:year "2004";
 	extrainfo:company "中国唱片";
@@ -4257,8 +4257,8 @@ song:zhenshilesiren
 song:beifangchuilaishiyuedefeng
 	dc:title "北方吹来十月的风";
 	mo:composer composer:lihuanzhi;
-	mo: available_as "音乐舞蹈史诗 东方红";
-	mo: AudioFile https://www.xiami.com/song/xLv4kxb2a27;
+	mo:available_as "音乐舞蹈史诗 东方红";
+	mo:AudioFile https://www.xiami.com/song/xLv4kxb2a27;
 	mm:duration "1:29";
 	extrainfo:year "1994";
 	extrainfo:company "百利唱片";
@@ -4281,8 +4281,8 @@ song:hongshajing
 	extrainfo:lyricist lyricist:liuxing;
 	mo:composer "杨帆";
 	extrainfo:originalperformer originalperformer:yuyueyue;
-	mo: available_as "红纱巾";
-	mo: AudioFile https://music.163.com/#/song?id=34532210&market=baiduqk;
+	mo:available_as "红纱巾";
+	mo:AudioFile https://music.163.com/#/song?id=34532210&market=baiduqk;
 	mm:duration "4:32";
 	extrainfo:year "2015";
 	extrainfo:company "第一唱片";
@@ -4335,8 +4335,8 @@ song:shisonghongjun
 	mo:performer performer:songzuying;
 	extrainfo:lyricist lyricist:zhangshixie;
 	mo:composer composer:zhuzhengben;
-	mo: available_as "十送红军";
-	mo: AudioFile https://music.163.com/#/song?id=289056&market=baiduqk;
+	mo:available_as "十送红军";
+	mo:AudioFile https://music.163.com/#/song?id=289056&market=baiduqk;
 	mm:duration "4:18";
 	extrainfo:year "2003";
 	extrainfo:company "广西民族音像";
@@ -4372,8 +4372,8 @@ song:shisonghongjun
 	mo:performer performer:yanweiwen;
 	extrainfo:lyricist lyricist:wangxiaoling;
 	mo:composer composer:yinqing;
-	mo: available_as "阎维文作品集";
-	mo: AudioFile https://music.163.com/#/song?id=29023562&autoplay=true&market=baiduhd;
+	mo:available_as "阎维文作品集";
+	mo:AudioFile https://music.163.com/#/song?id=29023562&autoplay=true&market=baiduhd;
 	mm:duration "1:54";
 	extrainfo:year "2014";
 	extrainfo:company "龙乐世纪";
@@ -4404,8 +4404,8 @@ song:tianyaozhonghua
 	mo:performer performer:xuqianya;
 	extrainfo:lyricist lyricist:hemuyang;
 	mo:composer composer:hemuyang;
-	mo: available_as "天耀中华";
-	mo: AudioFile https://www.xiami.com/song/8GsOVff9c7f;
+	mo:available_as "天耀中华";
+	mo:AudioFile https://www.xiami.com/song/8GsOVff9c7f;
 	mm:duration "4:34";
 	extrainfo:year "2014";
 	extrainfo:company "百人文化";
