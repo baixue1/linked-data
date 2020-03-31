@@ -8,7 +8,7 @@
 @prefix mm:<http://musicbrainz.org/mm/mm-2.0#>.
 @prefix mem:<http://musicbrainz.org/mm/mem-1.0#>.
 @prefix cd:<http://www.recshop.fake/cd#>.
-@prefix originalperformer:<http://www.baixue.com/originalperformer/>.
+@prefix originalperformer:<http://47.97.223.173/originalperformer/>.
 
 originalperformer:chenjingxi
 	foaf:name "陈景熹";
