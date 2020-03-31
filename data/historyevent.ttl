@@ -79,7 +79,7 @@ historyevent:disanciguoneizhanzheng
 	];
 	event:sub_event historyevent:huaihaizhanyi;
 	event:sub_event historyevent:liaoshenzhanyi;
-	event:sub_event historyevent:pingjingzhanyi;
+	event:sub_event historyevent:pingjinzhanyi;
 	dc:description """解放战争，亦称“第三次国内革命战争”，国民党方面称为“动员戡乱”，是1946年6月至1949年9月中国人民解放军在中国共产党的领导下，为推翻国民党统治、解放全中国而进行的战争。是一场事关中国前途命运的决战。
 1947年7月，解放军由战略防御转入战略进攻，接着连续进行了辽沈、淮海、平津三大战役，基本上消灭了国民党军主力。1949年4月，解放军横渡长江，解放南京，基本宣告了国民党统治的覆灭。1949年10月1日，在解放军向全国进军途中，中华人民共和国在北京宣告成立。到1950年6月，残存在东北、华东、中南、西南、西北战场上的国民党军被全部歼灭，仅有少量逃往台湾。1951年西藏和平解放。至此，解放军完成了解放全国大陆和近海岛屿的任务，中国人民解放军取得第二次国共内战胜利，统一了中国大陆。""";
 	event:product """解放战争，在中国共产党领导下的中国人民解放军彻底摧毁了国民党的反动政权，基本上完成中国民主革命反帝反封建最主要的历史任务。中国共产党领导的人民解放战争，是中国战争史和世界战争史上少有的威武雄壮的话剧。
@@ -866,7 +866,7 @@ historyevent:huaihaizhanyi
 	event:product "淮海战役的意义就如毛泽东在战役结束后的第四天，即1949年1月14日发表的关于时局的声明中所说：“现在，人民解放军无论在数量上士气上和装备上均优于国民党反动派政府的残余军事力量。至此，中国人民才开始吐了一口气。现在情况很明显，只要解放军向残余的国民党军再作若干次重大攻击，国民党统治即将土崩瓦解，归于消亡”。淮海战役的胜利，使长江中下游以北的广大地区获得解放，为解放军渡江作战奠定了基础。";
 	dc:source "https://baike.baidu.com/item/%E6%B7%AE%E6%B5%B7%E6%88%98%E5%BD%B9/287777#6".
 
-historyevent:pingjingzhanyi
+historyevent:pingjinzhanyi
 	dc:title "平津战役";
 	event:time "1948/11/29-1949/1/31";
 	event:place "平津一线地区";
