@@ -3792,7 +3792,7 @@ song:taiyangzuihongmaozhuxizuiqin
 	mo:composer composer:wangxiren;
 	extrainfo:originalperformer originalperformer:bianxiaozhen;
 	mo:available_as "中国歌典 -1970's 风云变幻的岁月";
-	mo:AudioFile https://music.163.com/#/song?id=5270808&market=baiduqk;
+	mo:AudioFile <https://music.163.com/#/song?id=5270808&market=baiduqk>;
 	mm:duration "4:44";
 	extrainfo:year "2002";
 	extrainfo:company "中唱成都";
