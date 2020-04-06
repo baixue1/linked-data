@@ -9,11 +9,13 @@
 
 figure:jiangzhuyun neo4voc:name "江竹筠" ;
          bio:biography "烈士" ;
-         neo4voc:runsOn neo4ind:neo4j355 .
+         a neo4voc:Neo4jPlugin ;
+         neo4voc:runsOn song:hongmeizan .
 
 composer:yansu neo4voc:name "闫肃" ;
          dc:description "作词家";
-         neo4voc:runsOn neo4ind:neo4j355 .
+         a neo4voc:Neo4jPlugin ;
+         neo4voc:runsOn song:hongmeizan .
 
 song:hongmeizan neo4voc:name "红梅赞" ;
          mo:text "红莓花儿开，朵朵放光彩";
