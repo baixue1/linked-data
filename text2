@@ -1,0 +1,20 @@
+@prefix neo4voc: <http://neo4j.org/vocab/sw#> .
+@prefix neo4ind: <http://neo4j.org/ind#> .
+@prefix bio:<http://purl.org/vocab/bio/0.1/>.
+@prefix mo:<http://purl.org/ontology/mo/>.
+@prefix dc:<http://purl.org/dc/elements/1.1/>.
+@prefix song:<http://47.97.223.173/song/>.
+@prefix figure:<http://47.97.223.173/figure/>.
+@prefix composer:<http://47.97.223.173/composer/>.
+
+figure:jiangzhuyun neo4voc:name "江竹筠" ;
+         bio:biography "烈士" ;
+         neo4voc:runsOn neo4ind:neo4j355 .
+
+composer:yansu neo4voc:name "闫肃" ;
+         dc:description "作词家";
+         neo4voc:runsOn neo4ind:neo4j355 .
+
+song:hongmeizan neo4voc:name "红梅赞" ;
+         mo:text "红莓花儿开，朵朵放光彩";
+         a neo4voc:GraphPlatform .
