@@ -3,20 +3,33 @@
 @prefix bio:<http://purl.org/vocab/bio/0.1/>.
 @prefix mo:<http://purl.org/ontology/mo/>.
 @prefix dc:<http://purl.org/dc/elements/1.1/>.
+@prefix rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix event:<http://purl.org/NET/c4dm/event.owl#>.
 @prefix song:<http://47.97.223.173/song/>.
 @prefix figure:<http://47.97.223.173/figure/>.
 @prefix composer:<http://47.97.223.173/composer/>.
 
 figure:jiangzhuyun neo4voc:name "江竹筠" ;
          bio:biography "烈士" ;
+         event:agent [
+	a rdf:Bag ;
+	rdf:_1 "蒋介石";
+	rdf:_2 "李宗仁";
+	rdf:_3 "毛泽东";
+	rdf:_4 "朱德";
+	rdf:_5 "裕仁";
+	rdf:_6 "东条英机";
+	rdf:_7 "冈村宁次";
+	];
          a neo4voc:Neo4jPlugin ;
          neo4voc:runsOn song:hongmeizan .
 
 composer:yansu neo4voc:name "闫肃" ;
          dc:description "作词家";
+         dc:description "一级";
          a neo4voc:Neo4jPlugin ;
          neo4voc:runsOn song:hongmeizan .
 
 song:hongmeizan neo4voc:name "红梅赞" ;
          mo:text "红莓花儿开，朵朵放光彩";
-         a neo4voc:GraphPlatform .
+         a neo4voc:GraphPlatform.
