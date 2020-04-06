@@ -21,15 +21,15 @@ figure:jiangzhuyun neo4voc:name "江竹筠" ;
 	rdf:_6 "东条英机";
 	rdf:_7 "冈村宁次";
 	];
-         a neo4voc:Neo4jPlugin ;
-         neo4voc:runsOn song:hongmeizan .
+         a neo4voc:Neo4jPlugin  .
 
 composer:yansu neo4voc:name "闫肃" ;
          dc:description "作词家";
          dc:description "一级";
-         a neo4voc:Neo4jPlugin ;
-         neo4voc:runsOn song:hongmeizan .
+         a neo4voc:Neo4jPlugin .
 
 song:hongmeizan neo4voc:name "红梅赞" ;
          mo:text "红莓花儿开，朵朵放光彩";
+         dc:subject figure:jiangzhuyun;
+         mo:composer composer:yansu;
          a neo4voc:GraphPlatform.
