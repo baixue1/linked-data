@@ -5,15 +5,13 @@
 @prefix dc:<http://purl.org/dc/elements/1.1/>.
 
 neo4ind:apoc3502 neo4voc:name "江竹筠" ;
-         a neo4voc:Neo4jPlugin ;
          bio:biography "烈士" ;
          neo4voc:runsOn neo4ind:neo4j355 .
 
 neo4ind:graphql3502 neo4voc:name "闫肃" ;
-         a neo4voc:Neo4jPlugin ;
          dc:description "作词家";
          neo4voc:runsOn neo4ind:neo4j355 .
 
 neo4ind:neo4j355 neo4voc:name "红梅赞" ;
          mo:text "红莓花儿开，朵朵放光彩";
-         a neo4voc:GraphPlatform , neo4voc:AwesomePlatform.
+         a neo4voc:GraphPlatform .
