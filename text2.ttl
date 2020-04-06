@@ -21,16 +21,13 @@ figure:jiangzhuyun foaf:name "江竹筠" ;
 	rdf:_5 "裕仁";
 	rdf:_6 "东条英机";
 	rdf:_7 "冈村宁次";
-	];
-         a figure:Neo4jPlugin  .
+	]  .
 
 composer:yansu foaf:name "闫肃" ;
          dc:description "作词家";
-         dc:description "一级";
-         a composer:Neo4jPlugin .
+         dc:description "一级".
 
 song:hongmeizan dc:title "红梅赞" ;
          mo:text "红莓花儿开，朵朵放光彩";
          dc:subject figure:jiangzhuyun;
-         mo:composer composer:yansu;
-         a song:GraphPlatform.
+         mo:composer composer:yansu.
