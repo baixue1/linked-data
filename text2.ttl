@@ -1,3 +1,21 @@
+@prefix whois: <http://www.kanzaki.com/ns/whois#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix bio: <http://purl.org/vocab/bio/0.1/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix event:<http://purl.org/NET/c4dm/event.owl#>.
+@prefix owl:<http://www.w3.org/2002/07/owl#>.
+@prefix mo:<http://purl.org/ontology/mo/>.
+@prefix mm:<http://linkedmultimedia.org/sparql-mm/ns/2.0.0/function/#>.
+@prefix extrainfo:<https://raw.githubusercontent.com/baixue1/linked-data/master/data/extrainfo.ttl#>.
+@prefix song:<http://47.97.223.173/song/>.
+@prefix performer:<http://47.97.223.173/performer/>.
+@prefix figure:<http://47.97.223.173/figure/>.
+@prefix historyevent:<http://47.97.223.173/historyevent/>.
+@prefix imagery:<http://47.97.223.173/imagery>.
+@prefix composer:<http://47.97.223.173/composer/>.
+@prefix lyricist:<http://47.97.223.173/lyricist/>.
+@prefix originalperformer:<http://www.47.97.223.173/originalperformer/>.
 
 lyricist:tianhan
 	foaf:name "田汉";
