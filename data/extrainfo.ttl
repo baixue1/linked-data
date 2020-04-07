@@ -9,17 +9,22 @@ extrainfo:lyricist
     rdfs:label "lyricist";
     rdfs:comment "Raleted an arbitriary subject to a class that identifies a lyricist of the song".
 
-extrainfo: company
+extrainfo:company
     rdf:type rdf:property;
     rdfs:label "company";
     rdfs:comment "Raleted an arbitriary subject to a class that identifies a company which releases the album".
 
-extrainfo: year
+extrainfo:year
     rdf:type rdf:property;
     rdfs:label "year";
     rdfs:comment "Raleted an arbitriary subject to a class that identifies a year when the album releases".
 
-extrainfo: originalperformer
+extrainfo:originalperformer
     rdf:type rdf:property;
     rdfs:label "originalperformer";
     rdfs:comment "Raleted an arbitriary subject to a class that identifies a original performer of the album".
+
+extrainfo:name
+    rdf:type rdf:property;
+    rdfs:label "name";
+    rdf:comment "neo4j knowledge graph".
