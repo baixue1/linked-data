@@ -1,6 +1,6 @@
 @prefix dc:<http://purl.org/dc/elements/1.1/>.
 @prefix owl:<http://www.w3.org/2002/07/owl#>.
-@prefix imagery:<http://47.97.223.173/imagery>.
+@prefix imagery:<http://47.97.223.173/imagery/>.
 
 imagery:changcheng 
 	owl:sameAs <http://dbpedia.org/page/Great_Wall_of_China>;
